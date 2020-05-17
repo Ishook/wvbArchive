@@ -1,0 +1,12 @@
+office 2010的系统要求为：xp/03 x86，v sp1以上的x86/x64，无论是x86还是x64版本都不支持xp/03 x64，如果版本不符合要求就会在运行setup时提示。兼容模式可以安装，但在安装开始一两分钟后就会出错。
+然而，x64系统是兼容x86程序的，office 2010在xp/03平台里能支持x86不能支持x64是说不过去的，实际上这又是m$的把戏。可以用m$的一个调试工具application verifier让setup以为是在xp sp3里运行，这样就骗过去了。
+方法：
+1.安装运行application verifier，这工具有x86和x64， x64系统下可安装x64版本，然后用他打开office 2010的setup
+2.取消右边所有勾选，只勾compatibility下的highversionlie
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/6323182060/f1c154fb828ba61eaafa075c4e34970a314e59a6.jpg)
+3.右击highversionlie选properties调出属性，如下修改后在主界面下保存
+大版本5 小版本1 build2600 sp3.0不就是xp sp3么
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/6323182060/8c4b0b80800a19d841274b763cfa828ba71e4697.jpg)
+这样就可以正常安装了，看到进度开始走后，把刚才设置的setup.exe删除再保存，不然容易233，因为这个工具只识别文件名
+安装后运行、打补丁、wu都没问题，但一样的，mso的更新最高只能安装4092483
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/6323182060/e6eacfd2fd1f41349223ca0d2a1f95cad0c85ea6.jpg)

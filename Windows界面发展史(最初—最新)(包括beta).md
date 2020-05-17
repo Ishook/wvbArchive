@@ -1,0 +1,3946 @@
+架构：
+阶段：
+编译日期：
+***
+泄漏情况：
+镜像下载地址：
+格式镇楼[滑稽]
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/c6ec517bdab44aedd519ed7abb1c8701a38bfbcb.jpg)
+Windows 1.0 Development Release #5
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/973e1cca0a46f21f8efc0dcdfe246b600e33ae5d.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/3b3f6d47f21fbe095a96908a63600c338544ad5d.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/4ab2951ebe096b63c4d10dce04338744e9f8ac5d.jpg)
+***
+界面吐槽：鼠标好歪[喷]，时钟在之后万年不变，黑白好评，在当时这界面算好的了
+架构：16-Bit
+阶段：Development Release
+编译日期：1984/11/1
+详细版本信息：1.0 Development Release #5
+泄漏情况：已泄漏
+镜像下载地址：链接: ![](http://pan.baidu.com/s/1hrMXb2O 密码: jjpt
+Windows 1.0 Alpha
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/3b7df9500fb30f2490bbbe9dc095d143ac4b0304.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/dea568b20f2442a70a2faf3bd943ad4bd0130204.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/4f47682542a7d9331c89b6eda54bd11372f00104.jpg)
+***
+界面吐槽：字体参差不齐，简陋的画图程序（星星都画不好[阴险]）
+架构：16-Bit
+阶段：Alpha
+编译日期：1985/2/1
+详细版本信息：1.0 Alpha
+泄漏情况：已泄漏
+镜像下载地址：链接: ![](http://pan.baidu.com/s/1slrMK6x 密码: 7dsv
+Windows 1.0 Beta
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/746f643a5bb5c9ea5724517ddd39b60038f3b34a.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/43cf3cb4c9ea15ce7539b297be003af33887b24a.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/1b41aeeb15ce36d391d3d1ae32f33a87eb50b14a.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/891e72cf36d3d539f3ea5d5d3287e950372ab04a.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/553a51d2d539b6007c195d29e150352ac45cb74a.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/7627b238b6003af37d6d8efe3d2ac65c1238b64a.jpg)
+***
+界面吐槽：首次出现彩色！不过很像显示屏或显卡测试程序[喷]
+架构：16-Bit
+阶段：Beta
+编译日期：1985/5/1
+详细版本信息：1.0 Beta
+泄漏情况：已泄漏
+链接: ![](http://pan.baidu.com/s/1jHZKiNW 密码: ac9r
+Windows 1.0 Premiere Edition
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/a9d0df98a9014c0866f0753b027b020879f4f45e.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/f86dce004c086e06146362d50a087bf408d1cb5e.jpg)
+***
+界面吐槽：彩色减少！没有Beta版本绚丽，主体成黑白界面[怒](微软第一次复古作死)
+架构：16-Bit
+阶段：末自
+编译日期：1985/7/30
+详细版本信息：1.0 Premiere Edition
+泄漏情况：已公布泄漏，之前是失传的
+链接: ![](http://pan.baidu.com/s/1qYdBF6c 密码: f9bg
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/cae7042662d0f7038496ca4200fa513d2797c579.jpg)
+ 链接: ![](http://pan.baidu.com/s/1bPlg9g)
+Windows 1.02
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/fcc53b6134a85edf088ba1bd41540923dc54751a.jpg)
+界面吐槽：无区别
+架构：16-Bi
+编译日期：1986/1/16
+详细版本信息：1.02
+泄漏情况：已发布
+链接: ![](http://pan.baidu.com/s/1i5ueX4x 密码: mngn
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/5ee3ed83b9014a901d2b1823a1773912b21bee09.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/ca76de004a90f6039fa5c2d93112b31bb151ed09.jpg)
+就是关于加了点信息
+1.03: ![](http://pan.baidu.com/s/1ge8fXuj 密码: 6syv
+1.04: ![](http://pan.baidu.com/s/1bpifWhL 密码: ydgd
+Windows 2.01
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/d2b1b189d43f8794e7d3a2b0da1b0ef41ad53a71.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/967cb33e8794a4c2390f0db506f41bd5ac6e3971.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/94cbe095a4c27d1e970ad15a13d5ad6edcc43871.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/c760c3c37d1ed21b48e5c47ba56eddc450da3f71.jpg)
+界面吐槽：总体冷色调，首次出现窗口，一下子高端了许多
+架构：16-Bit
+阶段：RTM
+编译日期：1987/9/8
+详细版本信息：2.01
+泄漏情况：已发布
+2.X:![](http://pan.baidu.com/s/1b8PYgu
+Windows 2.03
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/cae7042662d0f7030eb6404200fa513d2797c51a.jpg)
+***
+界面吐槽：刷版本号的
+架构：16-Bit
+阶段：RTM
+编译日期：1987/11/16
+详细版本信息：2.03
+泄漏情况：已发布
+Windows 2.1系列 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/c760c3c37d1ed21b4b77fb7ba56eddc453da3fe3.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/e4361a1fd21b0ef45d564dc0d5c451da83cb3ee3.jpg)
+Windows 3.0.14
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/f2e5f412b07eca80bdaeed79992397dda34483ff.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/d3e7d77fca806538d541708d9fdda144af3482ff.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/f08aad8165380cd74bb57673a944ad345b8281ff.jpg)
+界面吐槽：虽然关于版本号还是2.1，不过右下角显示它是3.0，主色调相对2.X系列偏紫
+架构：16-Bit
+阶段：Alpha
+编译日期：1989/2/22
+详细版本信息：3.0.14
+泄漏情况：已泄露
+链接: ![](http://pan.baidu.com/s/1nuVAtxJ 密码: cp4d
+Windows 3.0.55
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/c2f63daea40f4bfb997949ca0b4f78f0f53618fc.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/1a5bc30e4bfbfbedc8f0e1e170f0f736adc31ffc.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/e4fb2cfafbedab6467db9a5eff36afc37b311efc.jpg)
+***
+界面吐槽：Windows雏形出现，所有图标和主题几乎重制，不过没上个版本鲜艳，从此版本开始Windows霸领天下[真棒]【关于的图标是 美式下拉窗户，把窗台上半段拉到顶好像标题栏】
+架构：16-Bit
+阶段：Beta
+编译日期：1990/1/2
+详细版本信息：3.0.55
+泄漏情况：已泄露
+链接: ![](http://pan.baidu.com/s/1eSfrYQe 密码: vp92
+Windows 3.0 RC6 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/f6f45df23a87e950fbde24f218385343f9f2b45d.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/7a075d86e950352a09a8f2965b43fbf2b0118b5d.jpg)
+界面吐槽：比上个版本还灰头土面[喷]
+架构：16-Bit
+阶段：RC6
+编译日期：1990/3/7
+详细版本信息：3.0 RC6
+泄漏情况：已泄露
+链接: ![](http://pan.baidu.com/s/1nuMgTPB 密码: yk3c
+Windows 3.00 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/a9a4522bc65c10389c181f5cba119313b27e89c4.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/75dea15d103853432ba956bf9b13b07ec88088c4.jpg)
+界面吐槽：活动窗口边缘变灰
+架构：16-Bit
+阶段：RTM
+编译日期：1990/5/1
+详细版本信息：3.00
+泄漏情况：已发布
+Windows 3.00A
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/a9a4522bc65c10389cd11f5cba119313b27e89f3.jpg)
+界面吐槽：记事本出现
+架构：16-Bit
+阶段：RTM
+编译日期：1990/10/31
+详细版本信息：3.00A
+泄漏情况：已发布
+链接: ![](http://pan.baidu.com/s/1hsmF1Ec 密码: bayt
+Windows 3.00A mme 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/b2ebd9086b63f624de97e89d8f44ebf8184ca358.jpg)
+***
+界面吐槽：多了两个无卵用软件
+架构：16-Bit
+阶段：RTM
+编译日期：无
+详细版本信息：无
+泄漏情况：已发布
+Windows 3.0B 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/65ebf2cbd1c8a786ee769a906f09c93d72cf50c1.jpg)
+界面吐槽：活动窗口变蓝
+架构：？
+阶段：？
+编译日期：？
+详细版本信息：？
+泄漏情况：未泄露
+Windows 3.1 Build026
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/90566bf531adcbefa9e1ad98a4af2edda1cc9f49.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/4c0056accbef7609abde4a0126dda3cc7ed99e49.jpg)
+***
+界面吐槽：win 9x图标雏形出现，以及标题栏颜色加深变成紫色，关于的欧式窗口是什么鬼[喷]
+架构：16-Bit
+阶段：Beta 1
+编译日期：1991/4/5
+详细版本信息：3.1.026
+泄漏情况：已泄漏
+链接: ![](http://pan.baidu.com/s/1o8nPifK 密码: 6zuq
+Windows 3.1 Build034e
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/fcc53b6134a85edf8a6c23bd41540923df547545.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/1c9453a95edf8db1c3cea1fa0123dd54544e7445.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/745c39de8db1cb134089e18dd554564e90584b45.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/1e2beab0cb13495403fe35fa5e4e9258d3094a45.jpg)
+***
+界面吐槽：windows 经典的LOGO图标出现，不过颜色不一样，比正式版好看。另外右下角多了吸烟的图标【华生医生】，并且有了快速安装选项
+架构：16-Bit
+阶段：Beta 1
+编译日期：1991/6/7
+详细版本信息：3.1.034e
+泄漏情况：已泄漏
+链接: ![](http://pan.baidu.com/s/1i46FWn7 密码: yuav
+Windows 3.1 Build043e
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/efa594dfb48f8c546fcd1ab132292df5e1fe7f0c.jpg)
+***
+界面吐槽：windows 经典LOGO转为黑白颜色，华生医生成为真正的医生了
+架构：16-Bit
+阶段：Beta 2
+编译日期：1991/8/27
+详细版本信息：3.1.043e
+泄漏情况：已泄漏
+链接: ![](http://pan.baidu.com/s/1i5LPqeT 密码: z89m
+Windows 3.1 Build061d
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/6fdade399b504fc23fd7689beddde71192ef6d9e.jpg)
+***
+界面吐槽：windows 经典LOGO和一些9x图标正式定形，标题栏颜色继续加深由紫色变成深蓝
+架构：16-Bit
+阶段：Final Beta
+编译日期：1991/12/17
+详细版本信息：3.1.061d
+泄漏情况：已泄漏
+链接:![](http://pan.baidu.com/s/1eSeCadG 密码:4dwa
+Windows 3.1 Build068
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/e9f52b096e061d958ee6eca673f40ad160d9ca86.jpg)
+***
+界面吐槽：就是关于多了一些文字
+架构：16-Bit
+阶段：RC 1
+编译日期：1992/2/2
+详细版本信息：3.1.068
+泄漏情况：已泄漏
+链接: ![](http://pan.baidu.com/s/1o7T6w7S 密码: rn7e
+Windows 3.1 Build103
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/91e714f182025aaff739a455f3edab64024f1a1e.jpg)
+***
+界面吐槽：Dr.Watson不在桌面上了
+架构：16-Bit
+阶段：RTM
+编译日期：1992/3/10
+详细版本信息：3.1.103
+泄漏情况：已发布
+Windows 3.1 Build141
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/3304e5035aafa40f18e50b43a364034f79f01906.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/c2f63daea40f4bfbaff35bca0b4f78f0f6361806.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/1a5bc30e4bfbfbedfe7af3e170f0f736aec31f06.jpg)
+界面吐槽：Dr.Watson回归，字符表出现，Windows首个中文版
+***
+架构：16-Bit
+阶段：International Beta
+编译日期：1993/1/5
+详细版本信息：3.1.141
+泄漏情况：已泄露
+Windows 3.11.002
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/95cdd1013af33a87562bc584ce5c10385143b5e4.jpg)
+界面吐槽：无
+架构：16-Bit
+阶段：RTM
+编译日期：1993/12/31
+详细版本信息：3.11.002
+泄漏情况：已发布
+Windows 3.2
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/7d9932fab2fb4316f4f6bfe428a446230bf7d3bd.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/150fd5fa43166d22d59ed00a4e2309f79252d2bd.jpg)
+***
+界面吐槽：汉化改进，包括一些中国式应用程序
+架构：16-Bit
+阶段：RTM
+编译日期：1994/11/10
+详细版本信息：3.10.153
+泄漏情况：已发布
+Windows Chicago Build40 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/23d305d1f703918f2f57f954593d26975beec4a4.jpg)
+架构：16-Bit—32-Bit混合
+阶段：Pre-Beta
+编译日期：未知
+详细版本信息：4.0.40
+泄漏情况：已泄露，争议版本
+Windows Chicago Build58s 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/5ee3ed83b9014a90925d8123a1773912b11beec7.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/ca76de004a90f60316d35bd93112b31bb251edc7.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/f9f52d91f603738dcf29cbbcbb1bb051fa19ecc7.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/0a649102738da9775e4c41b5b851f8198418e3c7.jpg)
+架构：16-Bit—32-Bit混合
+阶段：Pre-Beta
+编译日期：1993/8/9
+详细版本信息：4.0.58s
+泄漏情况：已泄露
+Windows Chicago Build73f 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/eb90644e78f0f736f98b8a9f0255b319eac41328.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/43bb1ff1f736afc32e79f9fbbb19ebc4b6451228.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/38049037afc37931521d40b7e3c4b74542a91128.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/b7c2c8c279310a55ea51186abf4543a983261028.jpg)
+架构：16-Bit—32-Bit混合
+阶段：Pre-Beta
+编译日期：1993/11/24
+详细版本信息：4.0.73f
+泄漏情况：已泄露
+Windows Chicago Build73g 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/a00afe24bc315c60ce70ad7185b1cb134b5477b9.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/d9d1db305c6034a8a5077e1fc31349540b2376b9.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/fcc53b6134a85edf716938bd41540923df5475b9.jpg)
+架构：16-Bit—32-Bit混合
+阶段：Pre-Beta
+编译日期：1993/12/3
+详细版本信息：4.0.73g
+泄漏情况：已泄露
+Windows Chicago Build 99 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/0b0f9cecab64034f2b470398a7c3793108551d9f.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/bb19cc65034f78f0a3815b6d71310a55b1191c9f.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/eb90644e78f0f736fa748d9f0255b319e9c4139f.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/43bb1ff1f736afc32f86fefbbb19ebc4b545129f.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/38049037afc379315de247b7e3c4b74541a9119f.jpg)
+架构：16-Bit—32-Bit混合
+阶段：Pre-Beta
+编译日期：1994/5/10
+详细版本信息：4.0.99
+泄漏情况：已泄露
+Windows Chicago Build 116 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/d729c645ad345982798d250c04f431adcaef841b.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/e1b0ca355982b2b71c98f95a39adcbef77099b1b.jpg)
+架构：16-Bit—32-Bit混合
+阶段：Beta1
+编译日期：1994/6/2
+详细版本信息：4.0.116
+泄漏情况：已泄露
+Windows Chicago Build 122 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/f7b124a88226cffc42027c2cb1014a90f703ea7e.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/035de527cffc1e17d7974faf4290f603728de97e.jpg)
+架构：16-Bit—32-Bit混合
+阶段：Beta1
+编译日期：1994/6/11
+详细版本信息：4.0.122
+泄漏情况：已泄露
+Windows Chicago Build 180 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/d2acb608b3de9c82d21d3a116481800a18d8432d.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/91fdd4df9c82d158c8fa9a2f880a19d8bd3e422d.jpg)
+架构：16-Bit—32-Bit混合
+阶段：Beta1
+编译日期：1994/9/11
+详细版本信息：4.0.180
+泄漏情况：已泄露
+Windows 95 Build 189(代号：芝加哥) 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/3632c0eece1b9d1607a549fefbdeb48f8e5464c1.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/e71ba91a9d16fdfa540e1571bc8f8c5496ee7bc1.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/8eeffa17fdfaaf510f815220845494eef21f7ac1.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/dde29afbaf51f3de49d06afb9ceef01f382979c1.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/bd0ec850f3deb48f720b7241f81f3a292ff578c1.jpg)
+界面吐槽：Chicago正式名称Windows 95，新壁纸，新的欢迎窗口，新图标，新设置，有个鬼畜的东西
+架构：16-Bit—32-Bit混合
+阶段：Beta1
+编译日期：1994/9/22
+详细版本信息：4.0.189
+泄漏情况：已泄露
+Windows 95 Build 216(代号：芝加哥) 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/678bf92e070828389b180e8bb099a9014d08f10a.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/dedb600928381f306c0c5f36a1014c086f06f00a.jpg)
+架构：16-Bit—32-Bit混合
+阶段：Beta2
+编译日期：1994/10/27
+详细版本信息：4.0.216
+泄漏情况：已泄露
+一些迟早要完的未泄露版本
+Chicago Build 33 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/7159acee76094b364cc8c972abcc7cd98f109dc9.jpg)
+Chicago Build 28 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/8b1b11084b36acafcfba446374d98d1003e99cc9.jpg)
+Chicago Build 15b
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/36fd2c37acaf2edd41ab9b76851001e93b0193c9.jpg)
+Chicago Build 21i
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/0bc2cbae2edda3cc9fbe6abf09e93901233f92c9.jpg)
+Chicago Build 34
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/ec5b49dca3cc7cd96977e6463101213fba0e91c9.jpg)
+Chicago Build 36 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/6e29c4cd7cd98d10e48edeae293fb80e79ec90c9.jpg)
+***
+Chicago Build 38 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/e3381bd88d1001e9df66c690b00e7bec56e797c9.jpg)
+Chicago Build 45 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/3c2dea1101e93901c6585fa173ec54e734d196c9.jpg)
+Windows 95 Build 222(代号：芝加哥)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/c6ec517bdab44aed5720637bbb1c8701a08bfb3d.jpg)
+***
+界面吐槽：有水印了，不过是在壁纸上的
+架构：16-Bit—32-Bit混合
+阶段：Beta2
+编译日期：1994/11/10
+详细版本信息：4.0.222
+泄漏情况：已泄露
+Windows 95 Build 224(代号：芝加哥) 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/2c75e70b19d8bc3ea6c6db558a8ba61eaad3455c.jpg)
+界面吐槽：无
+架构：16-Bit—32-Bit混合
+阶段：Beta2
+编译日期：1994/10/28
+详细版本信息：4.0.224
+泄漏情况：已泄露
+Windows 95 Build 225(代号：芝加哥) 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/90566bf531adcbefaa9ca299a4af2edda1cc9fff.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/4c0056accbef760996a3450026dda3cc7ed99eff.jpg)
+界面吐槽：Beta2的中文版，经典开始菜单定型，多了一个文本
+架构：16-Bit—32-Bit混合
+阶段：Beta2
+编译日期：1994/12/2
+详细版本信息：4.0.225
+泄漏情况：已泄露
+Windows 95 Build 267(代号：芝加哥) 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/fa55aa10728b471096122253cbcec3fdfd032361.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/8de5158a4710b912f8fc2961cbfdfc0393452261.jpg)
+***
+刷版本
+Windows 95 Build 275(代号：芝加哥) 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/fcc53b6134a85edf891620bc41540923df547588.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/9d3036db81cb39dbf659bec9d8160924a918308d.jpg)
+界面吐槽：多了这样的关机界面
+架构：16-Bit—32-Bit混合
+阶段：Beta2
+编译日期：1994/12/3
+详细版本信息：4.0.275
+泄漏情况：已泄露
+Windows 95 Build 285(代号：芝加哥)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/eb90644e78f0f736f312949e0255b319e9c413b2.jpg)
+界面吐槽：桌面背景变成纯色
+架构：16-Bit—32-Bit混合
+阶段：Beta2
+编译日期：1994/12/16
+详细版本信息：4.0.285
+泄漏情况：已泄露
+Windows 95 Build 286(代号：芝加哥)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/c13f5edab6fd5266ef56e68ba318972bd5073621.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/792fd1fc5266d016496444b79f2bd40734fa3521.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/c7b08cf91a4c510f69d038856859252dd52aa50b.jpg)
+界面吐槽：系统属性的全新形象，已定形
+架构：16-Bit—32-Bit混合
+阶段：Beta2
+编译日期：1994/12/19
+详细版本信息：4.0.286
+泄漏情况：已泄露
+Windows 95 Build 302(代号：芝加哥) 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/9d3036db81cb39db8a45a2c9d8160924a9183099.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/94f352fbe6cd7b89d89dff1c072442a7db330eb5.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/c0fe7ed9bc3eb1353cf77324ae1ea8d3fc1f4476.jpg)
+架构：16-Bit—32-Bit混合
+阶段：Beta2
+编译日期：1994/12/20
+详细版本信息：4.0.302
+泄漏情况：已泄露
+Windows 95 Build 311 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/9596e234e5dde7117a108769afefce1b9f166161.jpg)
+界面吐槽：经典开始图标定型
+架构：16-Bit—32-Bit混合
+阶段：Beta2
+编译日期：1995/1/13
+详细版本信息：4.0.311
+泄漏情况：已泄露
+Windows 95 Build 314 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/90e26e25ab18972beb2bc655eecd7b899f510a15.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/ebecf02ad40735faa7a7882696510fb30d2408cb.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/4ab2951ebe096b63536498cf04338744eaf8ac22.jpg)
+架构：16-Bit—32-Bit混合
+阶段：Beta2
+编译日期：1995/1/18
+详细版本信息：4.0.314
+泄漏情况：已泄露
+Windows 95 Build 318 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/68c0539a033b5bb57d74e1613ed3d539b400bc80.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/3b7df9500fb30f24062d2c9cc095d143af4b03eb.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/7add4af4e0fe99254bb2a8cf3ca85edf8fb171ed.jpg)
+架构：16-Bit—32-Bit混合
+阶段：Beta2
+编译日期：1995/1/23
+详细版本信息：4.0.318
+泄漏情况：已泄露
+Windows 95 Build 324 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/11c9419659ee3d6dc52244544b166d224d4adebb.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/23d305d1f703918f2a6cfe55593d26975beec4e2.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/cde466e83901213f60738c435ce736d12d2e95e7.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/11fbbef8d72a605989f622852034349b013bba45.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/c7b08cf91a4c510f700221856859252dd62aa565.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/c2d2a8fd1e178a82e7bbbc3ffe03738dab77e8a4.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/cae7042662d0f703184b564300fa513d2497c5ae.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/3632c0eece1b9d16172159fefbdeb48f8e546445.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/dde29afbaf51f3de59547afb9ceef01f38297945.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/d729c645ad3459827873260d04f431adc9ef84ae.jpg)
+架构：16-Bit—32-Bit混合
+阶段：Beta2
+编译日期：1995/1/30
+详细版本信息：4.0.324
+泄漏情况：已泄露
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/ef371e300a55b319bdac40ea4ba98226cdfc17c9.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/0bc2cbae2edda3ccaf427abf09e93901233f9285.jpg)
+Windows 95 Build 331
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/f86dce004c086e066404f2d40a087bf408d1cbf3.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/4c07b0cb7bcb0a466e2b47a66363f6246a60af1e.jpg)
+***
+界面吐槽：警告图标由向下变成向上
+架构：16-Bit—32-Bit混合
+阶段：Beta2
+编译日期：1995/2/8
+详细版本信息：4.0.331
+泄漏情况：已泄露
+Windows 95 Build 337
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/36fd2c37acaf2edd6c7b8676851001e93b019399.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/d8d6150f0cf3d7cae27cf0e9fa1fbe096963a999.jpg)
+***
+界面吐槽：开机界面基本定型，但有点恐怖[啊]
+架构：16-Bit—32-Bit混合
+阶段：Beta2
+编译日期：1995/2/15
+详细版本信息：4.0.337
+泄漏情况：已泄露
+Windows 95 Build 342
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/7625482fb9389b5096c028cd8d35e5dde6116e6c.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/0fbe47a5462309f702ec648d7a0e0cf3d5cad6a0.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/8808a4cfc3fdfc03b0d62a27dc3f8794a6c226fc.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/a7e5f7ee76c6a7ef2f1860b9f5faaf51f2de666d.jpg)
+***
+界面吐槽：开机界面已经没有黑边，美了一点，但还是有点恐怖。另外安装界面变更了一点
+***
+架构：16-Bit—32-Bit混合
+阶段：Beta2
+编译日期：1995/2/21
+详细版本信息：4.0.342
+泄漏情况：已泄露
+Windows 95 Build 345
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/0b0f9cecab64034f321a0a99a7c3793108551d4b.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/49d0cc19972bd40700ec186273899e510eb3097f.jpg)
+界面吐槽：开机界面终于不恐怖了，而且更美了
+***
+架构：16-Bit—32-Bit混合
+阶段：Beta3
+编译日期：1995/2/24
+详细版本信息：4.0.345
+泄漏情况：已泄露
+Windows 95 Build 346 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/f9f52d91f603738df067c6bdbb1bb051f919ec72.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/b2ebd9086b63f624f170f39c8f44ebf81b4ca372.jpg)
+架构：16-Bit—32-Bit混合
+阶段：Beta3
+编译日期：1995/3/8
+详细版本信息：4.0.346
+泄漏情况：已泄露
+Windows 95 Build 347
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/7627b238b6003af394afe9e03d2ac65c1138b60a.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/dba428c3d56285353ccee7a198ef76c6a6ef637d.jpg)
+***
+界面吐槽：开机界面又不恐怖了[滑稽]
+架构：16-Bit—32-Bit混合
+阶段：Beta3
+编译日期：1995/3/17
+详细版本信息：4.0.347
+泄漏情况：已泄露
+Windows 95 Build 405 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/3304e5035aafa40f0834fb5da364034f7af019b0.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/d7dfb30635fae6cd4e709ee107b30f2440a70f5a.jpg)
+界面吐槽：开机界面又开始恐怖了，没有下边的箭头了，开机界面边缘是会变化的彩色架构：16-Bit—32-Bit混合
+阶段：Beta3
+编译日期：1995/2/14
+详细版本信息：4.0.405
+泄漏情况：已泄露
+Windows 95 Build 420
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/edbfb61273f0820265e0a6bf43fbfbedaa641b30.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/4aa1d418ebc4b7450e2f8096c7fc1e17888215ef.jpg)
+界面吐槽：另类的经典开始图标。而且安装界面标题栏天蓝色重现
+架构：16-Bit—32-Bit混合
+阶段：Beta2
+编译日期：1995/3/8
+详细版本信息：4.0.420
+泄漏情况：已泄露
+Windows 95 Build 431 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/112ee6ca39dbb6fd785ad3a60124ab18962b3725.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/c13f5edab6fd5266fb2a0a94a318972bd5073625.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/c2d2a8fd1e178a82e8af4920fe03738dab77e890.jpg)
+界面吐槽：全新的蓝天白云关机界面
+架构：16-Bit—32-Bit混合
+阶段：Beta2
+编译日期：1995/3/23
+详细版本信息：4.0.431
+泄漏情况：已泄露
+Windows 95 Build 440 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/4ab2951ebe096b6365206ed004338744eaf8ac6e.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/3632c0eece1b9d162696aae1fbdeb48f8e5464d6.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/c0fe7ed9bc3eb135c850873bae1ea8d3ff1f4494.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/3b1833e636d12f2e76949ee047c2d56287356896.jpg)
+架构：16-Bit—32-Bit混合
+阶段：Beta3
+编译日期：1995/4/6
+详细版本信息：4.0.440
+泄漏情况：已泄露
+Windows 95 Build 445
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/f3ed8cc5b74543a9c88fc94c16178a82bb01148a.jpg)
+界面吐槽：经典开始图标回归。
+架构：16-Bit—32-Bit混合
+阶段：Beta3
+编译日期：1995/4/16
+详细版本信息：4.0.445
+泄漏情况：已泄露
+Windows 95 Build 450
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/9d3036db81cb39db938255d6d8160924a91830e0.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/303b5cc69f3df8dcdc93bd11c511728b451028fc.jpg)
+***
+界面吐槽：新增网络服务相关功能
+架构：16-Bit—32-Bit混合
+阶段：Beta3
+编译日期：1995/4/20
+详细版本信息：4.0.450
+泄漏情况：已泄露
+Windows 95 Build 456
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/3632c0eece1b9d162aeba6e1fbdeb48f8d546473.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/11c9419659ee3d6d2b55ba4b4b166d224d4ade90.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/68c0539a033b5bb569441d7e3ed3d539b400bc90.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/23d305d1f703918fd7fb014a593d269758eec479.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/b6f7148ca9773912e1f8b8e1f0198618347ae24d.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/f2e5f412b07eca80d4d20467992397dda3448354.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/512bceed8a13632716c7feb3998fa0ec09fac779.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/d7dfb30635fae6cd563996e107b30f2440a70f91.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/d1d7f0dca144ad34ef95bb07d8a20cf430ad8579.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/b32ad38e8c5494ee2d08339925f5e0fe98257e79.jpg)
+界面吐槽：全新的安装向导图片，而且出现msn新闻
+架构：16-Bit—32-Bit混合
+阶段：Beta3
+编译日期：1995/4/27
+详细版本信息：4.0.456
+泄漏情况：已泄露
+Windows 95 Build 462
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/e17fe0d7277f9e2f678b21881730e924ba99f3ed.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/c722407e9e2f070849bb1680e124b899ab01f2ed.jpg)
+***
+界面吐槽：邮件图标出现
+架构：16-Bit—32-Bit混合
+阶段：Beta3
+编译日期：1995/5/2
+详细版本信息：4.0.462
+泄漏情况：已泄露
+Windows 95 Build 468 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/94f352fbe6cd7b89b2090503072442a7d8330e39.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/bb06d5109313b07e64f56f8804d7912395dd8cdf.jpg)
+架构：16-Bit—32-Bit混合
+阶段：Beta3
+编译日期：1995/5/10
+详细版本信息：4.0.468
+泄漏情况：已泄露
+Windows 95 Build 480
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/e772ae167f3e6709cd0f7b7f33c79f3df9dc5513.jpg)
+***
+界面吐槽：桌面文本消失
+架构：16-Bit—32-Bit混合
+阶段：RC1
+编译日期：1995/5/24
+详细版本信息：4.0.480
+泄漏情况：已泄露
+Windows 95 Build 484
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/dc76b659ccbf6c8170d61568b43eb13531fa4046.jpg)
+***
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/8c4b0b80800a19d84ee2bd853bfa828ba41e4646.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/fefd0c62f6246b6082ed8bf4e3f81a4c530fa240.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/68c0539a033b5bb5554e197e3ed3d539b400bc8e.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/70ba421e95cad1c85832c5a7773e6709cb3d519e.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/5d616d7a02087bf463196e69fad3572c13dfcfaa.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/b6d00c610c3387447b2616fc590fd9f9d52aa040.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/3b1833e636d12f2e71e697e047c2d56287356840.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/bd0ec850f3deb48f54f0985ef81f3a292ff5788e.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/8f0879168a82b9010325fab37b8da9773b12ef9f.jpg)
+***
+界面吐槽：安装向导图片再次换一批，正式定型
+架构：16-Bit—32-Bit混合
+阶段：RC1
+编译日期：1995/5/31
+详细版本信息：4.0.484
+泄漏情况：已泄露
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/f9e6affdc3cec3fdede09ef5de88d43f8594274c.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/f1c154fb828ba61e5f1ff1af4934970a324e59b6.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/b7f7f68ea0ec08fa27842a2751ee3d6d57fbda9b.jpg)
+Windows 95 Build 490
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/678bf92e070828384235e794b099a9014d08f16f.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/83099b029245d688c53e8824acc27d1ed31b2462.jpg)
+界面吐槽：资源管理器上的关于上的数字(例如4.00.xxx)被Windows 95字样替代
+架构：16-Bit—32-Bit混合
+阶段：RC1
+编译日期：1995/6/9
+详细版本信息：4.0.490
+泄漏情况：已泄露
+Windows 95 Build 708 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/792fd1fc5266d0161601bba89f2bd40734fa350e.jpg)
+***
+Windows 95 Build 720 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/f6093567d01609248b3d879bdc0735fae7cd340e.jpg)
+Windows 95 Build 810
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/1292b7170924ab18b60ec4b73dfae6cd7a890b0e.jpg)
+Windows 95 Build 812
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/90e26e25ab18972bf622254aeecd7b899f510a0e.jpg)
+Windows 95 Build 852
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/49d0cc19972bd40716dff67d73899e510eb3090e.jpg)
+从此Windows 95 rtm就这样了
+Windows Nashville Build 999
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/f243b7a30cf431ad781667b94336acaf2cdd985b.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/90566bf531adcbefc2f05a86a4af2edda1cc9f5b.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/4c0056accbef7609fecfbd1f26dda3cc7ed99e5b.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/8eeffa17fdfaaf512271a53f845494eef21f7a91.jpg)
+界面吐槽：一些win98的组件出现，命令行版本标识已变
+架构：16-Bit—32-Bit混合
+阶段：Beta
+编译日期：1995/11/29
+详细版本信息：4.1.999
+泄漏情况：非官方已泄露，微软未发布的版本
+Windows Nashville 所有 Build 列表
+4.10.960 已确认假货
+4.10.999 唯一的真实而且泄露的版本
+4.10.1000 已确认假货
+4.10.1055 ？
+4.10.1167 ？
+4.10.1265 已确认假货
+Windows Nashville 完
+Windows Memphis Build 1113 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/f1c154fb828ba61e47a6e9af4934970a324e59df.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/730ee58aa61ea8d30d6a55849f0a304e271f58df.jpg)
+***
+界面吐槽：基于Windows 95 OSR2.1 Beta 1开发，命令行已出现 Memphis
+架构：16-Bit—32-Bit混合
+阶段：Alpha
+编译日期：1996/6/28
+详细版本信息：4.03.1113
+泄漏情况：已泄露
+Windows Memphis Build 1132 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/f3ed8cc5b74543a9b93fda4c16178a82b801147a.jpg)
+架构：16-Bit—32-Bit混合
+阶段：Alpha
+编译日期：1996/8/22
+详细版本信息：4.03.1132
+泄漏情况：已泄露
+Windows Memphis Build 1351
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/0253be32c895d143852dc4a37bf0820258af07cf.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/99c7af94d143ad4bf87566408a025aafa60f06cf.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/8861b642ad4bd113599697b252afa40f49fb05cf.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/91b7ca4ad11373f0a9644f1fac0f4bfbf9ed04cf.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/edbfb61273f0820276c9b1bf43fbfbeda9641bcf.jpg)
+界面吐槽：新安装程序以及新开机画面，版本标识改为Memphis，水印首次出现，文本文件关联改为写字板
+架构：16-Bit—32-Bit混合
+阶段：Pre-Beta
+编译日期：1996/12/12
+详细版本信息：4.1.1351
+泄漏情况：已泄露
+Windows Memphis Build 1387 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/3632c0eece1b9d163745b9e1fbdeb48f8e5464a1.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/e71ba91a9d16fdfa64eee56ebc8f8c5496ee7ba1.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/8eeffa17fdfaaf513f61a23f845494eef21f7aa1.jpg)
+架构：16-Bit—32-Bit混合
+阶段：Pre-Beta
+编译日期：1997/2/5
+详细版本信息：4.1.1387
+泄漏情况：已泄露
+Windows Memphis Build 1400 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/89e3183f6709c93d88aa2377973df8dcd30054cf.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/3fca0008c93d70cfc2a2878df0dcd100b8a12bcf.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/27fdae3c70cf3bc76558e06cd900baa1cf112acf.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/89c917ce3bc79f3d03b9c9b0b2a1cd11708b29cf.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/303b5cc69f3df8dc2d65a211c511728b451028cf.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/7b33f83cf8dcd10047c4d5a17a8b4710bb122fcf.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/dfc99fddd100baa133746a3b4f10b912cafc2ecf.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/b828b601baa1cd118dee5fa0b112c8fcc1ce2dcf.jpg)
+架构：16-Bit—32-Bit混合
+阶段：Beta1
+编译日期：1997/2/24
+详细版本信息：4.1.1400
+泄漏情况：已泄露
+Windows Memphis Build 1411 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/792fd1fc5266d0161eddb3a89f2bd40737fa355a.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/f6093567d0160924b3e18f9bdc0735fae4cd345a.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/1292b7170924ab188ed2ccb73dfae6cd79890b5a.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/90e26e25ab18972bcefe2d4aeecd7b899c510a5a.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/49d0cc19972bd4072e03fe7d73899e510db3095a.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/ebecf02ad40735fafa34633996510fb30d24085a.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/d7dfb30635fae6cd667086e107b30f2440a70f5a.jpg)
+架构：16-Bit—32-Bit混合
+阶段：Beta1
+编译日期：1997/3/13
+详细版本信息：4.1.1411
+泄漏情况：已泄露
+Windows Memphis Build 1415 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/50cc3442fbf2b2110e0aa9cec28065380dd78e7b.jpg)
+架构：16-Bit—32-Bit混合
+阶段：Beta1
+编译日期：1997/3/17
+详细版本信息：4.1.1415
+泄漏情况：已泄露
+Windows Memphis Build 1423 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/f32afb83d158ccbf8ec999ba11d8bc3eb035412a.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/dc76b659ccbf6c8163420068b43eb13532fa402a.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/91acabbe6c81800afd90a58eb93533fa838b472a.jpg)
+***
+界面吐槽：Memphis大部分特性流失，快速启动栏、休眠、新文件资源管理器、扁平化元素通通消失！IE4变为IE3！特大差评！
+架构：16-Bit—32-Bit混合
+阶段：Beta1
+编译日期：1997/4/8
+详细版本信息：4.1.1423
+泄漏情况：已泄露
+Windows Memphis Build 1434 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/a6391c889e510fb310925b17d133c895d3430c9f.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/3b7df9500fb30f246211c083c095d143af4b039f.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/dea568b20f2442a7f885d125d943ad4bd313029f.jpg)
+架构：16-Bit—32-Bit混合
+阶段：Beta1
+编译日期：1997/4/22
+详细版本信息：4.1.1434
+泄漏情况：已泄露
+Windows Memphis Build 1488 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/a6391c889e510fb310eb5b17d133c895d3430cb0.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/3b7df9500fb30f246268c083c095d143af4b03b0.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/dea568b20f2442a7f8fcd125d943ad4bd31302b0.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/4f47682542a7d933ea5ac8f3a54bd11371f001b0.jpg)
+架构：16-Bit—32-Bit混合
+阶段：Beta1
+编译日期：1997/4/24
+详细版本信息：4.1.1488
+泄漏情况：已泄露
+Windows Memphis Build 1500 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/6050212209f79052ed7d68be04f3d7ca79cbd5c1.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/06d76ef69052982204511643dfca7bcb0846d4c1.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/4903f7539822720e7baccd7a73cb0a46f01fabc1.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/d0a6ff23720e0cf3af95617b0246f21fbc09aac1.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/d8d6150f0cf3d7ca029410f6fa1fbe096963a9c1.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/32fa6bf2d7ca7bcb7019e8afb6096b63f424a8c1.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/4c07b0cb7bcb0a468940a4b96363f6246960afc1.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/973e1cca0a46f21fc25671d3fe246b600e33aec1.jpg)
+架构：16-Bit—32-Bit混合
+阶段：Beta1
+编译日期：1997/5/12
+详细版本信息：4.1.1500
+泄漏情况：已泄露
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/e1b0ca355982b2b777c5164439adcbef74099bc9.jpg)
+Windows Memphis Build 1511
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/1c9453a95edf8db1ad4fc3e60123dd54544e74c0.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/745c39de8db1cb132e088391d554564e90584bc0.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/1e2beab0cb134954617f57e65e4e9258d3094ac0.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/cd45ac1249540923b408dcfc9a58d109b1de49c0.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/8be72e550923dd543c1218ead909b3de9e8248c0.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/09a06e22dd54564ef9045bbbbbde9c82d3584fc0.jpg)
+***
+界面吐槽：Setup的主题虽然摆脱了16bit的居中，但是颜色渣。Memphis其中一种开机UI从伪Micorsoft Logo换成了半透明9x Logo严重吐槽！IE的四个按钮也削成了两个按钮。。。由蓝渐渐淡出的Windows Classical好评！Setup左侧数字改为图标好评！
+架构：16-Bit 32-Bit混合
+阶段：Beta 1
+编译日期：1997年5月24日
+详细版本信息：4.10.1511
+泄露情况：已泄露
+Windows Memphis Build 1518
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/e1b0ca355982b2b7e7d8864639adcbef74099be6.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/edc03e83b2b7d0a2348ebb1fc3ef760949369ae6.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/1976d5b6d0a20cf408d7415d7e094b36aeaf99e6.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/f243b7a30cf431adf195fcbb4336acaf2cdd98e6.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/90566bf531adcbef4d73c184a4af2edda1cc9fe6.jpg)
+***
+界面吐槽：Setup完美混合了两种渣渣主题。IE花纹已改为地球而OE还没改。桌面默认图标继续改动。
+架构：16-Bit 32-Bit混合
+阶段：Beta 1
+编译日期：1997年6月9日
+详细版本信息：4.10.1518
+泄露状态：已泄露
+Windows Memphis Build 1525
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/3632c0eece1b9d16a85d24e3fbdeb48f8e54648b.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/e71ba91a9d16fdfaf9f6786cbc8f8c5496ee7b8b.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/8eeffa17fdfaaf51a4793f3d845494eef21f7a8b.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/dde29afbaf51f3deec2807e69ceef01f3829798b.jpg)
+***
+界面吐槽：桌面图标精简化，IE版本小幅度提升，IE和Outlook均没有了完美的花纹。快速启动栏回归。查看桌面回归，由最右侧混入快速启动栏中
+架构：16-Bit 32-Bit混合
+阶段：Beta 1
+编译日期：1997年6月24日
+详细版本信息：4.10.1525
+泄露状态：已泄露
+Windows Memphis Build 1532
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/42fc1cf50ad162d918a8da9e19dfa9ec8813cde0.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/3b006dd062d9f2d3bc579c6da1ec8a136127cce0.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/4a2505d8f2d3572cfda4245e8213632760d0c3e0.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/222d95d2572c11df449707a16b2762d0f503c2e0.jpg)
+***
+界面吐槽：所以桌面图标又改了是吗。。。IE版本细小变动。而且资源管理器开始变化
+架构：16-Bit 32-Bit混合
+阶段：Beta 1
+编译日期：1997年6月25日
+详细版本信息：4.10.1532
+泄露状态：已泄露
+Windows Memphis Build 1538
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/42fc1cf50ad162d91557c79e19dfa9ec8813cde9.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/3b006dd062d9f2d3bfa8816da1ec8a136127cce9.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/4a2505d8f2d3572cf85b395e8213632760d0c3e9.jpg)
+***
+界面吐槽：桌面图标改来改去很有意思吗？Setup主题依旧不改。。。这个版本依旧着重于IE的更新。
+架构：16-Bit 32-Bit混合
+阶段：Beta 1 Beta 2（？）注明安装程序写的是Beta One，BA写的是Beta 1，但是TCB却是Beta 2。
+编译日期：1997年7月7日，香港回归6天[滑稽]
+详细版本信息：4.10.1538
+泄漏情况：已泄漏
+Windows Memphis Build 1544
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/91b7ca4ad11373f02d1bcb1dac0f4bfbfaed0405.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/edbfb61273f08202eab635bd43fbfbedaa641b05.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/91e714f182025aaf1516da49f3edab64024f1a05.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/3304e5035aafa40ff9e26a5fa364034f79f01905.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/c2f63daea40f4bfb48f43ad60b4f78f0f6361805.jpg)
+***
+界面吐槽：Setup，水印均改为Windows 98，但系统信息显示为95，开机显示Memphis。还有全新IE4，亮瞎吧友们的双眼！
+架构：16-Bit 32-Bit混合
+阶段：Beta 2
+编译日期：1997年7月15日
+详细版本信息：4.10.1544
+泄漏情况：已泄漏
+Windows 98 Build 1546
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/5fc48e25b899a901912bfcb415950a7b0308f508.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/a9d0df98a9014c08b0258f27027b02087af4f408.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/f86dce004c086e06c2b698c90a087bf40bd1cb08.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/e9f52b096e061d95ea5890ba73f40ad163d9ca08.jpg)
+***
+界面吐槽：系统属性死活不改98.。。。全新欢迎来到Windows 98已上线！，而且出现新的开机画面
+架构：16-Bit 32-Bit混合
+阶段：Beta 2
+编译日期：1997年7月25日
+详细版本信息：4.10.1546
+泄漏情况：已泄漏
+Windows 98 Build 1559
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/dde29afbaf51f3dee5fc1ee69ceef01f382979df.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/bd0ec850f3deb48fde27065cf81f3a292ff578df.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/efa594dfb48f8c54c79d62ad32292df5e2fe7fdf.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/b32ad38e8c5494eea46ca89b25f5e0fe9b257edf.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/f47beb5594eef01f6f5abf47e8fe9925be317ddf.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/cca0f3eff01f3a297b86724c9125bc315e607cdf.jpg)
+***
+面吐槽：Setup万年不变的主题终究还是改了。。。默认背景变动好评！控制面板蓝色，My Computer蓝色好评！活动桌面好评！资源管理器大改好评！
+架构：16-Bit 32-Bit混合
+阶段：Beta 2
+编译日期：1997年8月4日
+详细版本信息：4.10.1559
+泄漏情况：已泄漏
+Windows 98 Build 1569 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/3b3f6d47f21fbe096f3e659663600c338544adc1.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/4ab2951ebe096b63f379f8d204338744e9f8acc1.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/b2ebd9086b63f6246d3d9f818f44ebf8184ca3c1.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/fefd0c62f6246b600b6e14f6e3f81a4c530fa2c1.jpg)
+***
+界面吐槽：为什么默认背景又改回去了[喷]explorer，Welcome to Windows 98进一步完善，explorer扁平化好评！IE OE Netm启动画面好评！
+架构：16-Bit 32-Bit混合
+阶段：Beta 2
+编译日期：1997年8月18日
+详细版本信息：4.10.1569
+泄漏情况：已泄漏
+Windows 98 Build 1577
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/3c2dea1101e939011be12cbc73ec54e734d19642.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/cde466e83901213f83d0ef5e5ce736d12d2e9542.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/411d5e00213fb80e4732c0553ed12f2ebb389442.jpg)
+***
+界面吐槽：我的电脑图标改善，部分APP启动画面更改。
+架构：16-Bit 32-Bit混合
+阶段：Beta 2
+编译日期：1997年8月28日
+详细版本信息：4.10.1577
+泄漏情况：已泄漏
+Windows 98 Build 1581(V.1） 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/f08aad8165380cd7b76b026fa944ad3458828134.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/8a7402390cd79123b09534f6a5345982b3b78034.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/25cc6bd6912397dd890c38865182b2b7d1a28734.jpg)
+***
+界面吐槽：控制面板多了一个图标
+架构：16-Bit 32-Bit混合
+阶段：Beta 2
+编译日期：1997年9月5日
+详细版本信息：4.10.1581.1
+泄漏情况：已泄漏
+Windows 98 Build 1588 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/d7dfb30635fae6cddb360be307b30f2440a70fa3.jpg)
+***
+这个版本仅在中国被证实存在，由于截图太少，且不确定其详细信息，所以无法记录太多。
+架构：16-Bit 32-Bit混合
+阶段：Beta 2
+详细版本信息：4.10.1588
+泄漏情况：未泄露
+Windows 98 Build 1602
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/327f2011b912c8fc4677554ff4039245d48821a5.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/07e4de13c8fcc3ce45446ab19a45d688d63f20a5.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/f9e6affdc3cec3fd7bba04f7de88d43f859427a5.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/8808a4cfc3fdfc031afc403adc3f8794a6c226a5.jpg)
+***
+界面吐槽：噫，Beta回归2.1...桌面图标不改CEO就会死，活动桌面继续变动
+架构：16-Bit 32-Bit混合
+阶段： Beta 3 ( Official Beta 2.1)
+编译日期：1997年10月3日
+详细版本信息：4.10.1602
+泄漏情况：已泄漏
+Windows 98 Build 1614
+TNOC在1997年10月26日宣布了它，但无法找到真正系统，所以无法判断其真实性。
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/f86dce004c086e06c7b49dc90a087bf40bd1cb0e.jpg)
+***
+界面吐槽：此主题疑似个人更改，所以界面吐槽不予公布。
+架构：16-Bit 32-Bit混合
+阶段：Beta 3
+详细版本信息：4.10.1614
+泄漏情况：未泄露
+Windows 98 Build 1619 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/edc03e83b2b7d0a22765a61fc3ef760949369afd.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/1976d5b6d0a20cf41d3c5c5d7e094b36aeaf99fd.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/f243b7a30cf431ade67ee1bb4336acaf2cdd98fd.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/90566bf531adcbef5898dc84a4af2edda1cc9ffd.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/4c0056accbef760964a73b1d26dda3cc7ed99efd.jpg)
+***
+界面吐槽：1602削减的explorer被改回来而且回归啦，全新Welcome to Windows 98![太开心]
+架构：16-Bit 32-Bit
+混合阶段： Beta 3
+编译日期：1997年10月27日
+详细版本信息：4.10.1619
+泄漏情况：已泄漏
+Windows 98 Build 1624
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/a9d0df98a9014c08b6818527027b020879f4f4f4.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/f86dce004c086e06c41292c90a087bf408d1cbf4.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/e9f52b096e061d95d0fc9aba73f40ad160d9caf4.jpg)
+***
+界面吐槽：这个版本设计了很多定型或重要的设计![太开心]比如IE、OE新图标，更改后的explorer...
+架构：16-Bit 32-Bit
+混合阶段： Beta 3
+编译日期：1997年11月5日
+详细版本信息：4.10.1624
+泄漏情况：已泄漏
+Windows 98 Build 1629
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/06d76ef69052982285119541dfca7bcb0b46d40c.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/4903f7539822720ef4ec4e7873cb0a46f31fab0c.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/d0a6ff23720e0cf32ed5e2790246f21fbf09aa0c.jpg)
+***
+界面吐槽：关于的版本终于换成了Windows98...开机画面显示为Beta 3，开机画面的微标闪光特效减弱差评。
+架构：16-Bit 32-Bit
+混合阶段： Beta 3
+编译日期：1997年11月10日
+详细版本信息：4.10.1629
+泄漏情况：已泄漏
+Windows 98 Build 1633
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/592cdb3fb13533faea743faca0d3fd1f43345b63.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/fccad63433fa828bcfe13161f51f4134950a5a63.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/f1c154fb828ba61ec22c64ad4934970a324e5963.jpg)
+***
+界面吐槽：这个版本主要是改进活动桌面。
+架构：16-Bit 32-Bit
+混合阶段： Beta 3
+编译日期：1997年11月17日
+详细版本信息：4.10.1633
+泄漏情况：近期泄漏的版本，2015年8月泄露
+Windows 98 Build 1650(V.3)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/dedb600928381f303827232ba1014c086f06f068.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/47fc4f391f30e9246a9a32b344086e061c95f768.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/68cc7831e924b8997a02d7ba66061d950b7bf668.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/5fc48e25b899a901980bf5b415950a7b0308f568.jpg)
+***
+界面吐槽：这个版本修改了Setup的介绍，完善活动桌面，还有部分应用的开启画面，第一次出现磁盘清理功能！[真棒]
+架构：16-Bit 32-Bit
+混合阶段： Beta 3
+编译日期：1997年12月3日
+详细版本信息：4.10.1650.3
+泄漏情况：已泄漏
+Windows 98 Build 1650(V.8)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/6050212209f790526c76e9bc04f3d7ca7acbd539.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/06d76ef690529822875a9741dfca7bcb0b46d439.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/4903f7539822720efaa74c7873cb0a46f31fab39.jpg)
+***
+界面吐槽：。。。没啥区别吗，就是修了bug
+架构：16-Bit 32-Bit
+混合阶段： Beta 3
+编译日期：1997年12月9日
+详细版本信息：4.10.1650.8
+泄漏情况：已泄漏
+Windows 98 Build 1658
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/fa55aa10728b4710c457544ecbcec3fdfd032329.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/8de5158a4710b912b6b95f7ccbfdfc0393452229.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/327f2011b912c8fcbc8b5f4ff4039245d7882129.jpg)
+***
+界面吐槽：大家喜欢的蓝色背景和Windows 98字样登场！
+架构：16-Bit 32-Bit
+混合阶段： Beta 3
+编译日期：1997年12月17日
+详细版本信息：4.10.1658
+泄漏情况：已泄漏
+Windows 98 Build 1666（问题来了，为什么没有2333[滑稽]）
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/4c0056accbef76096149301d26dda3cc7ed99ee3.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/7159acee76094b3687d0b26fabcc7cd98f109de3.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/8b1b11084b36acaf02a23f7e74d98d1003e99ce3.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/36fd2c37acaf2edd8eb3e06b851001e93b0193e3.jpg)
+***
+界面吐槽：全新Welcome to Windows 98!
+架构：16-Bit 32-Bit
+混合阶段： Beta 3
+编译日期：1998年1月12日
+详细版本信息：4.10.1666
+泄漏情况：已泄漏
+Windows 98 Build 1676
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/c13f5edab6fd526641769496a318972bd60736cc.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/792fd1fc5266d0169b4436aa9f2bd40737fa35cc.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/f6093567d016092438780a99dc0735fae4cd34cc.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/1292b7170924ab18034b49b53dfae6cd79890bcc.jpg)
+***
+界面吐槽：小幅度更新IE，映像应用汉化完成。
+架构：16-Bit 32-Bit
+混合阶段： Beta 3
+编译日期：1998年1月29日
+详细版本信息：4.10.1676
+泄漏情况：已泄漏
+Windows 98 Build 1681
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/f7b124a88226cffcab641730b1014a90f403ead8.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/035de527cffc1e173cf124b34290f603718de9d8.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/c2d2a8fd1e178a820e72d722fe03738dab77e8d8.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/8f0879168a82b901f2e36bb17b8da9773b12efd8.jpg)
+***
+界面吐槽：快速启动栏小幅度改变，计算器UI变化
+架构：16-Bit 32-Bit
+混合阶段： Beta 3
+编译日期：1998年2月2日
+详细版本信息：4.10.1681
+泄漏情况：已泄漏
+Windows 98 Build 1687
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/8f0879168a82b901f2726bb17b8da9773b12ef4f.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/5ee3ed83b9014a904fe1ee3fa1773912b11bee4f.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/ca76de004a90f603c96f34c53112b31bb251ed4f.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/f9f52d91f603738d1295a4a0bb1bb051fa19ec4f.jpg)
+***
+界面吐槽：开机画面接近正式版！我的文档内文件夹失踪。。。
+架构：16-Bit 32-Bit
+混合阶段： Beta 3
+编译日期：1998年2月9日
+详细版本信息：4.10.1687
+泄漏情况：已泄漏
+Windows 98 Build 1691
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/592cdb3fb13533fae1b338aca0d3fd1f40345b24.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/fccad63433fa828bc2263661f51f4134960a5a24.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/f1c154fb828ba61ecdeb63ad4934970a314e5924.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/730ee58aa61ea8d39b27df869f0a304e241f5824.jpg)
+界面吐槽：Outlook小幅度改变
+架构：16-Bit 32-Bit
+混合阶段： RC 0Official (Release Candidate 0)
+编译日期：1998年2月16日
+详细版本信息：4.10.1691
+泄漏情况：已泄漏
+Windows 98 Build 1702
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/6fdade399b504fc2ecab1b87eddde71192ef6db5.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/f9ccfc514fc2d562bffc7b6fef1190ef74c66cb5.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/dba428c3d5628535de1479a398ef76c6a5ef63b5.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/0f36b2638535e5dddbd80e5d7ec6a7efcc1b62b5.jpg)
+***
+界面吐槽：背景变丑了。。。桌面图标有改动，熟悉的功能一步一步完善[真棒]
+架构：16-Bit 32-Bit混合
+阶段： Pre-RC1
+编译日期：1998年3月3日
+详细版本信息：4.10.1702
+泄漏情况：已泄漏
+Windows 98 Build 1713
+界面吐槽：主题细微改动，NetMeeting终于摆脱Beta水印[太开心]
+架构：RC1
+编译日期：1998年3月19日
+详细版本信息：4.10.1713
+泄露情况：已泄露
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/d01b11c7a7efce1bdd556248a751f3deb58f652f.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/3632c0eece1b9d16bcb930e3fbdeb48f8d54642f.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/e71ba91a9d16fdfaed126c6cbc8f8c5495ee7b2f.jpg)
+Windows 98 Build 1720
+界面吐槽：Setup终于成型！[吐舌]但是。。。为什么默认主题改了。。。
+架构： 16 Bit 32 Bit混合
+阶段：RC1编译日期：1998年3月25日
+详细版本信息：4.10.1720
+泄露情况：于2015年12月17日泄露
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/bdeb2635970a304e4ce30a78d9c8a786cb175c60.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/01c0f00b304e251fff364e7aaf86c9177d3e5360.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/d7fe574f251f95caba343834c1177f3e65095260.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/70ba421e95cad1c8cb7a56a5773e6709cb3d5160.jpg)
+Windows 98 Build 1721（V.3）
+界面吐槽：之前所做的一切都没了啊。。。QAQ
+架构：16Bit 32 Bit混合
+阶段：RC1
+编译日期：1998年3月30日
+详细版本信息：4.10.1721.3
+泄露情况：2014年7月6日泄露
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/97de0758252dd42a2ce894290b3b5bb5cbeab840.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/20ad422cd42a28343147a38953b5c9ea17cebf40.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/65d9b32b2834349b05e7fb07c1ea15ce34d3be40.jpg)
+Windows 98 Build 1723（V.4）
+界面吐槽：MS知错就改，好评！[吐舌]“对不起，这是一个不可描述的系统文件夹”界面设计大改！
+架构：16 Bit 32 Bit混合
+阶段：RC2
+编译日期：1998年3月10日
+详细版本信息：4.10.1723.4
+泄露情况：已泄露
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/9d3036db81cb39db3dacf3d4d8160924aa18303d.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/112ee6ca39dbb6fdde3771a40124ab18962b373d.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/c13f5edab6fd52665d47a896a318972bd507363d.jpg)
+Windows 98 Build 1900（V.5）
+界面吐槽：为什么又要改啊。。。RC3了啊！一群选择恐惧症。
+架构：16 Bit 32 Bit混合
+阶段：RC3
+编译日期：1998年4月24日
+泄露情况：已泄露
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/eb90644e78f0f7360733d8830255b319e9c4135c.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/43bb1ff1f736afc3d0c1abe7bb19ebc4b545125c.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/38049037afc37931a0a512abe3c4b74541a9115c.jpg)
+Windows 98 Build 1900（V.6）
+界面吐槽：万年不改Setup。
+架构：16 Bit 32Bit混合
+阶段：RC4
+编译日期：1998年4月27日
+详细版本信息：4.10.1900.6
+泄露情况：已泄露
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/86a877395343fbf2a15631a1b87eca8064388f2b.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/50cc3442fbf2b211875412ccc28065380dd78e2b.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/13b79cf3b2119313a53968326d380cd790238d2b.jpg)
+Windows 98 Build 1998（V.6）
+界面吐槽：看来MS直到RTM还没改回来啊。。。唉。
+架构：16 Bit 32 Bit混合
+阶段：RTM[吐舌]
+编译日期：1998年5月12日
+详细版本信息：4.10.1998.6
+泄露情况：已发布
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/0b0f9cecab64034fdd7e5584a7c3793108551df2.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/bb19cc65034f78f051b80d7171310a55b1191cf2.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/eb90644e78f0f736084ddb830255b319e9c413f2.jpg)
+Windows 98 Second Edition Build 2106
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/d53eb6c9a786c9171799c2bbc13d70cf39c7578b.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/49d0cc19972bd407bb5d437f73899e510db3098b.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/49d0cc19972bd407bb07437f73899e510db30961.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/1292b7170924ab181bce71b53dfae6cd79890b49.jpg)
+***
+界面吐槽：WMP6首次出现，Outlook Express和Internet Explorer同时升级为5，并且出现类似2000的风格
+架构：16 Bit 32 Bit混合
+阶段：beta1
+编译日期：1998年11月18日
+详细版本信息：4.10.2106
+泄露情况：2014年7月6日泄露
+Windows 98 Second Edition Build 2120
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/68c0539a033b5bb5c95bbd7c3ed3d539b400bc9d.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/d0a6ff23720e0cf33d0fd3790246f21fbc09aaaa.jpg)
+***
+界面吐槽：无
+***
+架构：16 Bit 32 Bit混合
+阶段：beta1
+编译日期：1998年12月16日
+详细版本信息：4.10.2120
+泄露情况：已泄露
+Windows 98 Second Edition Build 2150 A
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/0cfc09071d950a7bca86d04602d162d9f0d3c9f3.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/b7c2c8c279310a5512d24076bf4543a9802610b7.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/d01b11c7a7efce1ba96f5648a751f3deb68f65e5.jpg)
+***
+界面吐槽： Microsoft NetMeeting升级为3.0
+***
+架构：16 Bit 32 Bit混合
+***
+阶段：beta2
+编译日期：1999年2月15日
+详细版本信息：4.10.2150A
+泄露情况：已泄露
+Windows 98 Second Edition Build 2183 A
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/750e81cc7b899e518624a1964aa7d933ca950dfb.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/06d76ef69052982290cfa241dfca7bcb0846d4ae.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/b227302d11dfa9ec47d6cd956ad0f703938fc1aa.jpg)
+***
+界面吐槽：一些组件越来越像me的组件
+***
+架构：16 Bit 32 Bit混合
+阶段：RC 1
+编译日期：1999年4月3日
+详细版本信息：4.10.2183A
+泄露情况：已泄露
+Windows 98 Second Edition Build 2222 A
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/c722407e9e2f070892f7af82e124b899ab01f2bc.jpg)
+界面吐槽：RTM！
+架构：16 Bit 32 Bit混合
+阶段：RTM
+编译日期：1999年4月23日
+详细版本信息：4.10.2222A
+泄露情况：已发布
+Windows 98完【已补充Second Edition部分】
+Windows Millennium Build 2332（V.2）
+界面吐槽：Setup字样全部更改为Millennium！开机画面更改！关于Windows完善！一部分98样式改为2k样式
+架构：X86
+阶段：Pre—Beta（Developer Release 1）
+编译日期：1999年7月13日
+详细版本信息：4.10.2332.2（2333大法）
+泄露情况：已泄露
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/4c07b0cb7bcb0a4610b70dbb6363f6246960af95.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/973e1cca0a46f21f5da1d8d1fe246b600e33ae95.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/3b3f6d47f21fbe098fcb459663600c338544ad95.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/4ab2951ebe096b63138cd8d204338744e9f8ac95.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/b2ebd9086b63f6248dc8bf818f44ebf8184ca395.jpg)
+Windows Millennium Build 2348
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/c2f63daea40f4bfb6b211fd60b4f78f0f53618b0.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/1a5bc30e4bfbfbed3aa8b7fd70f0f736adc31fb0.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/e4fb2cfafbedab649183cc42ff36afc37b311eb0.jpg)
+***
+界面吐槽：WMP升级为7！而且越来越实用化！Setup等应用设计了很多之后定型的特性！IE小幅度更新。自动更新出现
+架构：X86
+阶段：Pre—Beta（Developer Release 2）
+编译日期：1999年8月2日
+详细版本信息：4.9.2348.0
+泄露情况：已泄露
+Windows Millennium Build 2350(V.3)
+这个版本的屏幕截图是可用的，但是这一系统存在性未得到证实。
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/d7dfb30635fae6cdfbbf2be307b30f2443a70f1a.jpg)
+***
+界面吐槽：Help Center图标改变。
+架构：X86
+阶段：Pre—Beta
+编译日期：？
+详细版本信息：4.10.2350.3
+泄露情况：未泄露
+Windows Millennium Build 2368
+构建2368是一个临时构建，引用于Paul Thurrott的Windows站点中“黄金之路:开发Windows Me” 片段。根据Thurrott所述，这个构建包含了早期版本的帮助和支持和系统恢复以及活动中心。有两个截图可用。但由于截图没有提供构建信息,无法确认。
+TRPS泄露了这个构建于1999年9月8日,在旧FTP,目前(202.38.64.41)。其他地方还有待发现。
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/7a738e51352ac65ced6ce6f1f3f2b21192138a39.jpg)
+Windows Millennium Build 2380(V.2)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/79f5463eb80e7bec4f438063272eb93899506b88.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/61cbdf0f7bec54e72a75999cb1389b504dc26a88.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/f8fa1ced54e736d1328a0f8a93504fc2d7626988.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/3b1833e636d12f2ea79c2de247c2d56287356888.jpg)
+***
+界面吐槽：开机引导画面出现Beta One[吐舌]IE开发继续。
+架构：16 Bit 32 Bit混合
+阶段：Beta 1(Official beta 1)
+编译日期：1999年9月20日
+详细版本信息：4.10.2380.2
+泄露情况：已泄露
+Windows Millennium Build 2394 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/b2ebd9086b63f62489c8bb818f44ebf8184ca395.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/fefd0c62f6246b60ef9b30f6e3f81a4c530fa295.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/2b9791256b600c3363ec5c4a124c510fdbf9a195.jpg)
+***
+界面吐槽：帮助与支持中心出现！[真棒]扁平化效果大赞！而且出现系统还原功能
+架构：X86
+阶段：Beta 1
+编译日期：1999年10月12日
+详细版本信息：4.90.2394.0
+泄露情况：已泄露
+Windows Millennium Build 2404
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/06d76ef6905298222dd93d45dfca7bcb0846d447.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/4903f7539822720e6c24e67c73cb0a46f01fab47.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/d0a6ff23720e0cf3b61d4a7d0246f21fbc09aa47.jpg)
+***
+界面吐槽：帮助与支持中心，CD Player，Setup大幅度更改！桌面图标美观！开机画面Beta字样去除[真棒]
+架构：X86
+阶段：Beta 2
+编译日期：1999年10月26日
+详细版本信息：4.90.2404.0
+泄露情况：已泄露
+Windows Millennium Build 2416
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/f2e5f412b07eca80e2993e61992397dda3448389.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/d3e7d77fca8065388476a3959fdda144af348289.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/f08aad8165380cd71882a56ba944ad345b828189.jpg)
+***
+界面吐槽：帮助与支持中心大幅度更改！IE变为5.5[真棒]
+架构：X86
+阶段：Beta 2
+编译日期：1999年11月10日
+详细版本信息：4.90.2416.0
+泄露情况：2015年7月3日泄露
+Windows Millennium Build 2419
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/5ab8360ed9f9d72a0e84169bdc2a2834369bbb4d.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/11fbbef8d72a60594af0e79c2034349b013bba4d.jpg)
+***
+界面吐槽：AutoUpdate与System Restone上线！微软与Zone正式宣布合作！在线游戏一直持续到Windows 8 Build 8056.
+架构：X86
+阶段：Beta 2
+编译日期：2000年1月20日
+详细版本信息：4.90.2419.0
+泄露情况：已泄露
+Windows Millennium Build 2452
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/7625482fb9389b50edb3e1d48d35e5dde5116ed9.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/6fdade399b504fc27613b183eddde71192ef6dd9.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/f9ccfc514fc2d5622144d16bef1190ef74c66cd9.jpg)
+***
+界面吐槽：依旧是帮助与支持中心的扁平化更新
+架构：X86
+阶段：Beta 2
+编译日期：2000年1月20日
+详细版本信息：4.90.2452.0
+泄露情况：已泄露
+Windows Millennium Build 2460
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/f9ccfc514fc2d5621fb9db6bef1190ef74c66cfc.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/dba428c3d56285357e51d9a798ef76c6a5ef63fc.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/0f36b2638535e5dd7b9dae597ec6a7efcc1b62fc.jpg)
+***
+界面吐槽：默认背景终于改了！MSN向导大幅度更改！桌面的File a Bug变丑了。。。
+架构：X86
+阶段：Beta 2
+编译日期：2000年2月1日
+详细版本信息：4.90.2460.0
+泄露情况：已泄露
+Windows Millennium Build 2470
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/16baf559d109b3de262defeec4bf6c81820a4c9f.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/d2acb608b3de9c826af7f2096481800a1bd8439f.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/91fdd4df9c82d15870105237880a19d8be3e429f.jpg)
+***
+界面吐槽：全新开机画面已上线！Setup定型！
+架构：X86
+阶段：Beta 2
+编译日期：2000年2月24日
+详细版本信息：4.90.2470.0
+泄露情况：已泄露
+Windows Millennium Build 2476
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/61cbdf0f7bec54e7a5f71098b1389b504ec26a16.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/f8fa1ced54e736d1bb08868e93504fc2d4626916.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/3b1833e636d12f2e2c1ea4e647c2d56284356816.jpg)
+界面吐槽：控制面板全新风格好评！这样的风格你也可以在同期的XP测试版里看见！万年不改的Windows版本终于写上了Windows Millennium Edition字样！[太开心]架构：X86
+阶段：Beta 2
+编译日期：2000年2月24日
+详细版本信息：4.90.2476.0
+泄露情况：已泄露
+Windows Millennium Build 2481
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/4ab2951ebe096b63af0b54d604338744eaf8ac1f.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/b2ebd9086b63f624314f33858f44ebf81b4ca31f.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/fefd0c62f6246b60571cb8f2e3f81a4c500fa21f.jpg)
+***
+界面吐槽：为什么人群中关于Windows是绿的呢[吐]上网账户创建向导完善！人心化的电源对话框。
+架构：X86
+阶段：Beta 2
+编译日期：2000年3月1日
+详细版本信息：4.90.2481.0
+泄露情况：已泄露
+Windows ME Build 2487
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/8861b642ad4bd1137304bdb452afa40f49fb055b.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/91b7ca4ad11373f083f66519ac0f4bfbf9ed045b.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/edbfb61273f08202585b9bb943fbfbeda9641b5b.jpg)
+***
+界面吐槽：CD Player功能增强，Help and Support小修小改
+架构：X86
+阶段：Beta 3
+编译日期：2000年3月8日
+详细版本信息：4.90.2487.0
+泄露情况：已泄露
+Windows ME Build 2491
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/0253be32c895d143503d91a57bf0820258af07e6.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/99c7af94d143ad4b2f6533468a025aafa60f06e6.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/8861b642ad4bd1138c86c2b452afa40f49fb05e6.jpg)
+***
+界面吐槽：在这个版本中，您无需打开“系统信息”就可以在帮助与支持里查看系统详细信息，System Restone也做出了改进与优化。
+架构：X86
+阶段：Beta 3
+编译日期：2000年3月14日
+详细版本信息：4.90.2491.0
+泄露情况：已泄露
+Windows ME Build 2495
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/efa594dfb48f8c543143b0a932292df5e2fe7f9d.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/b32ad38e8c5494ee56b27a9f25f5e0fe9b257e9d.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/f47beb5594eef01f9d846d43e8fe9925be317d9d.jpg)
+界面吐槽：德语版就是独树一帜蛤。。。Setup前半段都给改回去了。
+架构：X86
+阶段：Beta 3
+编译日期：2000年3月21日
+详细版本信息：4.90.2495.0
+泄露情况：已泄露
+Windows ME Build 2509
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/c5c182dce71190efedffe659c61b9d16fcfa6021.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/a529801090ef76c63bd68fad9516fdfaae516721.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/a7e5f7ee76c6a7ef5322dca0f5faaf51f2de6621.jpg)
+***
+界面吐槽：Movie Naker教程完成！Setup为Windows Blue做下铺垫，埋下伏笔[滑稽]
+***
+架构：X86
+阶段：Beta 3
+编译日期：2000年4月13日
+详细版本信息：4.90.2509.0
+泄露情况：已泄露
+Windows ME Build 2513
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/8a7402390cd79123ec9ae0f2a5345982b3b78037.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/25cc6bd6912397dddd03ec825182b2b7d1a28737.jpg)
+***
+界面吐槽：UI无变化，开发工作即将步入晚期。
+***
+架构：X86
+阶段：Beta 3
+编译日期：2000年4月20日
+详细版本信息：4.90.2513.0
+泄露情况：已泄露
+Windows ME Build 2516
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/4f47682542a7d933322390f5a54bd11371f001a6.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/4fd025a6d933c8952af5ecfdd91373f0800200a6.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/0253be32c895d14351fd90a57bf0820258af07a6.jpg)
+***
+界面吐槽：Setup终于补回来了些东西啊。。。屏幕键盘都不自己做[喷]（昂真是怠惰呢）
+架构：X86
+阶段：Beta 3
+编译日期：2000年4月25日
+详细版本信息：4.90.2516.0
+泄露情况：已泄露
+Windows ME Build 2525（V.0）
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/967cb33e8794a4c29c7c90ad06f41bd5af6e39ca.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/94cbe095a4c27d1e30794c4213d5ad6edfc438ca.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/c760c3c37d1ed21bed965963a56eddc453da3fca.jpg)
+***
+界面吐槽：MSN图标修改，全新Welcome to Windows![真棒]示例视频出现，此实例视频一直保留到Windows XP Beta 2阶段
+架构：X86
+阶段：RC0
+编译日期：2000年5月8日
+详细版本信息：4.90.2525.0
+泄露情况：已泄露
+Windows ME Build 2525(V.6)
+***
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/e3381bd88d1001e9b3306289b00e7bec55e79719.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/3c2dea1101e93901aa0efbb873ec54e737d19619.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/cde466e83901213f343f385a5ce736d12e2e9519.jpg)
+***
+界面吐槽：MSN Gaming Zone游戏开启画面更改，完善全新的Welcome to Windows ME
+架构：X86
+阶段：Release Candidat1
+编译日期：2000年5月24日
+详细版本信息：4.90.2525.6
+泄露情况：已泄露
+Windows ME Build 2535
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/2ef27a940a7b02084bdc4e676ad9f2d3562cc810.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/5d616d7a02087bf43bf9266ffad3572c10dfcf10.jpg)
+***
+界面吐槽：Welcome to Windows ME更新依旧。
+架构：X86
+阶段：Release Candidate 2
+编译日期：2000年6月4日
+详细版本信息：4.90.2535.0
+泄露情况：已泄露
+Windows ME Build 3000
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/fefd0c62f6246b60597ac2f2e3f81a4c500fa231.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/2b9791256b600c33d10dae4e124c510fd8f9a131.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/b6d00c610c338744bcb15ffa590fd9f9d62aa031.jpg)
+***
+界面吐槽：喜闻乐见的欢迎来到Windows ME继续做更改
+架构：X86
+阶段：Release To Manufacturing（RTM!）
+编译日期：2000年6月8日
+详细版本信息：4.90.3000.0
+泄露情况：已发布
+Windows ME 完
+9x系列，9x产品线 完
+完结撒花~~~[玫瑰][滑稽][玫瑰]
+Microsoft Windows NT 3.1 1.0( (October 1991)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/8c4b0b80800a19d8387dcb833bfa828ba71e462b.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/2c75e70b19d8bc3e3476494c8a8ba61ea9d3452b.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/c0fe7ed9bc3eb135b5b9f83dae1ea8d3fc1f442b.jpg)
+***
+界面吐槽：应用大幅度增加，控制面板新增[真棒]与9x产品线的3.1匹配
+架构：x86
+阶段：Alpha
+编译日期：1991年10月1日
+详细版本信息：1.0 (October 1991)
+泄漏情况：已泄露
+Windows NT 3.1 Build 239(V.1)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/6e87ecd5b31c87014846fb602f7f9e2f0508ffbe.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/cb20d41d8701a18b6d1b5bc9962f07082a38febe.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/f3e8e000a18b87d6ccb2e2990f0828381d30fdbe.jpg)
+***
+界面吐槽：关于Windows终于不写Windows程序管理器了！不过NT3.2让我害怕[滑稽]
+架构：x86
+阶段：Alpha
+编译日期：1991年12月21日
+详细版本信息：1.0.239.1
+泄漏情况：已泄露
+Windows NT 3.1 Build 297(V.1)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/61cbdf0f7bec54e765e45098b1389b504ec26a25.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/f8fa1ced54e736d17b1bc68e93504fc2d4626925.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/3b1833e636d12f2eec0de4e647c2d56284356825.jpg)
+界面吐槽：Logoff Windows首次出现！开机画面水印出现。伪蓝屏出现
+架构：x86
+阶段：Beta 1
+编译日期：1992年6月28日
+详细版本信息：3.1.297.1
+泄漏情况：2011年4月泄露
+Windows NT 3.1 Build 340(V.1)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/ef371e300a55b3192516c8f34ba98226cdfc17ba.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/39c56d54b319ebc478973c1f8a26cffc1c1716ba.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/4aa1d418ebc4b745937bfd90c7fc1e17888215ba.jpg)
+***
+界面吐槽：管理员工具出现，脑残的CAL开机画面完善以及极其混乱的版本号
+架构：x86
+阶段：Beta 1
+编译日期：1992年10月12日
+详细版本信息：3.1.340.1
+泄漏情况：已泄露
+Windows NT 3.1 Build 404(V.1)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/746f643a5bb5c9ea3d83b765dd39b6003bf3b33d.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/43cf3cb4c9ea15ce1f9e548fbe003af33b87b23d.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/1b41aeeb15ce36d3ff7437b632f33a87e850b13d.jpg)
+***
+界面吐槽：任务管理器出现，类似于SPSS的一个统计软件进入NT 3.1
+架构：x86
+阶段：Beta 2
+编译日期：1993年3月6日
+详细版本信息：3.1.404.1
+泄漏情况：已泄露
+Windows NT 3.1 Build 438(V.1)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/746f643a5bb5c9ea3daeb765dd39b60038f3b3c8.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/43cf3cb4c9ea15ce1fb3548fbe003af33887b2c8.jpg)
+界面吐槽：计算器变得比Windows ME计算器基本型还强大
+架构：x86
+阶段：Final Beta
+编译日期：1993年4月22日
+详细版本信息：3.1.438.1
+泄漏情况：已泄露
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/2c75e70b19d8bc3ecfddb24c8a8ba61eaad34550.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/c0fe7ed9bc3eb1354c12033dae1ea8d3ff1f4450.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/592cdb3fb13533fa026327a8a0d3fd1f43345b50.jpg)
+界面吐槽：于是水印没了，Event viewer完善了
+架构：x86
+阶段：Release To Manufacturing（RTM!）
+编译日期：1993年9月11日
+详细版本信息：3.1.511.1
+泄漏情况：已发布
+Windows NT 3.5 Build 612(V.1)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/4a8f65097bf40ad191d971655f2c11dfa8ecce69.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/42fc1cf50ad162d906d3d49a19dfa9ec8b13cd69.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/3b006dd062d9f2d3a22c9269a1ec8a136227cc69.jpg)
+***
+界面吐槽：开机画面强势围观
+架构：X86
+阶段：Beta 1
+编译日期：1994年6月16日
+详细版本信息：3.5.612.1
+泄露情况：已泄露
+Windows NT 3.5 Build 756（V.1）
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/39c56d54b319ebc47d54c71f8a26cffc1f171679.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/4aa1d418ebc4b74588b80690c7fc1e178b821579.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/f3ed8cc5b74543a94e374b4a16178a82b8011479.jpg)
+***
+界面吐槽：继续出现不靠谱应用==关机变成月亮了
+架构：X86
+阶段：Release Candidate 1
+编译日期：1994年8月1日
+详细版本信息：3.5.756.1
+泄露情况：已泄露
+Windows NT 3.5 Build 782（V.1）
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/43cf3cb4c9ea15ce10cf518fbe003af33b87b20c.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/1b41aeeb15ce36d3f22532b632f33a87e850b10c.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/891e72cf36d3d5399e1cbe453287e950342ab00c.jpg)
+***
+界面吐槽：Windows NT帮助完善，继续不靠谱的开机画面。Setup新增了Windows NT介绍[钱]
+架构：X86
+阶段：Release Candidate 2
+编译日期：1994年8月18日
+详细版本信息：3.5.782.1
+泄露情况：已泄露
+Windows NT 3.5 Build 807（V.1）
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/11c9419659ee3d6d574c364d4b166d224d4adea7.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/66633eef3d6d55fbb14cc7a065224f4a22a4dda7.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/191a5a6c55fbb2fb47a1e994474a20a44423dca7.jpg)
+***
+界面吐槽：字体变得美观了！
+架构：X86
+阶段：Release Candidate 2（International Beta Korean Beta）
+编译日期：1995年2月14日
+详细版本信息：3.5.807.1
+泄露情况：已泄露
+RTM的807与楼上几乎一致，这里就不说了
+Windows NT 3.5 Build 854（V.1）
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/8eeffa17fdfaaf51d60b0939845494eef21f7a45.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/dde29afbaf51f3de925a31e29ceef01f38297945.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/bd0ec850f3deb48fab812958f81f3a292ff57845.jpg)
+***
+界面吐槽：图标改变得就像今天要管理员权限的应用图标一样==
+架构：X86
+阶段：Post-RTM
+编译日期：1995年11月19日
+详细版本信息：3.5.854.1
+泄露情况：2010年5月14日泄露
+Windows NT 3.5 完
+Windows NT 3.51 Build 944（V.1）
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/f7b124a88226cffc8ae73434b1014a90f403ea59.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/035de527cffc1e171f7207b74290f603718de959.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/c2d2a8fd1e178a822ff1f426fe03738dab77e859.jpg)
+界面吐槽：全部应用重新开发了一遍
+架构：Alpha PowerPC X86
+阶段：Beta 1
+编译日期：1995年2月10日
+详细版本信息：3.51.944.1
+泄露情况：已泄露
+Windows NT 3.51 Build 1024（V.1）
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/768ebdb54aed2e732ba271aa8f01a18b85d6fae7.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/9a402dec2e738bd4126a45b7a98b87d6257ff9e7.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/0a1949728bd4b31c2577633d8fd6277f9c2ff8e7.jpg)
+***
+界面吐槽：SETUP背景更改好评！[钱]控制面板丰富许多！
+架构：Alpha PowerPC X86
+阶段：Release Candidate 2
+编译日期：1995年4月29日
+详细版本信息：3.51.1024.1
+泄露情况：已泄露
+Windows NT 3.51 Build 1057（V.1）
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/70ba421e95cad1c8ef7f0aa1773e6709cb3d5161.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/65ebf2cbd1c8a78680eebc886f09c93d72cf5061.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/d53eb6c9a786c91735c7a4bfc13d70cf39c75761.jpg)
+界面吐槽：关机没有注销差评！Clock有什么卵用吗= = 
+架构：Alpha MIPS PC98 PowerPC x86
+阶段：Release To Manufacturing
+编译日期：1995年5月27日
+详细版本信息：3.51.1057.1
+泄露情况：已泄露
+PS;Windows NT 3.51 International Beta (Iapanese Beta)Build 1057(V.1)同上
+Windows NT 3.51 完
+Windows NT 4.0 Build 1054(V.1)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/e0186ffb513d2697d45dcadb5dfbb2fb4116d8a4.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/480e363c269759eeb3dea24dbafb43166f22dfa4.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/11c9419659ee3d6dda48454d4b166d224d4adea4.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/66633eef3d6d55fb2248b4a065224f4a22a4dda4.jpg)
+***
+界面吐槽：雷姆，雷姆，有了任务栏诶。
+架构：Alpha MIPS PowerPC x86
+阶段：Alpha
+编译日期：1995年5月27日
+详细版本信息：4.0.1054.1
+泄露情况：已泄露
+Windows NT 3.51 Build 1057(V.1),V4.0
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/07e4de13c8fcc3cee6410bb59a45d688d63f20ac.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/f9e6affdc3cec3fddabf65f3de88d43f859427ac.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/8808a4cfc3fdfc03b5f9213edc3f8794a6c226ac.jpg)
+***
+界面吐槽：伪蓝屏信息显示NT4.0[太开心]桌面上字样与图重叠的Bug没修
+架构：x86
+阶段：Alpha
+编译日期：1995年8月13日
+详细版本信息：4.0.1057.1
+泄露情况：已泄露
+Windows NT 4.0 Build 1130(V.1）
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/7d9932fab2fb4316fd47b6fc28a446230bf7d3d6.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/150fd5fa43166d22de2fd9124e2309f79252d2d6.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/f20f24176d224f4ab2c1bf9501f790529a22d1d6.jpg)
+***
+界面吐槽：简陋的explorer...DEmo还是NT 3.5x风格的。。。不过还是出现了95的部分特性架构：x86
+阶段：Beta 1
+编译日期：1995年9月21日
+详细版本信息：4.0.1130.1
+泄露情况：Server版已泄露很长时间了，Workstation版2015年12月9日泄露
+Windows NT 4.0 Build 1141(V.1）
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/4cc7e045ebf81a4cf568234fdf2a6059272da6d0.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/c7b08cf91a4c510f7c9e2d9c6859252dd62aa5d0.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/ab0c7d4d510fd9f9714d9aef2d2dd42a2a34a4d0.jpg)
+***
+界面吐槽：吃枣药丸的开机画面和世界地图，风格统一化
+架构：x86
+阶段：Beta 1
+编译日期：1995年10月11日
+详细版本信息：4.0.1141.1
+泄露情况：Workstation版已泄露很长时间了，Server版2015年12月12日泄露
+Windows NT 4.0 Build 1166(V.1）
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/39c56d54b319ebc4e424b81f8a26cffc1c1716c9.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/4aa1d418ebc4b74517c87990c7fc1e17888215c9.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/f3ed8cc5b74543a9d747344a16178a82bb0114c9.jpg)
+***
+界面吐槽：无情削减CMD功能[喷]控制面板完善中
+架构：x86
+阶段：Beta 1
+编译日期：1995年11月21日
+详细版本信息：4.0.1166.1
+泄露情况：已泄露
+Windows NT 4.0 Build 1175(V.1）
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/792fd1fc5266d0163a1357ae9f2bd40734fa3527.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/f6093567d01609249f2f6b9ddc0735fae7cd3427.jpg)
+***
+界面吐槽：喜闻乐见的是，外观基本定型，开机画面没了，系统属性好了。
+架构：x86
+阶段：Beta 1
+编译日期：1995年12月1日
+详细版本信息：4.0.1175.1
+泄露情况：已泄露
+Windows NT 4.0 Build 1198(V.1） 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/e8279a1e4134970a3ae8d8a99dcad1c8a5865d96.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/bdeb2635970a304e2eb9687cd9c8a786cb175c96.jpg)
+***
+界面吐槽：尽管这个构建缺少很多文件,但我们仍然可以看到一些新特性：如新的任务管理器器画面。更完美的任务管理器从这个Build开始内置于Windows NT内。其版本是未知的，大部分人认同其为一个Server，但一些人相信它是一个Workstation。
+架构：x86
+阶段：Beta 1
+编译日期：？
+详细版本信息：4.0.1198.1
+泄露情况：已泄露，但此版本是假的！因为镜像里的文件是1227仿造的，而且故意而为的缺少一些重要的文件。
+Windows NT 4.0 Build 1227(V.1)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/2c75e70b19d8bc3e4e5f334d8a8ba61eaad345d3.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/c0fe7ed9bc3eb1353391823cae1ea8d3ff1f44d3.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/592cdb3fb13533fa83e0a6a9a0d3fd1f43345bd3.jpg)
+***
+界面吐槽：开机画面回归！Beta水印附赠[喷]带有一些新的壁纸，同时首次出现超级终端等应用
+架构：x86
+阶段：Beta 1
+编译日期：1996年1月20日
+详细版本信息：4.0.1227.1
+泄露情况：已泄露
+Windows NT 4.0 Build 1234(V.1)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/f6093567d01609248422969cdc0735fae7cd3422.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/1292b7170924ab18a711d5b03dfae6cd7a890b22.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/90e26e25ab18972be53d344deecd7b899f510a22.jpg)
+***
+界面吐槽：这个版本内附赠了IE2.0！从此成为Windows NT内置荣誉产品，这样的设定直到至今的10.0.14931亦是如此。
+架构：x86
+阶段：Beta 1
+编译日期：1996年1月25日
+详细版本信息：4.0.1234.1（好打的版本号+好用的系统）
+泄露情况：已泄露
+Windows NT 4.0 Build 1264(V.1)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/7159acee76094b366a242f6aabcc7cd98f109dfc.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/8b1b11084b36acafe956a27b74d98d1003e99cfc.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/36fd2c37acaf2edd6b477d6e851001e93b0193fc.jpg)
+***
+界面吐槽：继续修改文件资源管理器和系统属性，开机画面惨遭删除。记事本首次出现
+架构：x86
+阶段：Beta 2
+编译日期：1996年3月7日
+详细版本信息：4.0.1264.1
+泄露情况：已泄露
+Windows NT 4.0 Build 1287(V.1)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/6050212209f79052150570b904f3d7ca7acbd510.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/06d76ef690529822fc290e44dfca7bcb0b46d410.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/4903f7539822720e83d4d57d73cb0a46f31fab10.jpg)
+界面吐槽：网络技术和IE浏览器的开发，开机画面的回归（然而和NT 3.5X并没有区别）
+架构：x86
+阶段：Beta 2
+编译日期：1996年4月7日
+详细版本信息：4.0.1287.1
+泄露情况：2010年6月1日泄露
+Windows NT 4.0 Build 1314 (V.1)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/b6d00c610c33874471c818fb590fd9f9d62aa019.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/2b946b328744ebf8817c53b8d1f9d72a6159a719.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/4cc7e045ebf81a4ccd3fdb4edf2a6059242da619.jpg)
+***
+界面吐槽：某应用的图标竟然改的和98前期Beta的My Computer一样[喷]
+架构：Alpha MIPS PowerPC x86
+阶段：Beta 2
+编译日期：1996年5月15日
+详细版本信息：4.0.1314.1
+泄露情况：已泄露
+Windows NT 4.0 Build 1327 (V.1)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/8de5158a4710b912d0b1c179cbfdfc039345223d.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/327f2011b912c8fcda83c14af4039245d788213d.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/07e4de13c8fcc3ced9b0feb49a45d688d53f203d.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/f9e6affdc3cec3fde74e90f2de88d43f8694273d.jpg)
+***
+界面吐槽：MS在协议上突出重点= =IE2.0万年不改= = 
+架构： x86
+阶段：Beta 2
+编译日期：1996年5月25日
+详细版本信息：4.0.1327.1
+泄露情况：已泄露
+Windows NT 4.0 Build 1345 (V.1)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/7a075d86e950352a6871138f5b43fbf2b3118b1e.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/7a738e51352ac65cbf1550f4f3f2b21192138a1e.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/a9a4522bc65c1038e36ef845ba119313b17e891e.jpg)
+***
+界面吐槽：开机画面终于改了[哈哈]
+架构：x86
+阶段：Release Candidate 1
+编译日期：1996年6月21日
+详细版本信息：4.0.1345.1
+泄露情况：已泄露
+Windows NT 4.0 Build 1381 (V.1)：Pre-Release
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/0fbe47a5462309f71bb09b957a0e0cf3d5cad64b.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/6050212209f7905214c071b904f3d7ca79cbd54b.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/06d76ef690529822ffec0f44dfca7bcb0846d44b.jpg)
+***
+界面吐槽：继续更改开机画面好评！[吐舌]
+架构：x86
+阶段：Pre-Release To Manufacturing（Pre-RTM）
+编译日期：1996年7月27日
+详细版本信息：4.0.1381.1（Pre-Release）
+泄露情况：2014年12月22日泄露
+Windows NT 4.0 Build 1381 (V.1)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/792fd1fc5266d01625c1a8af9f2bd40737fa3555.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/f6093567d016092486fd949cdc0735fae4cd3455.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/1292b7170924ab18b9ced7b03dfae6cd79890b55.jpg)
+***
+界面吐槽：万年Clock应用。。。IE的Build十分辣眼睛。
+架构：Alpha MIPS PowerPC x86
+阶段：Release To Manufacturing（RTM!）
+编译日期：1996年8月3日
+详细版本信息：4.0.1381.1
+泄露情况：已发布
+Windows NT 4.0 完
+Windows NT 5.0 Build 1515(V.1)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/f9e6affdc3cec3fd862831f2de88d43f8694271c.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/8808a4cfc3fdfc03e96e753fdc3f8794a5c2261c.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/833aa4fcfc039245aaa377888f94a4c27c1e251c.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/83099b029245d688a9142423acc27d1ed31b241c.jpg)
+***
+界面吐槽：开机画面继续改动好评！NT改为5.0好评！IE升为4！出现快速启动栏！显示桌面位居任务栏右下角的设定在同时进行开发的Memphis build 1400～1415、以及后来的Windows 7，Windows 8以及Windows 10内均可以见到！[真棒]
+架构： x86
+阶段：Pre-Beta
+编译日期：1997年3月17日
+详细版本信息：5.0.1515.1
+泄露情况：已泄露
+Windows NT 5.0 Build 1585(V.1）
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/e3381bd88d1001e91e918788b00e7bec56e797f9.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/3c2dea1101e9390109af1eb973ec54e734d196f9.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/cde466e83901213f919edd5b5ce736d12d2e95f9.jpg)
+***
+界面吐槽：全新资源管理器！Setup更新好评，系统属性定型，显示桌面位居任务栏右下角的设定取消，同时Memphis build 1423也取消了显示桌面位居任务栏右下角的设定，Outlook Express首次出现
+架构： x86
+阶段：Pre-Beta
+编译日期：1997年7月13日
+详细版本信息：5.0.1585.1
+泄露情况：已泄露
+Windows NT 5.0 Build 1592(V.1）
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/d9d1db305c6034a8182b2506c31349540b237665.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/fcc53b6134a85edfca4563a441540923df547565.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/1c9453a95edf8db183e7e1e30123dd54544e7465.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/745c39de8db1cb1300a0a194d554564e90584b65.jpg)
+***
+界面吐槽：资源管理器继续完善！欢迎新的HardWare Wizard和新的IE启动画面入坑~~标题栏渐变好评！
+架构： x86
+阶段：Pre-Beta
+编译日期：1997年7月30日
+详细版本信息：5.0.1592.1
+泄露情况：已泄露
+Windows NT 5.0 Build 1631(V.1）
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/d2b1b189d43f8794dd1ad4a9da1b0ef419d53a41.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/967cb33e8794a4c207c67bac06f41bd5af6e3941.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/94cbe095a4c27d1ea9c3a74313d5ad6edfc43841.jpg)
+***
+界面吐槽：多数Wizard先后入坑。“硬件设备”选项卡出现在系统属性
+架构： x86
+阶段：Pre-Beta
+编译日期：1997年8月16日
+详细版本信息：5.0.1631.1
+泄露情况：已泄露
+Windows NT 5.0 Build 1671(V.1）
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/e6eacfd2fd1f4134cb509af92d1f95cad3c85ec3.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/e8279a1e4134970a6d148fa89dcad1c8a5865dc3.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/bdeb2635970a304e7b453f7dd9c8a786cb175cc3.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/01c0f00b304e251fca907b7faf86c9177d3e53c3.jpg)
+***
+界面吐槽：开机画面和默认壁纸更改大赞！[真棒]控制面板图标违和。
+架构： x86
+阶段：Beta 1
+编译日期：1997年9月9日
+详细版本信息：5.0.1671.1
+泄露情况：已泄露
+Windows NT 5.0 Build 1691(V.1）
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/2dd6284b20a44623ea4a3ae59022720e0ef3d7af.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/0fbe47a5462309f774ef32957a0e0cf3d5cad6af.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/6050212209f790527d9fd8b904f3d7ca79cbd5af.jpg)
+***
+界面吐槽：这个版本的控制面板项内增加了Scanners and Camera，从而增加了对便携式设备的支持。而且字体也出现了变化
+架构： x86
+阶段：Beta 1
+编译日期：1997年10月23日
+详细版本信息：5.0.1691.1
+泄露情况：已泄露
+Windows NT 5.0 Build 1701(V.1）
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/0253be32c895d1433ebb7ba47bf0820258af0759.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/99c7af94d143ad4b45e3d9478a025aafa60f0659.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/8861b642ad4bd113e60028b552afa40f49fb0559.jpg)
+***
+界面吐槽：这个版本的控制面板项内增加了一个全新的添加/删除程序，IE的小幅度更新，开机出现Beta 1水印。
+架构： x86
+阶段：Beta 1
+编译日期：1997年11月22日
+详细版本信息：5.0.1701.1
+泄露情况：已泄露
+Windows NT 5.0 Build 1729(V.1）
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/86a877395343fbf2b5543da4b87eca8064388f36.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/50cc3442fbf2b2119b561ec9c28065380dd78e36.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/13b79cf3b2119313b93b64376d380cd790238d36.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/bb06d5109313b07ec0c5cb8f04d7912396dd8c36.jpg)
+***
+界面吐槽：这个版本的Setup Wizard做出了改进，MSN向导变得更加壮观。
+架构： x86
+阶段：Beta 1
+编译日期：1998年1月6日
+详细版本信息：5.0.1729.1
+泄露情况：已泄露
+Windows NT 5.0 Build 1743(V.1）
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/c760c3c37d1ed21b7917b562a56eddc453da3f54.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/e4361a1fd21b0ef4633603d9d5c451da83cb3e54.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/3deab51a0ef41bd5d48d737359da81cb3bdb3d54.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/92ef69f51bd5ad6ea727ff6d89cb39dbb4fd3c54.jpg)
+***
+界面吐槽：explorer，各向导又改了回去，关机后的屏幕喷[吐][喷]
+架构： x86
+阶段：Beta 1
+编译日期：1998年2月4日
+详细版本信息：5.0.1743.1
+泄露情况：已泄露
+Windows NT 5.0 Build 1745(V.1）
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/f32afb83d158ccbf20aa2fbd11d8bc3eb035411c.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/dc76b659ccbf6c81cd21b66fb43eb13532fa401c.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/91acabbe6c81800a57f31389b93533fa838b471c.jpg)
+***
+界面吐槽：Setup的又一次改进，Getting Started With Windows Server首次出现！[真棒]
+一直延续到如今的Windows Server 2016 Build 14393
+架构： x86
+阶段：Beta 1
+编译日期：1998年2月11日
+详细版本信息：5.0.1745.1
+泄露情况：已泄露
+Windows NT 5.0 Build 1773(V.1）
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/edc03e83b2b7d0a21ee1811ac3ef76094a369a06.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/1976d5b6d0a20cf422b87b587e094b36adaf9906.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/f243b7a30cf431addffac6be4336acaf2fdd9806.jpg)
+***
+界面吐槽：登录界面有了Windows 2000的风格！显示桌面又被换到了右下角，ver命令中首次出现“5.0”字样
+架构： x86
+阶段：Beta 1
+编译日期：1998年3月18日
+详细版本信息：5.0.1773.1
+泄露情况：2014年1月5日泄露
+Windows NT 5.0 Build 1796(V.1）
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/32fa6bf2d7ca7bcbee3a42a8b6096b63f424a8ee.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/4c07b0cb7bcb0a4617630ebe6363f6246960afee.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/973e1cca0a46f21f5875dbd4fe246b600e33aeee.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/3b3f6d47f21fbe098c1f469363600c338544adee.jpg)
+***
+界面吐槽：蓝色背景好评！[真棒]全新的Welcome to Windows NT！（基本上就是Windows 2000的了）IE 5.0开始开发！
+架构： x86
+阶段：Beta 2
+编译日期：1998年4月30日
+详细版本信息：5.0.1796.1
+泄露情况：已泄露
+Windows NT 5.0 Build 1835(V.1）
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/f20f24176d224f4af271ff9401f790529a22d147.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/03e20a234f4a20a495f6b04098529822700ed047.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/2dd6284b20a44623dd2229e59022720e0ef3d747.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/0fbe47a5462309f7458721957a0e0cf3d5cad647.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/6050212209f790524ef7cbb904f3d7ca79cbd547.jpg)
+***
+界面吐槽：Setup背景变化！Setup上方的纹样继续改变！About Windows已经出现RC 0.2字样！
+架构： x86
+阶段：Beta 2
+编译日期：1998年6月25日
+详细版本信息：5.0.1835.1
+泄露情况：2015年6月23日泄露
+Windows NT 5.0 Build 1848(V.1）
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/d7fe574f251f95ca9eb21c31c1177f3e650952e3.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/70ba421e95cad1c8f7fc72a0773e6709cb3d51e3.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/65ebf2cbd1c8a786986dc4896f09c93d72cf50e3.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/d53eb6c9a786c9172d44dcbec13d70cf39c757e3.jpg)
+***
+界面吐槽：Setup继续缩水，开机是Server，关机是Workstation[喷]
+架构： x86
+阶段：Beta 2
+编译日期：1998年7月13日
+详细版本信息：5.0.1848.1
+泄露情况：已泄露
+Windows NT 5.0 Build 1877(V.1）
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/f32afb83d158ccbf52e83dbd11d8bc3eb33541d2.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/dc76b659ccbf6c81bf63a46fb43eb13531fa40d2.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/91acabbe6c81800a59b10189b93533fa808b47d2.jpg)
+***
+界面吐槽:Outlook的图标改了回来，Welcome严重缩水。
+架构： Alpha x86
+阶段：Beta 2
+编译日期：1998年8月17日
+详细版本信息：5.0.1877.1
+泄露情况：已泄露
+Windows NT 5.0 Build 1888
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/d0a6ff23720e0cf3023ec67c0246f21fbc09aa66.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/d8d6150f0cf3d7caad3fb7f1fa1fbe096963a966.jpg)
+***
+界面吐槽：新增项目
+架构： x86
+阶段：Beta 2
+编译日期：1998年9月4日
+详细版本信息：5.0.1888.1
+泄露情况：已泄露
+Windows NT 5.0 Build 1902
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/f3efd750f8198618a8141a0342ed2e7389d4e6d8.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/f0a59f188618367a45da8a5a26738bd4b11ce5d8.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/b8ede119367adab4ea83eec483d4b31c8501e4d8.jpg)
+界面吐槽：开始菜单小改动，IE5.0还是那个样子，出现了Windows Update。并且MSN被砍
+架构： x86
+阶段：Beta 2
+编译日期：1998年9月29日
+详细版本信息：5.0.1902.1
+泄露情况：已泄露
+Windows NT 5.0 Build 1906
+界面吐槽:Setup继续阉割。。。IE的小幅度更新，Backup和ME的Restore简直千差万别。[吐]
+架构:X86
+阶段:Beta 2
+编译日期:1998年10月7日
+详细版本:5.0.1906.1
+泄露情况:已泄露
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/dea568b20f2442a7a04c0922d943ad4bd31302e8.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/4f47682542a7d933b2ea10f4a54bd11371f001e8.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/4fd025a6d933c895aa3c6cfcd91373f0800200e8.jpg)
+Windows NT 5.0 build 1911
+架构：x86
+阶段：beta 2
+编译时间：1998年10月19日
+详细版本：5.0.1911.1
+泄漏情况：已泄漏
+界面吐槽：全新网络图标 
+![](http://static.tieba.baidu.com/tb/editor/images/client/image_emoticon68.png) setup不再切割
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/d0a6ff23720e0cf318fdb87c0246f21fbf09aa21.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/dde29afbaf51f3de94b74fe39ceef01f3b297921.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/112ee6ca39dbb6fd380613a10124ab18952b37c9.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/ab0c7d4d510fd9f90a62a3ee2d2dd42a2934a432.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/e71ba91a9d16fdfab1183069bc8f8c5495ee7b32.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/e3381bd88d1001e93339e288b00e7bec55e79721.jpg)
+Windows 2000 Build 1946
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/0bc2cbae2edda3cc793a48a709e93901233f9254.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/b227302d11dfa9ec3ceaa6906ad0f703938fc163.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/cae7042662d0f7032b4f655b00fa513d2497c5aa.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/891e72cf36d3d53951e3ff443287e950372ab055.jpg)
+***
+架构：x86
+阶段：Beta 3
+编译时间：1998年12月13日
+详细版本：5.0.1946.1
+泄漏情况：已经泄漏
+界面吐槽：改名Windows 2000，从此替代9x 系列。setup和资源管理器定型，新的桌面背景,winver更新，Outlook Express也进行了翻新
+Windows 2000 Build 1964
+***
+架构：x86
+阶段：beta 3
+编译时间：1999年1月21日
+详细版本：5.0.1964.1
+泄漏情况：2015年6月22日泄漏
+界面吐槽：图标和文件夹的全新定型。存在bug：msgina.dll显示sever ，shell32.dll只能显示pro 。 
+![](http://static.tieba.baidu.com/tb/editor/images/client/image_emoticon66.png)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/cde466e83901213fbf1eb35b5ce736d12e2e9579.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/0f36b2638535e5ddf4f357587ec6a7efcc1b624b.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/c27fc11fa8d3fd1f7fd650bd384e251f97ca5f4b.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/112ee6ca39dbb6fd348417a10124ab18952b374b.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/768ebdb54aed2e7311c47bab8f01a18b86d6fa7a.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/b7f7f68ea0ec08faea86e12051ee3d6d57fbdaad.jpg)
+Windows 2000 Build 1965
+架构：x86
+阶段：beta 3
+编译时间：1999年1月22日
+详细版本：5.0.1965.1
+泄漏情况：2015年6月22日泄漏
+界面吐槽：基本无区别 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/f6093567d0160924cc2c5e9cdc0735fae7cd3425.jpg)
+Windows 2000 Build 1969
+架构：x86
+阶段：beta 3
+编译时间：1999年1月29日
+详细版本：5.0.1969.1
+泄漏情况：2015年6月22日泄漏
+界面吐槽：教程部分改进 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/f3e8e000a18b87d6bade54980f0828381d30fd8b.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/e4fb2cfafbedab647fecb247ff36afc37b311e94.jpg)
+Windows 2000 Build 1983(V.1)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/e918ed12632762d044935a38a8ec08fa533dc6fa.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/cae7042662d0f703251f6b5b00fa513d2497c5fa.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/23d305d1f703918f157cc34d593d26975beec4fa.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/22249002918fa0ecbe6a9a8a2e9759ee3f6ddbfa.jpg)
+***
+界面吐槽：Welcome to Windows 2000再次完善，基于NT技术字样出现。开机画面定型
+架构：x86
+阶段：Beta 3
+详细版本：5.0.1983.1
+编译日期：1999年2月18日
+泄漏情况：已泄露
+Windows 2000 Build 1989(V.1)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/70ba421e95cad1c898b705a0773e6709c83d511a.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/65ebf2cbd1c8a7868926b3896f09c93d71cf501a.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/d53eb6c9a786c9173e0fabbec13d70cf3ac7571a.jpg)
+***
+界面吐槽：IE5已经完全完善，喜闻乐见的水印出现。硬盘自检滚动条被砍
+架构：x86
+阶段：Beta 3
+详细版本：5.0.1989.1
+编译日期：1999年2月25日
+泄漏情况：已泄露
+Windows 2000 Build 1994(V.1）
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/7625482fb9389b5045be19d58d35e5dde5116eed.jpg)
+***
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/6fdade399b504fc2de1e4982eddde71192ef6ded.jpg)
+***
+界面吐槽：About Windows变得简洁起来。
+架构：x86
+阶段：Beta 3
+详细版本：5.0.1994.1
+编译日期：1999年3月4日
+泄漏情况：2015年6月22日泄露
+Windows 2000 Build 2000(V.3)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/c2d2a8fd1e178a82319c8627fe03738dab77e88f.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/8f0879168a82b901c30d3ab47b8da9773b12ef8f.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/5ee3ed83b9014a907c9ebf3aa1773912b11bee8f.jpg)
+***
+界面吐槽：启动项增加Microsoft字样，Backup万年不改，IE小幅度改进。
+架构：x86
+阶段：Beta 3
+详细版本：5.0.2000.3（终于不是V.1了）
+编译日期：1999年3月12日
+泄漏情况：已泄露
+Windows 2000 Build 2020(V.1）
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/d3e7d77fca806538e12f5c949fdda144af348262.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/f08aad8165380cd77fdb5a6aa944ad345b828162.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/8a7402390cd7912378256cf3a5345982b0b78062.jpg)
+***
+界面吐槽：令人害怕的Lincese。。。Help继续改进。但Help 难逃喜感魔爪[滑稽]
+架构：x86
+阶段：Beta 3
+详细版本：5.0.2020.1
+编译日期：1999年4月13日
+泄漏情况：2015年6月22日泄露
+Windows 2000 Build 2031(V.1）
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/4903f7539822720ecf74197d73cb0a46f01fabf1.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/d0a6ff23720e0cf3134db57c0246f21fbc09aaf1.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/d8d6150f0cf3d7cabe4cc4f1fa1fbe096963a9f1.jpg)
+***
+界面吐槽：暂未发现区别。
+架构：x86 Alpha
+阶段：Beta 3
+详细版本：5.0.2031.1
+编译日期：1999年4月26日
+泄漏情况：已泄露
+Windows 2000 Build 2068(V.1）
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/b8ede119367adab4dbb6e1c483d4b31c8501e4cd.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/c6ec517bdab44aedbc284463bb1c8701a38bfbcd.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/768ebdb54aed2e73188f7cab8f01a18b85d6facd.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/9a402dec2e738bd4274748b6a98b87d6257ff9cd.jpg)
+***
+界面吐槽：开机画面暂未出现Family字样，全新的配置你的服务器，水印的Pre-Release字样消失，新增欢迎来到Windows 2000网络服务，Welcome界面有待完善。
+架构：x86
+阶段：Release Candidate 1
+详细版本：5.0.2068.1
+编译日期：1999年6月22日
+泄漏情况：已泄露
+Windows 2000 Build 2072（V.1）
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/9d3036db81cb39dbeb0d9dd1d8160924a9183059.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/112ee6ca39dbb6fd0c961fa10124ab18952b3759.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/c13f5edab6fd52668fe6c693a318972bd6073659.jpg)
+***
+界面吐槽：依旧是完善IE
+架构：x86 Alpha
+阶段：Release Candidate 1
+详细版本：5.0.2072.1
+编译日期：1999年6月27日
+泄漏情况：已泄露
+Windows 2000 Build 2090(V.1)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/d2b1b189d43f8794f699ada9da1b0ef419d53acc.jpg)
+***
+界面吐槽：这个版本的很多文件在Windows Neptune中找到
+架构：x86
+阶段：Release Candidate 1
+详细版本：5.0.2090.1
+编译日期：1999年？月？日
+泄漏情况：未泄露
+Windows 2000 Build 2091(V.1)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/746f643a5bb5c9eacdc2e764dd39b6003bf3b37e.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/43cf3cb4c9ea15ceefdf048ebe003af33b87b27e.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/1b41aeeb15ce36d30f3567b732f33a87e850b17e.jpg)
+***
+界面吐槽：F8进度条首次出现，水印消失。
+架构：x86
+阶段：Release Candidate 1
+详细版本：5.0.2091.1
+编译日期：1999年8月3日
+泄漏情况：已泄露
+Windows 2000 Build 2128（V.1）
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/d1d7f0dca144ad34b7df6300d8a20cf433ad85cf.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/d729c645ad3459825dea011504f431adc9ef84cf.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/e1b0ca355982b2b720ffdd4339adcbef74099bcf.jpg)
+***
+界面吐槽：IE的更新，水印重现。
+架构：x86 Alpha
+阶段：Release Candidate 2
+详细版本：5.0.2128.1
+编译日期：1999年9月10日
+泄漏情况：已泄露
+Windows 2000 Build 2140：
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/5ee3ed83b9014a90720da13aa1773912b21bee78.jpg)
+***
+在Windows NT 5.0.2195.6601 Notepad.exe 中的版本号发现，但尚未被发现，因此不能证实存在。
+Windows 2000 Build 2151（V.1）
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/83099b029245d6889abb5523acc27d1ed01b24f5.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/bcf7f544d688d43fc8107675751ed21b0cf43bf5.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/d2b1b189d43f8794f446afa9da1b0ef419d53af5.jpg)
+***
+界面吐槽：帮助的更新。
+架构：x86
+阶段：Release Candidate 3
+详细版本：5.0.2151.1
+编译日期：1999年10月14日
+泄漏情况：2015年6月22日泄露
+Windows 2000 Build 2167（V.1）
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/97de0758252dd42afacee62c0b3b5bb5cbeab86c.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/20ad422cd42a2834e761d18c53b5c9ea17cebf6c.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/65d9b32b2834349bd7c18902c1ea15ce34d3be6c.jpg)
+***
+界面吐槽：刷版本号Get
+架构：x86
+阶段：Release Candidate 3
+详细版本：5.0.2167.1
+编译日期：1999年11月14日
+泄漏情况：已泄露
+Windows 2000 Build 2183（V.1）
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/66633eef3d6d55fb06f390a165224f4a21a4dd72.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/191a5a6c55fbb2fbf61ebe95474a20a44723dc72.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/7d9932fab2fb4316db2a9cfd28a4462308f7d372.jpg)
+***
+界面吐槽：万年不改的Backup，水印竟然还不去掉
+架构：x86
+阶段：Release Candidate 3
+详细版本：5.0.2183.1
+编译日期：1999年11月14日
+泄漏情况：已泄露
+Windows 2000 Build 2195（V.1）
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/a00afe24bc315c602e488d6885b1cb134b547749.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/d9d1db305c6034a8453f5e06c31349540b237649.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/fcc53b6134a85edf915118a441540923df547549.jpg)
+***
+界面吐槽：水印终于去掉了，，，
+架构：x86
+阶段：Release To Manufacturing（RTM!）
+详细版本：5.0.2195.1
+编译日期：1999年12月7日
+泄漏情况：已发布
+Windows 2000 完
+Windows Neptune Build 5111（V.1）
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/a00afe24bc315c602c018b6885b1cb134b547792.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/d9d1db305c6034a847765806c31349540b237692.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/fcc53b6134a85edf97181ea441540923df547592.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/1c9453a95edf8db1d0ba9ce30123dd54544e7492.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/745c39de8db1cb1355fddc94d554564e90584b92.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/1e2beab0cb134954148a08e35e4e9258d3094a92.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/cd45ac1249540923c3fd83f99a58d109b1de4992.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/8be72e550923dd5449e747efd909b3de9e824892.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/09a06e22dd54564eb2f104bebbde9c82d3584f92.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/49d7ba55564e9258f0a066699482d158cebf4e92.jpg)
+***
+界面吐槽：这个版本延续并改进了Windows Me Beta中的Starting Place，全新的Fle a Bug，改进的Auto Update，全新的开机画面以及Welcome，以及很多隐藏的新应用，好评！[真棒]
+架构：x86
+阶段：Milestone 2
+详细版本：5.5.5111.1
+编译日期：1999年12月11日
+泄漏情况：已泄露
+现在找到的所有Windows Neptune（包含未泄露系统）
+Neptune Build 5.50.5000（截图是伪造的）
+Neptune Build 5.50.5022.1
+Neptune Build 5.50.5056.1（2015年12月31日泄露，但很多事实指明其是5111伪造的，所以至今仍未泄露）
+Neptune Build 5.50.5067.1
+Neptune Build 5.50.5082.1
+Neptune Build 5.50.5086.1
+Neptune Build 5.50.5094.1
+Neptune Build 5.50.5095.1
+Neptune Build 5.50.5096.1
+Neptune Build 5.50.5099.1
+Neptune Build 5.50.5111.1 - 唯一泄露的Windows Neptune开发者预览版。
+Neptune Build 5.50.5111.4
+Neptune Build 5.50.5111.6
+Neptune Build 5.50.5116.1
+Neptune Build 5.50.5117.1
+Neptune Build 5.50.5118
+Neptune Build 5.50.5119
+Neptune Build 5.50.5120
+Neptune Build 5.50.5179.1
+Windows Neptune Server在Windows Neptune Desktop(5111.1)上的安装文件中发现。
+Windows Neptune 完
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/99c7af94d143ad4bb48daa478a025aafa60f068f.jpg)
+SD Windows 2000 Professinal Build 2202(V.1)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/ab0c7d4d510fd9f91166baee2d2dd42a2934a43e.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/5ab8360ed9f9d72aa715ff9adc2a2834359bbb3e.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/11fbbef8d72a6059ed610e9d2034349b023bba3e.jpg)
+***
+界面吐槽：水印和反馈重现，其他无区别。
+架构：x86
+阶段：Pre-Beta
+详细版本：5.0.2202.1.ntvbl06.000202-1835
+编译日期：2000年2月2日
+泄漏情况：已泄露
+Whistler Windows 2001 Build 2211(V.1)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/68c0539a033b5bb5015ff5793ed3d539b400bca7.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/746f643a5bb5c9eadc7bd664dd39b60038f3b3a7.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/43cf3cb4c9ea15cefc66358ebe003af33887b2a7.jpg)
+***
+界面吐槽：新的控制面板视图好评！继承了Neptune的IE5.6，让人感到滑稽的水印以及“反馈给Windows Neptune开发团队”
+架构：x86
+阶段：Pre-Beta
+详细版本：5.0.2211.1.main.000309-1512
+编译日期：2000年3月9日
+泄漏情况：已泄露
+Windows Whistler Build 2222(V.1) 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/91e714f182025aafc579aa4cf3edab64014f1ae7.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/4903f7539822720ebc45367d73cb0a46f01faba0.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/16baf559d109b3de8bfa30efc4bf6c81820a4ce1.jpg)
+界面吐槽：水印更改好了，出现Neptune风格的登陆界面
+架构：x86
+阶段：Pre-Beta
+详细版本：5.1.2222.Lab06_N.000407-1900
+编译日期：2000年4月7日
+泄漏情况：未泄露
+Windows Whistler Build 2223(V.1)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/d0a6ff23720e0cf37853987c0246f21fbc09aa83.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/d8d6150f0cf3d7cacb52e9f1fa1fbe096963a983.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/32fa6bf2d7ca7bcbbbdf11a8b6096b63f424a883.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/745c39de8db1cb13445eed94d554564e93584b73.jpg)
+***
+界面吐槽：系统属性为5.01，以及Neptune风格的休眠，，，，依旧是“反馈给Windows Neptune开发团队”
+架构：x86
+阶段：Pre-Beta
+详细版本：5.1.2223.1.main.000411-2307
+编译日期：2000年4月11日
+泄漏情况：已泄露
+Windows Whistler Build 2250(V.1)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/a00afe24bc315c603c22bb6885b1cb134b5477f3.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/d9d1db305c6034a857556806c31349540b2376f3.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/fcc53b6134a85edf873b2ea441540923df5475f3.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/1c9453a95edf8db1c099ace30123dd54544e74f3.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/745c39de8db1cb1345deec94d554564e90584bf3.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/1e2beab0cb13495404a938e35e4e9258d3094af3.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/cd45ac1249540923d3deb3f99a58d109b1de49f3.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/8be72e550923dd5459c477efd909b3de9e8248f3.jpg)
+***
+界面吐槽：Watercolor主题首次出现，扁平化的开机，扁平化的控制面板，Setup大改！File a Bug自身的Bug终于修好了，全新的开始菜单，以及关机还写着“Welcome...”
+架构：x86
+阶段：Techinal Beta
+详细版本：5.1.2250.1.main.000628-2110
+编译日期：2000年6月29日
+泄漏情况：已泄露
+贴子没人看[喷]
+Windows Whistler Build 2267(V.1)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/83099b029245d68809e4c42cacc27d1ed01b244d.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/bcf7f544d688d43f594fe77a751ed21b0cf43b4d.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/d2b1b189d43f87947b193ea6da1b0ef419d53a4d.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/967cb33e8794a4c29dc591a306f41bd5af6e394d.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/94cbe095a4c27d1e33c04d4c13d5ad6edfc4384d.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/c760c3c37d1ed21bec2f586da56eddc453da3f4d.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/e4361a1fd21b0ef4f80eeed6d5c451da83cb3e4d.jpg)
+***
+界面吐槽：终于改成Please Wait。。。赛高的About IE，OOBE更改，控制面板样式更改，标题栏终于有“建议”了，开始菜单改进。Windows Movie Maker首次出现
+架构：x86
+阶段：Techinal Beta
+详细版本：5.1.2267.1.idx01.000910-1316
+编译日期：2000年9月10日
+泄漏情况：已泄露
+Windows Whistler Build 2276(V.1)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/91f4dda0cd11728b943efcaac0fcc3cec2fd2c18.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/fa55aa10728b47106d3c8d44cbcec3fdfd032318.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/8de5158a4710b9121dd28676cbfdfc0393452218.jpg)
+***
+界面吐槽：这个版本就是什么都改回去，我的Modern UI啊。。。不过示例图片好评。Windows Media Player升级为7.0，IE升级为6.0Beta，帮助也升级为7.0
+架构：x86
+阶段：Techinal Beta
+详细版本：5.1.2276.1.lab02_n.000928-2023
+编译日期：2000年9月28日
+泄漏情况：已泄露
+Windows Whistler Build 2287(V.1)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/fefd0c62f6246b6059c3c2fce3f81a4c530fa25a.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/2b9791256b600c33d1b4ae40124c510fdbf9a15a.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/b6d00c610c338744bc085ff4590fd9f9d52aa05a.jpg)
+***
+界面吐槽：开始菜单的改进
+架构：x86
+阶段：Techinal Beta
+详细版本：5.1.2287.1.lbeta1.001012-1643
+编译日期：2000年10月12日
+泄漏情况：已泄露
+Windows Whistler Build 2296(V.1)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/39c56d54b319ebc4bfc705118a26cffc1c1716eb.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/4aa1d418ebc4b7454a2bc49ec7fc1e17888215eb.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/f3ed8cc5b74543a988a4894416178a82bb0114eb.jpg)
+***
+界面吐槽：继续修改图标
+架构：x86
+阶段：Beta 1
+详细版本：5.1.2296.1.beta1.001024-1157
+编译日期：2000年10月24日
+泄漏情况：已泄露
+增补
+1.Windows Neptune Build 5111(V.6)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/c27fc11fa8d3fd1fff4ad0b2384e251f97ca5fe8.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/e6eacfd2fd1f4134287477f62d1f95cad3c85ee8.jpg)
+***
+此版本的光盘照片出现在Channel9 视频“Defrag Tools #143 - Raymond Chen - Microsoft Archives Part 1”中，一个未泄露的真实版本，编译于1999年12月
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/7a075d86e950352aae3559805b43fbf2b0118bd3.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/7a738e51352ac65c79511afbf3f2b21191138ad3.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/a9a4522bc65c1038392ab24aba119313b27e89d3.jpg)
+Windows Whistler Build 2410
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/8eeffa17fdfaaf516b00fe37845494eef21f7a48.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/dde29afbaf51f3de2d51c6ec9ceef01f38297948.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/bd0ec850f3deb48f168ade56f81f3a292ff57848.jpg)
+***
+界面吐槽：全新的explorer布局，两个可爱的主题“欸为什么我想到了360儿童桌面，一大堆组件升级成功，新壁纸
+架构：x86
+阶段：Pre-Beta 2
+详细版本：5.1.2410.1.main.001208-1937
+编译日期：2000年12月8日
+泄漏情况：已泄露
+Windows Whistler Build 2416(V.1)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/c2d2a8fd1e178a82b0c10128fe03738dab77e8aa.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/8f0879168a82b9014050bdbb7b8da9773b12efaa.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/5ee3ed83b9014a90fdc33835a1773912b11beeaa.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/ca76de004a90f6037f4de2cf3112b31bb251edaa.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/f9f52d91f603738da4b772aabb1bb051fa19ecaa.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/0a649102738da97737d2f8a3b851f8198418e3aa.jpg)
+***
+界面吐槽：Outlook6登场，远程桌面改版，后来做为Luna主题的图标完善，OOBE完善
+架构：x86
+阶段：Pre-Beta 2
+详细版本：5.1.2416.1.idx01.010104-1958
+编译日期：2001年1月4日
+泄漏情况：已泄露
+Windows Whistler Build 2415
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/512bceed8a1363274fa0a7bb998fa0ec0afac7da.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/e918ed12632762d0d973c137a8ec08fa533dc6da.jpg)
+架构：x86
+阶段：Pre-Beta 2
+详细版本：5.1.2416.1.Lab06_N.0010102-1932
+编译日期：2001年1月2日
+泄漏情况：未泄露
+召回楼！！
+转完了windows吧的内容，终于可以正式更贴了！！！！
+《wvb吧的内容和windows吧里的内容的区别》
+1.增加windows 95 Build 3xx 4xx部分和98 SE部分，部分未泄露Build 
+2.部分 Build 界面吐槽更详细
+3.部分 Build 添加泄露日期
+4.即将更Whistler的后续！！！！
+请被@到的人关注一下本吧吧，谢谢[吐舌] ---贴吧极速版 For UWP
+其实大家可能不知道windows吧删了我很多贴子，所以才转贴的
+Windows Whistler Build 2419(V.1)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/d53eb6c9a786c9170625f3b0c13d70cf3ac7570e.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/913cc087c9177f3e1d125d8478cf3bc79e3d560e.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/e772ae167f3e6709b226e47633c79f3df9dc550e.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/89e3183f6709c93d0cd4af7e973df8dcd000540e.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/3fca0008c93d70cf46dc0b84f0dcd100bba12b0e.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/27fdae3c70cf3bc7e1266c65d900baa1cc112a0e.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/89c917ce3bc79f3d87c745b9b2a1cd11738b290e.jpg)
+***
+界面吐槽：有Watercolor主题的最后一个版本，Setup基本定型，加入了激活程序，炫目的开机画面，而且还有了蓝天绿地的Bliss
+架构：x86
+阶段：Pre-Beta 2
+详细版本：5.1.2419.1.idx02.010113-1154
+编译日期：2001年1月13日
+泄漏情况：已泄露
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/edc03e83b2b7d0a2c1f6c414c3ef76094a369a76.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/f20f24176d224f4ab64bb39a01f790529a22d15b.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/a9d0df98a9014c0815f8e82c027b020879f4f46a.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/90566bf531adcbefa6f6be8fa4af2edda1cc9f6b.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/d17bc7ed08fa513da87eac57356d55fbb0fbd95d.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/327f2011b912c8fce6d63544f4039245d7882103.jpg)
+补充图片
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/8808a4cfc3fdfc0396bfcc34dc3f8794a6c2266f.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/833aa4fcfc039245d372ce838f94a4c27f1e256f.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/83099b029245d688d2c59d28acc27d1ed01b246f.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/bcf7f544d688d43f806ebe7e751ed21b0cf43b6f.jpg)
+***
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/d2b1b189d43f8794ac3867a2da1b0ef419d53a6f.jpg)
+界面吐槽：已经定型，加入了Luna主题，有新的启动画面和登录屏幕
+架构：x86
+阶段：Pre-Beta 2
+详细版本：5.1.2428.1.idx01.010129-1827
+编译日期：2001年1月29日
+泄漏情况：已泄露
+百度管理员的妈妈炸了[哈哈]
+***
+---贴吧极速版 For UWP
+Windows Whistler Build 2430.1
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/e1b0ca355982b2b74dda284839adcbef74099bee.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/edc03e83b2b7d0a2928c1511c3ef760949369aee.jpg)
+***
+界面吐槽：除了碎片整理的图标翻新，其余和2428没有区
+架构：x86
+阶段：Pre-Beta 2
+详细版本：5.1.2430.1.main.010130-1821
+编译日期：2001年1月30日
+泄漏情况：已泄露
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/3304e5035aafa40f533bd051a364034f7af019b5.jpg)
+我要创造连吞100楼的记录[微笑]
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/d9d1db305c6034a8e315bc0ec31349540b2376bb.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/8c4b0b80800a19d87158808a3bfa828ba41e46df.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/32fa6bf2d7ca7bcb698cc3a0b6096b63f424a8bb.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/2ef27a940a7b0208af69aa176ad9f2d3552cc89e.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/13b79cf3b2119313a7896a466d380cd793238d77.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/7a738e51352ac65c02c0f385f3f2b21191138a70.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/e918ed12632762d021973958a8ec08fa533dc6a6.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/cae7042662d0f703461b083b00fa513d2497c5a6.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/23d305d1f703918f7878a02d593d26975beec4a6.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/89e3183f6709c93d18a29310973df8dcd30054fe.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/d2b1b189d43f8794deafd5c9da1b0ef419d53afe.jpg)
+***
+---贴吧极速版 For UWP
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/cca0f3eff01f3a2916bf4d299125bc315e607cd3.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/cde466e83901213f9a32d63b5ce736d12d2e95cd.jpg)
+***
+---贴吧极速版 For UWP
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/90566bf531adcbef6302fbe1a4af2edda2cc9f1c.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/2c75e70b19d8bc3efe39832d8a8ba61ea9d3451d.jpg)
+***
+---贴吧极速版 For UWP
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/e4fb2cfafbedab649769ca27ff36afc378311e37.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/b6f7148ca97739121b3d0286f0198618377ae230.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/3379ce763912b31b19774ace8e18367adbb4e130.jpg)
+***
+---贴吧极速版 For UWP
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/1e2beab0cb13495437e569835e4e9258d3094a57.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/0253be32c895d143248d65c47bf0820258af0757.jpg)
+***
+---贴吧极速版 For UWP
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/f9e6affdc3cec3fd4d89fe9cde88d43f8594279d.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/f08aad8165380cd7da2ae704a944ad345882811c.jpg)
+***
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/150fd5fa43166d2255dd507d4e2309f79252d2a2.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/c0fe7ed9bc3eb135a328f252ae1ea8d3ff1f4465.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/f6093567d01609246bede7f2dc0735fae4cd3400.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/b2ebd9086b63f62442957cea8f44ebf8184ca300.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/e0186ffb513d26974ae54cb45dfbb2fb4216d81e.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/cae7042662d0f7039e7bd03500fa513d2497c507.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/66633eef3d6d55fba4f032cf65224f4a21a4dd1e.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/d729c645ad345982fa68a87b04f431adc9ef846a.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/f2e5f412b07eca8024e9740e992397dda3448364.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/bdeb2635970a304eb5c0ed13d9c8a786cb175c6a.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/06d76ef6905298226a83742adfca7bcb0846d498.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/d41a971e3a292df5911fe1fcb4315c6036a87374.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/9d3036db81cb39db024a2abfd8160924a9183042.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/b2ebd9086b63f62476f870ea8f44ebf8184ca3a3.jpg)
+***
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/d17bc7ed08fa513d2e872237356d55fbb3fbd91b.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/d3e7d77fca80653833c7eafa9fdda144ac34821b.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/6e29c4cd7cd98d10514a45d8293fb80e79ec90b6.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/3b7df9500fb30f24fd4da3eac095d143af4b037d.jpg)
+***
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/b0eb5d282df5e0fef635c7e8546034a85fdf721b.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/d2acb608b3de9c82af48b7666481800a18d8431b.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/ed9abac551da81cb9e6f32245a66d0160b243147.jpg)
+***
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/47fc4f391f30e92455b029d844086e061c95f73d.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/6d0187ff9925bc313869bc7156df8db1ca13701c.jpg)
+***
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/c27fc11fa8d3fd1f3fb510d3384e251f97ca5f94.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/49d0cc19972bd40799ac611473899e510db309e1.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/49d7ba55564e9258be1e34079482d158cdbf4e22.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/dba428c3d5628535b7c960c898ef76c6a6ef6327.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/f20f24176d224f4a24b1c1fa01f790529922d120.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/b8ede119367adab493b9a9aa83d4b31c8501e4e0.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/2ef27a940a7b020896758d086ad9f2d3552cc895.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/d1d7f0dca144ad346d6a396ed8a20cf433ad8573.jpg)
+***
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/edbfb61273f08202eddd2ed643fbfbeda9641b85.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/3b3f6d47f21fbe0966d17cfd63600c338544ad45.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/f3efd750f8198618f58d416d42ed2e7389d4e603.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/7627b238b6003af333184c893d2ac65c1238b6aa.jpg)
+***
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/792fd1fc5266d016986235c19f2bd40737fa35d1.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/ca76de004a90f603bd9220ab3112b31bb151ed36.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/5b21ca6fddc451da2372b107befd5266d216324f.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/3379ce763912b31b71be62c58e18367ad8b4e106.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/cd45ac124954092384a3cc929a58d109b1de490d.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/49d7ba55564e92588dc029029482d158cebf4e5f.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/91f4dda0cd11728b39da23cec0fcc3cec1fd2c58.jpg)
+***
+---贴吧极速版 For UWP
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/07e4de13c8fcc3cebf365cdf9a45d688d63f2059.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/2dd6284b20a44623e5d9318e9022720e0ef3d7c5.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/22249002918fa0ece8caf0e12e9759ee3f6ddbc7.jpg)
+***
+---贴吧极速版 For UWP
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/d8d6150f0cf3d7ca8abba89afa1fbe096963a987.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/91e714f182025aaf04ace927f3edab64014f1ab1.jpg)
+***
+---贴吧极速版 For UWP
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/95cdd1013af33a87e3b190f6ce5c10385143b577.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/cca0f3eff01f3a296fff46229125bc315d607c18.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/e6eacfd2fd1f4134f70096922d1f95cad0c85e18.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/730ee58aa61ea8d3a313e7e89f0a304e241f581a.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/411d5e00213fb80e500bf13b3ed12f2ebb38947d.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/ed9abac551da81cbbccb10215a66d01608243126.jpg)
+***
+---贴吧极速版 For UWP
+Windows XP 完！
+下次介绍Windows Server 2003和 Windows Longhorn关系与演化、NT6的源泉！
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/66633eef3d6d55fb7a86fcf665224f4a22a4dd90.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/592cdb3fb13533fa910648fea0d3fd1f43345ba7.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/e8279a1e4134970a29c3cbff9dcad1c8a5865da7.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/e4361a1fd21b0ef423b6438ed5c451da83cb3efd.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/68c0539a033b5bb573ddfb2e3ed3d539b400bcca.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/68cc7831e924b8992922a2e866061d950b7bf63e.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/91f4dda0cd11728b6d7357f2c0fcc3cec1fd2cfd.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/d1d7f0dca144ad3488b55c57d8a20cf433ad85ca.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/47fc4f391f30e924c7a747e144086e061f95f7d1.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/5d616d7a02087bf48def8c39fad3572c13dfcfd1.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/ec5b49dca3cc7cd95079ef093101213fba0e9184.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/a9a4522bc65c103897411412ba119313b17e891d.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/8de5158a4710b912e4962d2ecbfdfc0390452284.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/d0a6ff23720e0cf3732d952b0246f21fbc09aa7a.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/e4361a1fd21b0ef4234c438ed5c451da83cb3eab.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/dea568b20f2442a795aa2675d943ad4bd31302ab.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/d7dfb30635fae6cd3d9f71b107b30f2443a70f28.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/3632c0eece1b9d160f1041b1fbdeb48f8e546405.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/1292b7170924ab18d4c03ae73dfae6cd79890b05.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/e918ed12632762d078157e6fa8ec08fa503dc629.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/d17bc7ed08fa513db30bb70e356d55fbb0fbd9b7.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/191a5a6c55fbb2fbd9c083c2474a20a44423dc69.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/c27fc11fa8d3fd1f571378ea384e251f94ca5f39.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/480e363c269759eeab54ba1bbafb43166f22dfd4.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/fcc53b6134a85edf8c4d25f341540923df547516.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/91f4dda0cd11728b6e8756f2c0fcc3cec1fd2ca9.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/49d0cc19972bd4077165092d73899e510db309b1.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/fcc53b6134a85edf8d8c24f341540923df5475d7.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/7b33f83cf8dcd1009cd622f17a8b4710bb122f89.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/dea568b20f2442a792842775d943ad4bd3130249.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/61cbdf0f7bec54e7d591c0ceb1389b504dc26ad3.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/f3efd750f819861859d9355442ed2e7389d4e6be.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/f0a59f188618367ab5b7ba0d26738bd4b21ce51e.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/ed9abac551da81cb056c591d5a66d0160b243149.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/06d76ef690529822d3c5e313dfca7bcb0846d466.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/1e2beab0cb1349540b572db45e4e9258d3094a8e.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/8eeffa17fdfaaf5101ed446f845494eef21f7ace.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/65d9b32b2834349bb573ab55c1ea15ce34d3bedb.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/f0a59f188618367ab5fbba0d26738bd4b11ce5e2.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/678bf92e07082838647f19c4b099a9014e08f1e2.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/8f0879168a82b9012f3806e37b8da9773b12efbb.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/4a2505d8f2d3572c988c590c8213632760d0c3ee.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/ec5b49dca3cc7cd9562ef1093101213fba0e91d1.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/a9a4522bc65c1038907d0b12ba119313b27e89d1.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/32fa6bf2d7ca7bcbaeee02ffb6096b63f424a8bb.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/cca0f3eff01f3a29d542101e9125bc315e607c4a.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/1b41aeeb15ce36d36ee346e032f33a87eb50b175.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/b32ad38e8c5494ee0505cbc925f5e0fe98257e35.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/fcc53b6134a85edf726b3bf341540923df547575.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/0253be32c895d143e15020f37bf082025baf0735.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/913cc087c9177f3e41ac21cd78cf3bc79d3d564f.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/94cbe095a4c27d1eee72e60413d5ad6edfc4388b.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/bcf7f544d688d43fbe314c32751ed21b0cf43b4f.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/e3381bd88d1001e9e3c8d2cfb00e7bec56e79774.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/8be72e550923dd54572d61a8d909b3de9e82488d.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/eb90644e78f0f736fc0c8fc10255b319e9c41371.jpg)
+***
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/f47beb5594eef01fca24da05e8fe9925bd317d30.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/745c39de8db1cb13b35afed3d554564e93584b31.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/7627b238b6003af3827e1fa03d2ac65c1238b624.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/e1b0ca355982b2b71ae2fb0439adcbef74099be3.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/a6391c889e510fb34e65b557d133c895d3430ce3.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/0fbe47a5462309f708ab6ed27a0e0cf3d5cad624.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/95cdd1013af33a8750adc3dace5c10385143b520.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/990db02b6059252d75542ac53c9b033b59b5b9a1.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/750e81cc7b899e513a5b0dd54aa7d933ca950d0a.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/f86dce004c086e06727d088a0a087bf408d1cb0b.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/d2acb608b3de9c8226b0ce4e6481800a1bd8430b.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/c760c3c37d1ed21b2cf21824a56eddc450da3f28.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/5b21ca6fddc451daa6cd3a2abefd5266d1163228.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/4f47682542a7d933f0c9d2b2a54bd11371f00186.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/94f352fbe6cd7b89aaa40d42072442a7db330e1f.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/3c2dea1101e93901e423b1ff73ec54e734d196c7.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/f47beb5594eef01fe4352404e8fe9925be317dc7.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/66633eef3d6d55fbce2548e765224f4a22a4dd01.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/d2acb608b3de9c823ff1c74e6481800a1bd84354.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/a9a4522bc65c1038fb9df003ba119313b27e8901.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/592cdb3fb13533fa7422adefa0d3fd1f43345b54.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/2ef27a940a7b0208122501206ad9f2d3552cc87c.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/66633eef3d6d55fbce5148e765224f4a22a4dd55.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/09a06e22dd54564e778ac1f8bbde9c82d3584f7d.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/4c07b0cb7bcb0a4677ccaef86363f6246960af7e.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/5ee3ed83b9014a90b082637ca1773912b11beeac.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/9596e234e5dde7115b3c6637afefce1b9f16617e.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/79f5463eb80e7bec95342620272eb93899506b7e.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/edbfb61273f082027029b3fe43fbfbeda9641ba8.jpg)
+***
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/99c7af94d143ad4bf64f64018a025aafa60f0686.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/e3381bd88d1001e98f8736ceb00e7bec56e797a9.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/f08aad8165380cd73514802ca944ad345b8281da.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/39c56d54b319ebc482b95a588a26cffc1c171626.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/07e4de13c8fcc3cec00de5f29a45d688d63f2012.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/cd45ac1249540923078d4fbf9a58d109b1de4904.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/fefd0c62f6246b608de99eb5e3f81a4c530fa205.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/cb20d41d8701a18bca2b3e8e962f07082a38fe20.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/cd45ac124954092307a84fbf9a58d109b1de4927.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/c7f5c68a87d6277fd1f51ef920381f30eb24fc05.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/1292b7170924ab188fdbcdf63dfae6cd79890b12.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/4903f7539822720e7be3cd3b73cb0a46f31fab33.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/2b946b328744ebf89be24dfed1f9d72a6259a751.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/9d3036db81cb39dba6754e97d8160924a91830aa.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/c0fe7ed9bc3eb135d18f9c7aae1ea8d3ff1f4498.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/8de5158a4710b91234a5dd3fcbfdfc0390452284.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/ed9abac551da81cb34e9a80c5a66d0160b2431dc.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/f6093567d0160924b96f89dadc0735fae4cd3499.jpg)
+Windows Server 2003完！
+在看我贴子的回“”
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/f6f45df23a87e950b031edad18385343f9f2b4c6.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/9d3036db81cb39dbb7e07997d8160924a91830c7.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/967cb33e8794a4c2855bf9ea06f41bd5af6e39e8.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/07e4de13c8fcc3ce32b8d7f29a45d688d63f20e8.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/5b21ca6fddc451da7e8e122abefd5266d21632e8.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/e6eacfd2fd1f41344c3c1bbf2d1f95cad3c85ed9.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/bb06d5109313b07e4cae57c904d7912395dd8cd1.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/91fdd4df9c82d15804885e70880a19d8be3e42da.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/a9a4522bc65c1038d270c903ba119313b27e89de.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/39c56d54b319ebc4ab2971588a26cffc1c171696.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/38049037afc37931136381e8e3c4b74541a911d8.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/f8fa1ced54e736d18e188bc993504fc2d76269d9.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/b6f7148ca97739129b2d82a0f0198618347ae2d9.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/411d5e00213fb80ee5db66163ed12f2ebb3894da.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/cd45ac1249540923641c6cbf9a58d109b1de49eb.jpg)
+***
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/4c0056accbef7609db7c9a5e26dda3cc7ed99ef5.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/25cc6bd6912397dd263d9bc55182b2b7d2a287a4.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/e772ae167f3e67091044463e33c79f3dfadc55a4.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/ebecf02ad40735fa18044d7896510fb30d240874.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/d53eb6c9a786c917a89351f8c13d70cf39c75750.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/65ebf2cbd1c8a7861ad446cf6f09c93d72cf506e.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/dea568b20f2442a7d89ff164d943ad4bd3130256.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/730ee58aa61ea8d3b8fbfec69f0a304e271f5808.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/32fa6bf2d7ca7bcbde0232edb6096b63f424a8e9.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/97de0758252dd42acddc8b690b3b5bb5cbeab815.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/e9f52b096e061d95b870c2fa73f40ad163d9ca30.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/5ee3ed83b9014a9061facc7fa1773912b11bee26.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/a6391c889e510fb376d9fd55d133c895d3430c21.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/4f47682542a7d933b39b11b1a54bd11372f00132.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/94de4f35349b033bbf990a181dce36d3d739bdd1.jpg)
+***
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/25cc6bd6912397dd5d456cc65182b2b7d1a2872e.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/411d5e00213fb80e7cbb9d153ed12f2ebb3894fb.jpg)
+***
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/035de527cffc1e17078e7ff34290f603728de931.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/a7e5f7ee76c6a7efd6175be4f5faaf51f2de6630.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/f08aad8165380cd76429512fa944ad3458828137.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/8de5158a4710b9129cf7053ccbfdfc0393452237.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/01c0f00b304e251fd6a0173aaf86c9177d3e5396.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/dedb600928381f304f4f7e6ba1014c086c06f090.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/1a5bc30e4bfbfbedd438c5bd70f0f736adc31f80.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/ab30d04443a982264427d8e58282b9014890eb00.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/79e6d41ab051f819164bfb88d2b44aed2c73e7f8.jpg)
+***
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/79e6d41ab051f81917dbfa88d2b44aed2c73e768.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/50cc3442fbf2b21179a27c8cc28065380ed78e5e.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/b7f7f68ea0ec08fae7f6ea6551ee3d6d57fbda70.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/6fdade399b504fc2f4823036ecdde71191ef6d1d.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/03e20a234f4a20a490c3bcf499529822730ed01e.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/1b41aeeb15ce36d3208e030333f33a87e850b175.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/6e87ecd5b31c87010f8031d52e7f9e2f0608ffc1.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/68c0539a033b5bb53b5da0cd3fd3d539b700bc75.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/ed9abac551da81cb4c3a03fe5b66d0160824311e.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/68c0539a033b5bb52697adcd3fd3d539b700bcb3.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/e9835e13b31bb0515d8f301b3f7adab44bede054.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/592cdb3fb13533fac4281c1da1d3fd1f40345b58.jpg)
+***
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/990db02b6059252d3ed290373d9b033b5ab5b936.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/a529801090ef76c6834676189416fdfaae516766.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/07e4de13c8fcc3cea06944009b45d688d53f2049.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/bb06d5109313b07e34a5dc3b05d7912396dd8cdb.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/150fd5fa43166d229f4e99a74f2309f79052d23a.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/f08aad8165380cd76e8b2cdea844ad3458828166.jpg)
+***
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/5b21ca6fddc451daee1983d8bffd5266d116320f.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/990db02b6059252d36e9e8373d9b033b5ab5b979.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/61cbdf0f7bec54e72268922db0389b504ec26a76.jpg)
+***
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/a9a4522bc65c1038a75045f1bb119313b17e89c9.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/91acabbe6c81800a2633013db83533fa838b4720.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/d01b11c7a7efce1bbcfc40f9a651f3deb58f6527.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/fefd0c62f6246b60d7213947e2f81a4c500fa2c8.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/b227302d11dfa9ec364bdd246bd0f703908fc196.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/5ab8360ed9f9d72a824a9b2edd2a2834359bbbc9.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/17d876dea9ec8a13d9dca3d3fe03918fa1ecc031.jpg)
+***
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/b6d00c610c3387443002da4f580fd9f9d62aa030.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/4fd025a6d933c895a7526848d81373f0830200ce.jpg)
+***
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/1a5bc30e4bfbfbed2ac7c04c71f0f736aec31f58.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/edbfb61273f082022770670c42fbfbedaa641b1c.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/b7f7f68ea0ec08faefe3e59450ee3d6d54fbda1c.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/d7dfb30635fae6cd0a2c5d5206b30f2443a70f5a.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/bdeb2635970a304e61aa56c9d8c8a786c8175c6a.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/efa594dfb48f8c54b54a331c33292df5e1fe7f59.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/a7e5f7ee76c6a7efd6595815f4faaf51f2de66ff.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/39c56d54b319ebc43d9a80aa8b26cffc1f17161c.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/4aa1d418ebc4b745c8614125c6fc1e178b821505.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/4e007cd4ad6eddc40ecc48c830dbb6fd536633cb.jpg)
+***
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/3379ce763912b31b224f301a8f18367adbb4e1dc.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/17d876dea9ec8a13d03aaad3fe03918fa1ecc0d3.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/4c07b0cb7bcb0a463ff9790a6263f6246a60af24.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/d9d1db305c6034a87bc045b2c2134954082376dc.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/6050212209f790525fc5b50d05f3d7ca7acbd525.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/f9ccfc514fc2d5628a962ddeee1190ef77c66c58.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/a529801090ef76c6b6d205189416fdfaae5167f2.jpg)
+***
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/43cf3cb4c9ea15ced6a41c3abf003af33b87b2b5.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/4cc7e045ebf81a4c858110fade2a6059242da64c.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/e17fe0d7277f9e2f9884e13b1630e924b999f342.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/b828b601baa1cd113f1c8e13b012c8fcc2ce2d54.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/f9ccfc514fc2d5628b4c2cdeee1190ef77c66cb6.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/42fc1cf50ad162d95f449e2f18dfa9ec8b13cd55.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/47fc4f391f30e9241b03600245086e061c95f750.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/fefd0c62f6246b60c0314a47e2f81a4c510fa238.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/f7b124a88226cffc9b6c4681b0014a90f703eab1.jpg)
+***
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/6e29c4cd7cd98d10fe8cf502283fb80e7aec909b.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/d01b11c7a7efce1b8f3631f9a651f3deb58f65dd.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/91e714f182025aafd61f84f8f2edab64024f1acd.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/746f643a5bb5c9eacce1f9d0dc39b6003bf3b3ed.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/91e714f182025aafd7e685f8f2edab64024f1a26.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/47fc4f391f30e9242548660245086e061c95f70f.jpg)
+***
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/d41a971e3a292df5f9da5626b5315c6035a873d9.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/42fc1cf50ad162d96d9f802f18dfa9ec8b13cd82.jpg)
+***
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/27fdae3c70cf3bc7a57b2fdfd800baa1cc112afb.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/f9f52d91f603738d297cee11ba1bb051f919ecc1.jpg)
+***
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/e0186ffb513d2697eb14ec6e5cfbb2fb4216d830.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/a9a4522bc65c1038b36629f1bb119313b17e89db.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/f7b124a88226cffc611b5881b0014a90f703eac2.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/745c39de8db1cb13570bdb20d454564e93584b9c.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/e17fe0d7277f9e2f9168fa3b1630e924b999f39e.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/3379ce763912b31b38302a1a8f18367adbb4e19f.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/3304e5035aafa40f3bf729eea264034f79f019c1.jpg)
+人气惨淡的科普贴[喷]
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/13b79cf3b2119313d8fd84866c380cd790238dbb.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/746f643a5bb5c9ea4f1c78d5dc39b6003bf3b30a.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/cd45ac12495409237e6b19489b58d109b2de49ff.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/09a06e22dd54564e348d9f0fbade9c82d0584f15.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/ab0c7d4d510fd9f9870d2f5f2c2dd42a2934a4e7.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/c7f5c68a87d6277f8638480e21381f30e824fcd7.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/50cc3442fbf2b211f553ff78c38065380dd78ef8.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/ed9abac551da81cbe50ef8fb5b66d01608243115.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/4fd025a6d933c8953c96e34dd81373f083020015.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/f08aad8165380cd7fa63d8dba844ad34588281f8.jpg)
+重要预告：
+11.18至20日更新4030～5098的界面发展史[滑稽]
+【红色丛林】4030～4040
+【暗黑圆石】4042～4053
+【玉翡翠】4050～4074
+【草原大树】4083～4093
+【梦醒了】3790.1232～5001
+【现实的旅程】5048～5060
+【龙的魂魄】5086～5112
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/fccad63433fa828bbe2d41dff41f4134960a5af1.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/b227302d11dfa9ec1bc58a2b6bd0f703908fc11d.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/13b79cf3b21193137dd6238c6c380cd790238d6f.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/7b33f83cf8dcd10099f83c1d7b8b4710b8122f9f.jpg)
+***
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/f3ed8cc5b74543a9e20720f017178a82b80114e7.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/66633eef3d6d55fb2767b21a64224f4a21a4dd5b.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/89e3183f6709c93d5089d4cb963df8dcd000548c.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/dea568b20f2442a7932c2799d843ad4bd01302e5.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/cde466e83901213f58c295e05de736d12e2e950b.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/ed9abac551da81cb0def40f15b66d016082431f2.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/1292b7170924ab18a9c4260b3cfae6cd7a890b35.jpg)
+***
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/7a738e51352ac65cae31a04ff2f2b21192138ac8.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/6e87ecd5b31c8701d34675da2e7f9e2f0608ff14.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/06d76ef690529822efacfeffdeca7bcb0b46d461.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/c0fe7ed9bc3eb1353e597087af1ea8d3fc1f4461.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/b7c2c8c279310a55eabf19c8be4543a98326106c.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/fa55aa10728b47109fe63af0cacec3fdfd032332.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/7625482fb9389b5094502f6e8c35e5dde6116e51.jpg)
+***
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/06d76ef690529822e44ff5ffdeca7bcb0b46d480.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/bd0ec850f3deb48f66516de2f91f3a292cf578cc.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/6e87ecd5b31c8701ca8e7eda2e7f9e2f0608ffcc.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/f32afb83d158ccbf970e7f0610d8bc3eb0354156.jpg)
+***
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/e918ed12632762d075a46a83a9ec08fa503dc66e.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/553a51d2d539b6008b48c18be050352ac75cb77a.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/7627b238b6003af3883c125c3c2ac65c1138b67a.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/c722407e9e2f07084e561c3de024b899a801f2b5.jpg)
+***
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/4fd025a6d933c895e9cbae46d81373f08302004e.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/8be72e550923dd54a58e9255d809b3de9d824807.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/bb19cc65034f78f0b04aafce70310a55b2191cba.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/97de0758252dd42a8b4834960a3b5bb5c8eab8bb.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/4c23f62297dda144106c598fbbb7d0a20df4869f.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/141351d02f2eb9384fc24fcfdc628535e4dd6f51.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/411d5e00213fb80eb49254ea3fd12f2eb8389445.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/ec5b49dca3cc7cd9485c04e43001213fb90e918b.jpg)
+***
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/4aa1d418ebc4b745098f862bc6fc1e178b8215ec.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/8de5158a4710b912ddcac7c3cafdfc03934522fc.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/d1d7f0dca144ad34e3a7b6bad9a20cf430ad85ec.jpg)
+***
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/b828b601baa1cd116161441db012c8fcc2ce2d28.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/17d876dea9ec8a131bcc61ddfe03918fa1ecc02a.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/fcc53b6134a85edf67a0cf1e40540923dc5475d0.jpg)
+【蓝天麦田】
+Windows Longhorn Build 4050 (13 October)
+***
+界面吐槽：特别美的版本[花心]，据说可以梦幻桌面(这个壁纸很美而且也有故事[玫瑰])
+架构：x86
+阶段：Milestone 7
+详细版本：6.0.4050.private/Lab06_demo.031013-1849
+编译日期：2003年10月13日
+泄漏情况：未泄露
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/990db02b6059252d48712e393d9b033b5ab5b99a.jpg)
+【蓝天麦田】
+Windows Longhorn Build 4051
+***
+界面吐槽：此版本色调比4042更暗黑。wim也启用了slate风格，而且支持高级分区操作。
+登陆界面和关于背景变为黑底。
+架构：x86
+阶段：Milestone 7
+详细版本：6.0.4051.0.idx02.031001-1340
+编译日期：2003年10月1日
+泄漏情况：2003年10月20日泄露
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/e17fe0d7277f9e2f580e21351630e924b999f3cd.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/411d5e00213fb80ebdea5dea3fd12f2eb83894cd.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/75dea15d1038534351f4bb1c9a13b07ecb8088cd.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/f9e6affdc3cec3fde8b49a48df88d43f8694277d.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/c722407e9e2f070849f3173de024b899a801f20a.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/f9e6affdc3cec3fdef329b48df88d43f869427f7.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/913cc087c9177f3e62e8c13079cf3bc79e3d5627.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/edbfb61273f082026261ac0242fbfbedaa641b14.jpg)
+【蓝天麦田】
+Windows Longhorn Build 4053
+***
+界面吐槽：除了反馈图标回归，其余和4051没有区别
+架构：x86
+阶段：Milestone 7
+详细版本：6.0.4053.0.main.031022-1720
+编译日期：2003年10月22日
+泄漏情况：2004年3月1日泄露
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/cd45ac12495409233b0f5a439b58d109b2de499a.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/3fca0008c93d70cf3f439330f1dcd100bba12b42.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/23d305d1f703918fd3b004f7583d269758eec49b.jpg)
+【蓝天麦田】
+Windows Longhorn Build 4050 (18 October)
+界面吐槽：强大的特性，一些新图标[真棒]，强大的文件预览功能、侧边栏，PDC2003标识到处都是[喷]
+架构：x86
+阶段：Milestone 7
+详细版本：6.0.4050.private/Lab06_demo.031018-2015
+编译日期：2003年10月18日
+泄漏情况：未泄露
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/411d5e00213fb80ebaa15aea3fd12f2eb8389494.jpg)
+***
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/f8fa1ced54e736d1ebadb73592504fc2d4626942.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/70ba421e95cad1c85b72c71a763e6709c83d5133.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/973e1cca0a46f21f39be656eff246b600d33ae7e.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/1a5bc30e4bfbfbed9d970d4271f0f736aec31f31.jpg)
+***
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/4e007cd4ad6eddc448fd8ec630dbb6fd536633ed.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/bd0ec850f3deb48f582a9be3f91f3a292cf57845.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/b8ede119367adab41a0c217e82d4b31c8601e420.jpg)
+***
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/75dea15d103853435f49bd1c9a13b07ecb80887a.jpg)
+【蓝天麦田】
+Windows Longhorn Build 4050 (19 October)
+界面吐槽：IE的界面特别炫[太开心]侧边栏集成了通知，而且有新的帮助图标
+架构：x86
+阶段：Milestone 7
+详细版本：6.0.4050.private/Lab06_demo.031019-1809
+编译日期：2003年10月19日
+泄漏情况：未泄露
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/68c0539a033b5bb55f1304c33fd3d539b700bc38.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/47fc4f391f30e924e360b80c45086e061c95f738.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/411d5e00213fb80ec51545ea3fd12f2eb8389438.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/bb06d5109313b07e6c79743505d7912396dd8c38.jpg)
+【蓝天麦田】
+Windows Longhorn Build 4050 (20 October)
+界面吐槽：只有特别糊的黑白截图泄露[喷]，出现部分4074特性，比如DWM界面
+架构：x86
+阶段：Milestone 7
+详细版本：6.0.4050.private/Lab06_demo.031020-？？？？
+编译日期：2003年10月20日
+泄漏情况：未泄露
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/2b9791256b600c3302e5fef5134c510fd8f9a160.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/303b5cc69f3df8dc2f8cafacc411728b4610284b.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/3b1833e636d12f2e07588e5d46c2d562843568a7.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/97de0758252dd42aa6b921960a3b5bb5c8eab854.jpg)
+【绿叶葱葱】
+Windows Longhorn Build 4050 (22 October)
+界面吐槽：Jade主题登场，特别详细的侧边栏[真棒]特别强大的资源管理器，任务栏透明
+架构：x86
+阶段：Milestone 7
+详细版本：6.0.4050.private/Lab06_demo.031022-？？？？
+编译日期：2003年10月22日
+泄漏情况：未泄露 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/dfc99fddd100baa133f665864e10b912c9fc2e2e.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/f08aad8165380cd732ca80d0a844ad3458828128.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/09a06e22dd54564e4e60c904bade9c82d0584fff.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/d2b1b189d43f8794adfb6513db1b0ef41ad53aff.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/8eeffa17fdfaaf513934a382855494eef11f7a29.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/7625482fb9389b50f13ec26f8c35e5dde6116e3b.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/b32ad38e8c5494ee3d28222424f5e0fe98257efe.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/f7b124a88226cffc272f928fb0014a90f703eaff.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/f08aad8165380cd733318fd0a844ad34588281d1.jpg)
+【绿叶葱葱】
+Windows Longhorn Build 4067(终于脱离4050怪圈了[喷])
+界面吐槽：绿叶葱葱壁纸登场，出现的窗口可能是DX10技术
+架构：x86
+阶段：Milestone 7
+详细版本：6.0.4067.private/ibbm_dev_tech(davidmo).040212-1646
+编译日期：2004年2月12日
+泄漏情况：未泄露
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/c722407e9e2f0708654c033de024b899a801f2b3.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/b7f7f68ea0ec08fa34a63a9a50ee3d6d54fbda5a.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/bdeb2635970a304ece5289c7d8c8a786c8175c94.jpg)
+【绿叶葱葱】
+Windows Longhorn Build 4069
+界面吐槽：只有特别糊的一张图[喷]看不出有什么变化
+架构：x86
+阶段：Milestone 7
+详细版本：6.0.4069？？？
+编译日期：2004年？月？日
+泄漏情况：未泄露 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/c2d2a8fd1e178a828d13559dff03738da877e8d1.jpg)
+【绿叶葱葱】
+Windows Longhorn Build 4072
+界面吐槽：这是什么鬼图[喷]是xp仿的Longhorn？
+架构：x86
+阶段：Milestone 7
+详细版本：6.0.4072.0.Lab06_n.040201-1902
+编译日期：2004年2月1日
+泄漏情况：未泄露，而且九成是假的 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/d7fe574f251f95ca3868878bc0177f3e66095267.jpg)
+【绿叶葱葱】
+Windows Longhorn Build 4074
+界面吐槽：出现一些NT6图标[真棒]有两种AERO界面(其中一种有3D效果)，WIM下面的进度条更像NT6了，时钟被改到下面，任务栏特别详细的设置，彩色背景栏大变化，IE界面改动，帮助更详细
+架构：x64, x86, IA64
+阶段：Milestone 7
+详细版本：6.0.4074.0.idx02.040425-1535
+编译日期：2004年4月25日
+泄漏情况：2004年5月4日泄露
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/fcc53b6134a85edf4166e91e40540923dc54751e.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/e4361a1fd21b0ef418128f63d4c451da80cb3e0d.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/dfc99fddd100baa13ecd50864e10b912c9fc2e1b.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/4aa1d418ebc4b7456f5ba02bc6fc1e178b821530.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/3b7df9500fb30f24547afb3ec195d143ac4b031b.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/06d76ef6905298221e212ffedeca7bcb0b46d4f6.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/4cc7e045ebf81a4c2b20faf4de2a6059242da6f6.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/e9f52b096e061d954589200572f40ad163d9ca31.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/b6d00c610c33874493c93941580fd9f9d62aa0f0.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/e71ba91a9d16fdfa118ed1d3bd8f8c5495ee7b26.jpg)
+4074的Jade主题 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/7d9932fab2fb43160ea66a4729a4462308f7d343.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/d53eb6c9a786c91798634204c03d70cf3ac757a4.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/f32afb83d158ccbfb9dca50710d8bc3eb03541a4.jpg)
+预告：
+11月19日更新4083～5001的界面发展史[滑稽]
+***
+【稀树草原】4083～4093
+【生命诞生】3790.1232～5001
+11月20日更新5048～5112的界面发展史[滑稽]
+【现实的旅程】5048～5060
+【龙的魂魄】5086～5112
+我可不想看到后面全是空楼[不高兴]
+【稀树草原】
+Windows Longhorn Build 4083
+界面吐槽：只有64位镜像泄露，是第一个使用wim模式安装的64位Windows，也有了首个64位的PE，一些重要的Longhorn特性只有32位才有，默认壁纸是橙色的
+架构：x64
+阶段：Milestone 8
+详细版本：6.0.4083.0.main.040516-1537
+编译日期：2004年5月16日
+泄漏情况：已泄露 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/4f47682542a7d933a5431c4da44bd11372f0011e.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/94cbe095a4c27d1e84ccc3fa12d5ad6edcc4381f.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/cca0f3eff01f3a293a8c30f09025bc315d607cb9.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/7add4af4e0fe9925a1e6916e3da85edf8cb1711f.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/191a5a6c55fbb2fbfa01a32c464a20a44723dcd8.jpg)
+【稀树草原】
+Windows Longhorn Build 4084
+界面吐槽：除了没有Aero、换了稀树草原壁纸，时钟在侧边栏最上面之外，和4074区别不大
+***
+架构：x86
+阶段：Milestone 8
+详细版本：6.0.4084.0.main.040527-0915
+编译日期：2004年5月27日
+泄漏情况：2011年10月16日泄露
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/f8fa1ced54e736d12e70683692504fc2d46269a6.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/65ebf2cbd1c8a786f3e4ae306e09c93d71cf5033.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/4cc7e045ebf81a4c9dcb08f7de2a6059242da60d.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/edbfb61273f082023569750142fbfbedaa641b0e.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/3b7df9500fb30f2425fd083dc195d143ac4b039a.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/4a2505d8f2d3572cb65978e28313632763d0c34f.jpg)
+【稀树草原】
+Windows Longhorn Build 4088
+界面吐槽：4074的一些项目回归，搜索、帮助与主题界面大改
+架构：x86
+阶段：Milestone 8
+详细版本：6.0.4088.0.Lab02_N.040706-1655
+编译日期：2004年7月6日
+泄漏情况：2015年1月13日泄露
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/1a5bc30e4bfbfbedc45ad64171f0f736aec31f86.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/c7b08cf91a4c510f10eb02246959252dd52aa5d3.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/973e1cca0a46f21f7e75be6dff246b600d33ae45.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/c2f63daea40f4bfb95967e6a0a4f78f0f63618bb.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/1e2beab0cb1349541530085a5f4e9258d0094ad3.jpg)
+【稀树草原】
+Windows Longhorn Build 4089
+界面吐槽：有4074的基本主题以及4093的Movie Maker 3.0，详细的时钟以及新图标
+***
+架构：x86
+阶段：Milestone 8
+详细版本：6.0.4089.private/Lab06_dev_ux.040721-1800
+编译日期：2004年7月21日
+泄漏情况：未泄露
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/dc76b659ccbf6c81a21cc0d6b53eb13532fa40de.jpg)
+【稀树草原·最后的绿洲】
+Windows Longhorn Build 4093
+界面吐槽：带有很多微软机密的文件，比如Movie Maker 3.0、集成个性化、语音控制等等。之所以有这么多微软机密文件，那是因为开发者的情怀，开发了一个最后的晚会！！！
+架构：x86
+阶段：Milestone 8
+详细版本：6.0.4093.0.main.040819-1215
+编译日期：2004年8月19日
+泄漏情况：2006年8月28日泄露
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/ebecf02ad40735fab1d7a78797510fb30e2408da.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/03e20a234f4a20a4f692d2f999529822730ed072.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/f86dce004c086e068874d1750b087bf40bd1cb22.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/75dea15d103853432ceb6e1f9a13b07ecb8088da.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/c5c182dce71190ef763d7ce1c71b9d16fcfa603b.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/13b79cf3b21193136bcf118e6c380cd790238d72.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/6fdade399b504fc22f78593becdde71191ef6ddb.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/f0a59f188618367a594b91e327738bd4b11ce5c0.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/f6f45df23a87e950e1ce1d5219385343faf2b42d.jpg)
+【生命诞生】
+Windows Longhorn Omega-13 Build 3790.1232
+界面吐槽：核心2003 SP1 BTEA、外表XP SP2，拿着Longhorn遗嘱的Build
+架构：x86
+阶段：Omega-13
+详细版本：5.2.3790.1232.winmain.040819-1629
+编译日期：2004年8月19日
+泄漏情况：2011年8月14日泄露
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/13b79cf3b21193137eca228e6c380cd790238d7d.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/3fca0008c93d70cf13707733f1dcd100bba12b7f.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/39c56d54b319ebc4d2fdaba78b26cffc1f171678.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/cb20d41d8701a18bfbccce71972f07082938fedb.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/bcf7f544d688d43fbf1f4ccc741ed21b0ff43b4b.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/d729c645ad345982654438ac05f431adcaef843c.jpg)
+【生命诞生】
+Windows Longhorn Omega-13 Build 5001
+***
+界面吐槽：默认字体是微软雅黑，壁纸多了一头牛，关于界面有lh字样
+架构：x86
+阶段：Omega-13
+详细版本：6.0.5001.winmain.040927-1610
+编译日期：2004年9月27日
+泄漏情况：未泄露
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/c2d2a8fd1e178a82d03aa09eff03738da877e884.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/d9d1db305c6034a85da867bfc2134954082376bf.jpg)
+11月20日更新5048～5112的界面发展史【现实的旅程】5048～5060【龙的魂魄】5086～5112
+【补充】4093的隐藏AVALON程序 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/4e007cd4ad6eddc4865fd0db30dbb6fd5366334f.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/b0eb5d282df5e0fe0139ed21556034a85fdf72e6.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/20ad422cd42a28346785522b52b5c9ea14cebfe0.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/5b21ca6fddc451da594e68cbbffd5266d116324f.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/4c0056accbef76093f38fdbf27dda3cc7dd99ed0.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/2ef27a940a7b020858035ac16bd9f2d3562cc839.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/6d0187ff9925bc31c79664b857df8db1ca137038.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/f2e5f412b07eca800dcf5cc7982397dda0448339.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/bb19cc65034f78f00116fed370310a55b2191ce2.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/f3efd750f81986183a748ba443ed2e738ad4e6d0.jpg)
+【现实的旅程】
+Windows Longhorn Omega-13 Build 5048
+界面吐槽：PE下边的进展条与4074有些区别，第二阶段多了一个logo，同时有个新的启动界面。Aero界面正式登场，资源管理器巨大改造已经偏向Vista，WMP升级到了10。也有一些新图标
+架构：x64, x86
+阶段：Omega-13
+详细版本：6.0.5048.0.winmain_idx02.050401-0536
+编译日期：2005年4月1日
+泄漏情况：2005年4月25日释出 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/0f36b2638535e5dd6384c5ff7fc6a7efcf1b625f.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/03e20a234f4a20a470535ce799529822730ed0b2.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/a529801090ef76c620c29b0b9416fdfaae5167f7.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/4e007cd4ad6eddc48258d4db30dbb6fd5366334c.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/8a7402390cd79123f1a8f454a4345982b3b780bf.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/65d9b32b2834349b53bc0ea5c0ea15ce37d3be49.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/3304e5035aafa40fa673aefda264034f79f0194a.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/bdeb2635970a304e976ec0dad8c8a786c8175cb3.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/2b9791256b600c33c26bbee8134c510fd8f9a1f1.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/990db02b6059252d991a7d243d9b033b5ab5b9f2.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/8c4b0b80800a19d81961e9253afa828ba71e46a1.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/d8d6150f0cf3d7ca41e65256fb1fbe096a63a9f7.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/cde466e83901213fce3c23fc5de736d12e2e95fc.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/eb90644e78f0f7365f4c21210355b319eac41351.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/f1c154fb828ba61e01f0a40f4834970a314e59ed.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/edbfb61273f08202b2c1fc1f42fbfbedaa641bb0.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/3b006dd062d9f2d348a349cfa0ec8a136227cc51.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/2c75e70b19d8bc3e17bb6bea8b8ba61ea9d34550.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/dedb600928381f30faabe089a0014c086f06f051.jpg)
+【现实的旅程】
+Windows Longhorn Omega-13 Build 5054
+界面吐槽：除了壁纸变成小草和语音控制之外，其余区别不大
+架构： x86
+阶段：Omega-13
+详细版本：6.0.5054.0.vbl_ux_nisd.050404-1730
+编译日期：2005年4月4日
+泄漏情况：未泄露 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/745c39de8db1cb13dfb35333d454564e93584b29.jpg)
+【现实的旅程】
+Windows Longhorn Omega-13 Build 5058
+界面吐槽：新增玻璃板壁纸
+架构： x86
+阶段：Omega-13
+详细版本：6.0.5058.0.vbl_wcp_um_d2dev.050412-1800
+编译日期：2005年4月12日
+泄漏情况：未泄露
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/d9d1db305c6034a8cec7d0a1c2134954082376da.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/9da0314f9258d1092af1c192d858ccbf6d814df1.jpg)
+【现实的旅程】
+Windows Longhorn Omega-13 Build 5059
+界面吐槽：
+架构： x86
+阶段：Omega-13
+详细版本：6.0.5059.0.vbl_wcp_avalon.050412-1805
+编译日期：2005年4月12日
+泄漏情况：未泄露 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/49d0cc19972bd407e1acb8dd72899e510eb30998.jpg)
+【现实的旅程】
+Windows Longhorn Omega-13 Build 5060
+界面吐槽：据说有新式登陆界面
+架构： x86
+阶段：Omega-13
+详细版本：6.0.5060.0.vbl_wcp_avalon.050417-1805
+编译日期：2005年4月17日
+泄漏情况：未泄露 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/90e26e25ab18972b044954eaefcd7b899f510a90.jpg)
+【龙的魂魄】
+从这个阶段开始Omega-13逐渐成长为一条神龙
+【龙的魂魄】
+Windows Longhorn Omega-13 Build 5086
+界面吐槽：Aero界面泛黑，主题色调变为暗黑，IE和资源管理器巨大改造，一些图标定型
+架构： x86
+阶段：Omega-13
+详细版本：6.0.5086.0.winmain_idx02.050621-2010
+编译日期：2005年6月21日
+泄漏情况：未泄露
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/6d0187ff9925bc31db5450b857df8db1ca1370fe.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/ca76de004a90f6038126cd673012b31bb151ed76.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/2b946b328744ebf82215351fd0f9d72a6159a79b.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/90e26e25ab18972b195a51eaefcd7b899f510aa7.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/750e81cc7b899e51dde96b344ba7d933c9950da4.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/e0186ffb513d2697462d597d5cfbb2fb4216d80d.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/c2d2a8fd1e178a8256c72e80ff03738da877e809.jpg)
+【龙的魂魄】
+Windows Longhorn Omega-13 Build 5087
+界面吐槽：充电中的图标以及笑脸图标
+架构： x86
+阶段：Omega-13
+详细版本：6.0.5086.0.vbl_ux_partners_ie.050616-1730
+编译日期：2005年6月16日
+泄漏情况：未泄露
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/ab30d04443a9822627f876078382b9014b90ebcf.jpg)
+更正详细版本：6.0.5087.0.vbl_ux_partners_ie.050616-1730
+【龙的魂魄】
+Windows Longhorn Omega-13 Build 5098
+界面吐槽：一些图标拟物化，新的控制面板以及登陆界面
+架构： x86
+阶段：Beta1
+详细版本：6.0.5098.0.winmain_beta1.050628-1740
+编译日期：2005年6月28日
+泄漏情况：貌似曾经泄露过，但失传的版本 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/edbfb61273f082028d1ecd1f42fbfbedaa641b73.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/0b0f9cecab64034fa5a59e26a6c379310b551d9f.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/01c0f00b304e251f0abbb8d8ae86c9177e3e53b3.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/42fc1cf50ad162d9ffbe3e3c18dfa9ec8b13cdb7.jpg)
+【龙的魂魄】
+Windows Vista Build 5112
+界面吐槽：正式定名Vista，安装程序使用清晰的蓝色，家长控制回归，IE升级到7 Beta，有了选项卡浏览功能，首次出现UAC
+架构： x64, x86
+阶段：Beta1
+详细版本：6.0.5112.0.winmain_beta1.050720-1600
+编译日期：2005年7月20日
+泄漏情况：2005年7月27日释出 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/3379ce763912b31b5d5295098f18367adbb4e1ce.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/e4361a1fd21b0ef4a238c17ed4c451da80cb3e37.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/c722407e9e2f0708d5d57320e024b899a801f230.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/4e007cd4ad6eddc4eaddecdb30dbb6fd536633c9.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/99c7af94d143ad4b01151ee08b025aafa50f06c8.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/7625482fb9389b502a66a5728c35e5dde6116e6e.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/8c4b0b80800a19d82c7bdc253afa828ba71e468f.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/5fc48e25b899a9014d84031614950a7b0308f556.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/79f5463eb80e7bec37945bc1262eb9389a506bbd.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/90566bf531adcbef21062626a5af2edda2cc9fd1.jpg)
+5112安装程序 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/ebecf02ad40735fa25150b9997510fb30e24081a.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/42fc1cf50ad162d9f7d2263c18dfa9ec8b13cdc3.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/6fdade399b504fc2b062f425ecdde71191ef6dc2.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/d729c645ad345982fd22a0b205f431adcaef845f.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/5fc48e25b899a901b2de1e1614950a7b0308f519.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/1a5bc30e4bfbfbed7f87735f71f0f736aec31f2d.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/e8279a1e4134970aa6b4550f9ccad1c8a5865dc4.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/68c0539a033b5bb5fe0f65de3fd3d539b700bc2f.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/edbfb61273f082028a49d41f42fbfbedaa641b28.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/f243b7a30cf431ad99a507194236acaf2fdd9894.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/e918ed12632762d0fb11e09fa9ec08fa503dc6dc.jpg)
+重要预告：下次更新5203～6000的界面发展史日期末定
+【故人回归】5203～5231【多彩圆球】5259～5270【黄土针林】5308～5456【白石山滩】5472～5600【乱码丛生】5700～5754【北极光】5808～6000
+【故人回归】
+Windows Vista Build 5203
+界面吐槽：比5112的生成时间还早
+架构：
+阶段：Beta1
+详细版本：6.0.5203.0.winmain.050702-1000
+编译日期：2005年7月2日
+泄漏情况：末泄露 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/86a877395343fbf2a4d50d09b97eca8064388f10.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/c27fc11fa8d3fd1f27a00910394e251f94ca5f60.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/94f352fbe6cd7b89098691a9062442a7d8330e23.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/e8279a1e4134970a583fbb059ccad1c8a6865d45.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/8eeffa17fdfaaf51b04a2a95855494eef11f7a60.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/dea568b20f2442a742a8568fd843ad4bd013026f.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/5b21ca6fddc451da0a17a7c1bffd5266d1163228.jpg)
+【故人回归】
+Windows Vista Build 5209
+界面吐槽：小气的泄露者！
+架构：？？
+阶段：Beta1
+详细版本：6.0.5209.0.vbl_media_core.050728-1800
+编译日期：2005年7月28日
+泄漏情况：末泄露 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/6fdade399b504fc2b4b8f01fecdde71191ef6d3e.jpg)
+【故人回归】
+Windows Vista Build 5212
+界面吐槽：首次出现圆球开始按钮，资源管理器改进
+架构：？？
+阶段：Beta 1
+详细版本：6.0.5212.0.vbl_ux_dev_checkin.050808-1730
+编译日期：2005年8月8日
+泄漏情况：末泄露 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/990db02b6059252dff685f1e3d9b033b5ab5b9a6.jpg)
+【故人回归】
+Windows Vista Build 5219
+界面吐槽：任务栏透明，气泡提醒变成Vista风格，关于图片改为显示淡绿色白字的Windows Vista。更新了很多自带游戏，控制面板和搜索改进，多媒体功能大改进
+架构：x64, x86
+阶段：Beta 1
+详细版本：6.0.5219.0.winmain_idx02.050830-2010
+编译日期：2005年8月30日
+泄漏情况：2005年9月13日释出
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/4cc7e045ebf81a4c489c5dd3de2a6059242da677.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/fcc53b6134a85edfe7464f3940540923df5475d3.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/edc03e83b2b7d0a23165b587c2ef76094a369a75.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/0a1949728bd4b31c58a425a18ed6277f9f2ff802.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/23d305d1f703918f5b468cd0583d269758eec40f.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/891e72cf36d3d53991e5bed93387e950372ab0c1.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/768ebdb54aed2e73564637368e01a18b86d6fa77.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/6d0187ff9925bc313b98b08257df8db1c91370dc.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/dedb600928381f300ec23cb3a0014c086c06f0c3.jpg)
+蓝图预告：6000之后发一个新贴
+暂定名称：【更贴—交流】Windows界面扁平史·水晶传说篇
+欢迎建议贴子怎么改进
+【故人回归】
+Windows Vista Build 5221
+界面吐槽：圆球按钮定形
+架构：x64, x86
+阶段：Beta 1
+详细版本：6.0.5221
+编译日期：2005年？月？日
+泄漏情况：末泄露 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/fefd0c62f6246b60044c1676e2f81a4c500fa263.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/e1b0ca355982b2b7ff9f9dc638adcbef77099ba1.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/1e2beab0cb13495469714c665f4e9258d0094abe.jpg)
+【故人回归】
+Windows Vista Build 5224
+界面吐槽：开发Windows的现场？
+架构：x64, x86
+阶段：Beta 1
+详细版本：6.0.5224
+编译日期：2005年？月？日
+泄漏情况：末泄露 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/d2acb608b3de9c82f4f91f8d6581800a18d8430d.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/d01b11c7a7efce1b91cf2fc8a651f3deb68f65c5.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/5d616d7a02087bf4ab96b1ebfbd3572c10dfcfb4.jpg)
+【故人回归】
+Windows Vista Build 5225
+界面吐槽：用户控制完善
+架构：x64, x86
+阶段：Beta 1
+详细版本：6.0.5225.0.winmain.050830-2131
+编译日期：2005年8月30日
+泄漏情况：末泄露 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/2dd6284b20a44623b11144609122720e0ef3d7cb.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/592cdb3fb13533faae71722ca1d3fd1f43345be6.jpg)
+【故人回归】
+Windows Vista Build 5226
+界面吐槽：可以看出侧边栏回归
+架构：x64, x86
+阶段：Beta 1
+详细版本：6.0.5226.0.vbl_wcp_wolgn_dev.050908？？
+编译日期：2005年9月8日
+泄漏情况：末泄露
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/c2f63daea40f4bfb96587d560a4f78f0f6361819.jpg)
+【故人回归】
+Windows Vista Build 5231.0
+界面吐槽：系统属性有铰大变化。控制面板与日历改进，IE7标签好评，WMP虽然还是10，但是风格有明显的变化
+架构：x64, x86
+阶段：Beta 1
+详细版本：6.0.5231.0.winmain.050912-2020
+编译日期：2005年9月12日
+泄漏情况：2005年10月17日释出
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/cde466e83901213f55879ade5de736d12e2e9576.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/553a51d2d539b600f191dbb5e050352ac75cb74f.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/b6d00c610c338744519bfb7e580fd9f9d62aa048.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/750e81cc7b899e515ad6ee164ba7d933c9950d49.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/1292b7170924ab18d84c35353cfae6cd7a890b4b.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/66633eef3d6d55fb1772a22464224f4a21a4dd76.jpg)
+5231的WMP
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/9a402dec2e738bd4cc466433a88b87d6267ff947.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/6050212209f790523338913c05f3d7ca7acbd587.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/f7b124a88226cffc707169b0b0014a90f703ea4b.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/a529801090ef76c65eb82d299416fdfaae516744.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/91fdd4df9c82d158da808fb3890a19d8bd3e42a3.jpg)
+【故人回归】
+Windows Vista Build 5231.2
+界面吐槽：除了系统属性之外，和5231.0没有区别
+架构：x64, x86
+阶段：Beta 1
+详细版本：6.0.5231.2.winmain_idx03.051004-2120
+编译日期：2005年10月4日
+泄漏情况：2005年10月17日释出 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/5ee3ed83b9014a9098dd94bfa0773912b11beec3.jpg)
+【多彩圆球】
+Windows Vista Build 5259.0
+界面吐槽：全新的安装程序以及强悍回归的OOBE为这个版本进行了巨大的进化！全新的任务栏和开始菜单基本定型！正式启用Windows徽标作为开始按钮，一直沿用到现在！控制面板左侧图片换成绿色的图片，系统属性被集成在控制面板上，很多设定定形。首次出现库，WMP更暗黑了。IE7标签变回惨白差评。Outlook Express改名为Windows Mail
+架构：x86
+阶段：Beta 1
+详细版本：6.0.5259.0.winmain_idx02.051113-2110
+编译日期：2005年11月13日
+泄漏情况：2005年11月22日释出 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/4903f7539822720ea9083cf872cb0a46f01fabe0.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/d1d7f0dca144ad348a335985d9a20cf430ad851e.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/f3efd750f819861844b1318643ed2e738ad4e630.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/c7f5c68a87d6277fe2ffec3a21381f30e824fc3d.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/3304e5035aafa40f1c2710dfa264034f7af019c0.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/ab30d04443a98226abccf2258382b9014b90eb9d.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/e9f52b096e061d958c9ce93a72f40ad160d9cad4.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/3b006dd062d9f2d3dc1efdeda0ec8a136227cc9f.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/c722407e9e2f07085514f302e024b899a801f291.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/512bceed8a136327f3321c31988fa0ec0afac7cf.jpg)
+5259·安装程序 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/7b33f83cf8dcd1009e703d237b8b4710b8122f3d.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/ed9abac551da81cb031446cf5b66d01608243133.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/750e81cc7b899e51491bff164ba7d933c9950d14.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/c27fc11fa8d3fd1f55fb6738394e251f94ca5f33.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/38049037afc379315094432be2c4b74542a9112d.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/61cbdf0f7bec54e7d73bdf1cb0389b504dc26ad7.jpg)
+5259·OOBE 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/4c07b0cb7bcb0a46516d4f3b6263f6246a60af5f.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/0cfc09071d950a7b837a8ac603d162d9f3d3c95f.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/43cf3cb4c9ea15ce8ef2240bbf003af33b87b28e.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/4e007cd4ad6eddc466d270f930dbb6fd536633f4.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/92ef69f51bd5ad6eebcca0e888cb39dbb7fd3cf4.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/b7c2c8c279310a55e91f1af6be4543a9832610ea.jpg)
+【多彩圆球】
+Windows Vista Build 5268
+界面吐槽：网络图标和ie图标换了，WMP透明很赞
+架构：
+阶段：Beta 1
+详细版本：6.0.5268.0.winman.051117-2200
+编译日期：2005年11月17日
+泄漏情况：未泄露 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/480e363c269759eeac1da6c9bbfb43166c22df5d.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/cb20d41d8701a18bf5c4d44d972f07082938feff.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/035de527cffc1e17d5854a334390f603728de9f4.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/e71ba91a9d16fdfa425200ecbd8f8c5495ee7be8.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/0b0f9cecab64034f2cba0504a6c379310b551db6.jpg)
+【多彩圆球】
+Windows Vista Build 5270.9
+界面吐槽：OOBE细节变化以及全新的登录界面。IE图标定形。WMP介绍完善。媒体中心完善
+架构：x64, x86
+阶段：Beta 2
+详细版本：6.0.5270.9.winmain_idx03.051214-1910
+编译日期：2005年12月14日
+泄漏情况：2005年12月20日释出 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/fefd0c62f6246b60ad6c7f76e2f81a4c500fa24c.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/d53eb6c9a786c9176b7a9f3bc03d70cf3ac757a8.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/cd45ac124954092327d0ae7c9b58d109b2de4969.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/a6391c889e510fb33062ba95d033c895d0430caa.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/7a738e51352ac65ca90bab71f2f2b21192138a98.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/8eeffa17fdfaaf511a8b4cbd855494eef11f7aba.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/b32ad38e8c5494ee1dd9c21b24f5e0fe98257e2b.jpg)
+警告：不回贴，楼主就不会更贴！！！
+蓝图预告：
+【黄土针林】5308～5456【白石山滩】5472～5600【乱码丛生】5700～5754【北极光】5808～6000
+6000之后发一个新贴暂定名称：【更贴—交流】Windows界面扁平史·水晶传说篇欢迎建议贴子怎么改进
+【黄土针林】
+Windows Vista Build 5308.17
+界面吐槽：开机画面变丑了，安装程序基本定型，欢迎中心驾到！控制面板左栏背景图的颜色渐变和6000相同，控制面板拟物化。侧边栏作为组件正式登陆。
+架构：x64, x86
+阶段：Beta 2
+详细版本：6.0.5308.17.winmain_idx01.060217-2200
+编译日期：2006年2月17日
+泄漏情况：2006年2月22日释出 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/4a2505d8f2d3572ca60168d88313632760d0c3cd.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/94cbe095a4c27d1eb0eccfc012d5ad6edfc438e5.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/c2f63daea40f4bfb79186a500a4f78f0f53618db.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/dc76b659ccbf6c81ba9ad8ecb53eb13532fa407e.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/95cdd1013af33a8704b4f41ecf5c10385143b5cb.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/745c39de8db1cb13676fcb17d454564e93584ba1.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/e3381bd88d1001e93292e00bb10e7bec55e79779.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/d53eb6c9a786c9173505a53dc03d70cf3ac757a1.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/65d9b32b2834349be7ff9a81c0ea15ce37d3be2b.jpg)
+【黄土针林】
+Windows Vista Build 5308.60
+界面吐槽：终级圆球登场
+架构：x86
+阶段：Beta 2
+详细版本：6.0.5308.60.winmain_idx01.060223-2145
+编译日期：2006年2月23日
+泄漏情况：2006年2月28日释出 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/75dea15d10385343126778259a13b07ecb808804.jpg)
+【黄土针林】
+Windows Vista Build 5342.2
+界面吐槽：经典界面大三点登场！WMP底栏变灰，WD图标拟物化，部分界面细微拟物化
+架构：x64, x86
+阶段：Beta 2
+详细版本：6.0.5342.2.winmain_idx04.060321-1730
+编译日期：2006年3月21日
+泄漏情况：2006年3月24日释出 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/5b21ca6fddc451dad4baedefbffd5266d116325f.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/ec5b49dca3cc7cd97b8ed5dd3001213fb90e910d.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/d0a6ff23720e0cf36abbafff0346f21fbf09aa58.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/5d616d7a02087bf4aa81b6edfbd3572c10dfcfbf.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/3b3f6d47f21fbe09a9c6221062600c338644ad14.jpg)
+【黄土针林】
+Windows Vista Build 5355
+界面吐槽：左侧图片与ie定形
+架构：
+阶段：Beta 2
+详细版本：6.0.5355.懒.060330-2100
+编译日期：2006年3月30日
+泄漏情况：未泄露 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/39c56d54b319ebc4c113949d8b26cffc1f171644.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/6e87ecd5b31c87012ce150e22e7f9e2f0608ff51.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/a9d0df98a9014c08f82fc4a1037b02087af4f490.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/c27fc11fa8d3fd1f6c5e403e394e251f94ca5f50.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/03e20a234f4a20a4f262dec399529822730ed0a8.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/dfc99fddd100baa1f352a5bf4e10b912c9fc2ea9.jpg)
+【黄土针林】
+Windows Vista Build 5356
+界面吐槽：系统属性标志更换为圆球好评！关于图片变为彩色好评
+架构：
+阶段：Beta 2
+详细版本：6.0.5356.winmain.060330-1450
+编译日期：2006年3月30日
+泄漏情况：未泄露 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/11c9419659ee3d6df2d36ccf4a166d224e4ade97.jpg)
+【黄土针林】
+Windows Vista Build 5361
+界面吐槽：任务栏可以调颜色了
+架构：
+阶段：Beta 2
+详细版本：6.0.5361.winmain.060405-1900
+编译日期：2006年4月5日
+泄漏情况：未泄露 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/66633eef3d6d55fb15ee9c2264224f4a21a4dd84.jpg)
+【黄土针林】
+Windows Vista Build 5365.8
+界面吐槽：安装程序改进，登陆界面更炫，更拟物化。然而资源管理器的底栏被阉割为鱼肚白。自带的游戏全部拟物化好评。搜索界面好评。远程桌面背景变为极光背景。截图工具隆重登场！
+架构：x86
+阶段：Beta 2
+详细版本：6.0.5365.8.winmain_idx05.060419-1800
+编译日期：2006年4月19日
+泄漏情况：2006年4月21日释出 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/94de4f35349b033b99cf2dde1cce36d3d439bd61.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/49d0cc19972bd4077b6c02f972899e510eb30904.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/27fdae3c70cf3bc7b2401ce8d800baa1cc112a63.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/913cc087c9177f3e4df62a0979cf3bc79d3d56ed.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/0bc2cbae2edda3cc99ca692408e93901203f92fa.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/6e29c4cd7cd98d10e6a5dd35283fb80e7aec90b3.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/97de0758252dd42a976dd0af0a3b5bb5c8eab840.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/b8ede119367adab4316cca4782d4b31c8601e468.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/0253be32c895d143f53b35277af082025baf075e.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/66633eef3d6d55fb124ea52264224f4a21a4dd24.jpg)
+【黄土针林】
+Windows Vista Build 5372
+界面吐槽：16色[狂汗]
+***
+架构：
+阶段：Beta 2
+详细版本：6.0.5372.winmain.060418-1100
+编译日期：2006年4月18日
+泄漏情况：未泄露 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/ef371e300a55b319892c5d714aa98226cdfc17d6.jpg)
+【黄土针林】
+Windows Vista Build 5381.1
+界面吐槽：Windows Mail更接近正式版。
+架构：x64, x86
+阶段：Beta 2
+详细版本：6.0.5381.1.winmain_beta2.060501-1900
+编译日期：2006年5月1日
+泄漏情况：2006年5月3日泄露 、2006年5月6日释出 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/b8ede119367adab43b28c04782d4b31c8601e434.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/edbfb61273f0820208374a3b42fbfbedaa641b06.jpg)
+【黄土针林】
+Windows Vista Build 5384.4
+界面吐槽：你真美…
+架构：x64, x86
+阶段：Beta 2
+详细版本：6.0.5384.4.winmain_beta2.060518-1455
+编译日期：2006年5月18日
+泄漏情况：2006年5月23日释出、2006年6月6日公开发布
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/90e26e25ab18972bea92c6ceefcd7b899f510a7b.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/e772ae167f3e6709d2ff83fb32c79f3df9dc5528.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/ab0c7d4d510fd9f97be9936d2c2dd42a2934a42a.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/f1c154fb828ba61ea7590e2b4834970a314e5970.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/7627b238b6003af3802e1a643c2ac65c1138b610.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/990db02b6059252d7a10dc003d9b033b5ab5b9a1.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/f08aad8165380cd7577263e9a844ad34588281b8.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/8b1b11084b36acaffdc157f875d98d1000e99c83.jpg)
+【黄土针林】
+Windows Vista Build 5456.5
+界面吐槽：圆球启动界面闪光效果减弱，欢迎屏幕上出现了Windows Vista标识。
+架构：x64, x86
+阶段：Pre-RC1
+详细版本：6.0.5456.5.winmain_idx03.060620-1700
+编译日期：2006年6月20日
+泄漏情况：2006年6月24日释出 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/cde466e83901213f75987ad35de736d12e2e950f.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/f08aad8165380cd7284796e2a844ad345882815d.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/327f2011b912c8fcda80c2c2f5039245d7882146.jpg)
+【黄土针林】
+Windows Vista Build 5466.0
+界面吐槽：Aero Basic主题变为天蓝色并且定形，一些图标定形
+架构：
+阶段：Pre-RC1
+详细版本：6.0.5466.0.vbl_media_ehome.060627-2030
+编译日期：2006年6月27日
+泄漏情况：未泄露 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/89c917ce3bc79f3df6ded53fb3a1cd11738b29f2.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/9596e234e5dde711474175f9aeefce1b9c166127.jpg)
+【白石山滩】
+Windows Vista Build 5472.5
+界面吐槽：欢迎屏幕出现了特别善良的圈，壁纸换成了白石山滩！OOBE终于会介绍Vista特性了！系统属性的一些图标定形
+架构：x64, x86
+阶段：Pre-RC1
+详细版本：6.0.5472.5.winmain_idx01.060713-1900
+编译日期：2006年7月13日
+泄漏情况：2006年7月17日释出 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/d9d1db305c6034a8bfe8818ec2134954082376a8.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/e0186ffb513d26972ed031525cfbb2fb4216d8b7.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/3632c0eece1b9d162efaa36efadeb48f8d5464f1.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/5ab8360ed9f9d72af5a62e12dd2a2834369bbbf0.jpg)
+5472的介绍特性 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/b7c2c8c279310a558822fbfbbe4543a9832610ab.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/b0eb5d282df5e0fe4019ac0e556034a85fdf72b5.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/94de4f35349b033bcd89d9d51cce36d3d439bdb5.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/e4fb2cfafbedab64362a68cffe36afc378311e5d.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/ed9abac551da81cb2235b9c25b66d0160b2431e6.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/512bceed8a1363270f20f83c988fa0ec0afac7e1.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/b828b601baa1cd117564482fb012c8fcc1ce2de7.jpg)
+【白石山滩】
+Windows Vista Build 5474
+界面吐槽：安装图标定形，Windows Mail样式定形
+架构：
+阶段：Pre-RC1
+详细版本：6.0.5474.vbl_ux_dev_checkin.060711-1730
+编译日期：2006年7月11日
+泄漏情况：未泄露 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/f0a59f188618367a943a5ad227738bd4b21ce507.jpg)
+【白石山滩】
+Windows Vista Build 5479
+界面吐槽：细节美化
+架构：
+阶段：Pre-RC1
+详细版本：6.0.5479.winmain.060714-1900
+编译日期：2006年7月14日
+泄漏情况：未泄露 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/11c9419659ee3d6d2620a0c44a166d224d4aded4.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/e4361a1fd21b0ef409c1be51d4c451da80cb3e8c.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/7add4af4e0fe99256b2d4f5f3da85edf8cb17195.jpg)
+【白石山滩】
+Windows Vista Build 5483
+界面吐槽：没有区别
+架构：
+阶段：Pre-RC1
+详细版本：6.0.5483.winmain.060720-1900
+编译日期：2006年7月20日
+泄漏情况：未泄露 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/79e6d41ab051f819ce162245d3b44aed2f73e787.jpg)
+【白石山滩】
+Windows Vista Build 5487
+界面吐槽：语音控制酷炫化，欢迎中心增加许多项目
+架构：
+阶段：Pre-RC1
+详细版本：6.0.5487.winmain.060726-1810
+编译日期：2006年7月26日
+泄漏情况：未泄露 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/91b7ca4ad11373f0a7984090ad0f4bfbfaed040a.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/f6f45df23a87e950ac11d06319385343faf2b4b4.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/0a1949728bd4b31cca8cb7b48ed6277f9f2ff806.jpg)
+【白石山滩】
+Windows Vista Build 5492
+界面吐槽：搜索改进？
+架构：
+阶段：Pre-RC1
+详细版本：6.0.5492.winmain.060802-1900
+编译日期：2006年8月2日
+泄漏情况：未泄露 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/d3e7d77fca80653893648b1c9edda144ac34822c.jpg)
+【白石山滩】
+Windows Vista Build 5536.16385
+界面吐槽：安装程序背景换了，欢迎屏幕背景也换了，启动界面进度调样式变成正式版样式了，开机时Windows徽标动画变成正式版样式了。介绍特性也换了一批，清除了许多旧版痕迹
+架构：x86
+阶段：Pre-RC1
+详细版本：6.0.5536.16385.vista_rc1.060821-1900
+编译日期：2006年8月21日
+泄漏情况：2006年8月24日释出 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/79e6d41ab051f819ba301645d3b44aed2f73e799.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/746f643a5bb5c9ea9d5d16ecdc39b6003bf3b30c.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/d1d7f0dca144ad34c7349288d9a20cf430ad852f.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/5d616d7a02087bf45eee42e6fbd3572c10dfcfb0.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/70ba421e95cad1c84d61e928763e6709cb3d51d8.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/b227302d11dfa9ecd33342186bd0f703908fc191.jpg)
+5536的介绍特性 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/f3efd750f81986180d40f88b43ed2e738ad4e6ab.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/e9835e13b31bb051c17ca4273f7adab44bede05e.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/f8fa1ced54e736d19f159b0792504fc2d46269b4.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/8eeffa17fdfaaf514cbc96b0855494eef11f7a53.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/a529801090ef76c61dd2ec249416fdfaae5167b6.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/c7f5c68a87d6277fdb13253721381f30e824fcb5.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/06d76ef6905298221f6d2eccdeca7bcb0b46d45c.jpg)
+【白石山滩】
+Windows Vista Build 5552.16384
+界面吐槽：增加了一项特性介绍
+架构：x86
+阶段：Pre-RC1
+详细版本：6.0.5552.16384.vista_rc1.060822-1900
+编译日期：2006年8月22日
+泄漏情况：已泄露，泄露日期未知 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/c760c3c37d1ed21b0f7238eaa46eddc450da3f7e.jpg)
+【白石山滩】
+Windows Vista Build 5600.16384
+界面吐槽：圆球谢谢你们！
+架构：x64, x86
+阶段：RC1
+详细版本：6.0.5600.16384.vista_rc1.060829-2230
+编译日期：2006年8月29日
+泄漏情况：2006年9月1日释出 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/7625482fb9389b506fba605d8c35e5dde6116e69.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/79e6d41ab051f8192e608245d3b44aed2f73e76a.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/89c917ce3bc79f3da651653fb3a1cd11738b2906.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/42fc1cf50ad162d9300ce31318dfa9ec8813cdd1.jpg)
+【白石山滩】
+Windows Vista Build 5700
+界面吐槽：绿色的文件夹！
+架构：x64, x86
+阶段：Pre-RC1
+详细版本：6.0.5700.winmain.060810-1900
+编译日期：2006年8月10日
+泄漏情况：未泄露 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/8808a4cfc3fdfc03f7a76eb7dd3f8794a6c226d3.jpg)
+【白石山滩】
+Windows Vista Build 5712.0
+界面吐槽：乱码丛生！，但足以感受到微软对盗版地区的重视
+架构：x86
+***
+阶段：Pre-RC1
+详细版本：6.0.5712.0.winmain.060824-1900
+编译日期：2006年8月24日
+泄漏情况：已泄露，泄露日期未知 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/8c4b0b80800a19d881cb710a3afa828ba41e46ee.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/480e363c269759eefe4e94c4bbfb43166c22df9d.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/c760c3c37d1ed21b6dfadaeaa46eddc450da3f87.jpg)
+5712的特性介绍，非常喜感！像歌词似的！
+【白石山滩】
+Windows Vista Build 5720
+界面吐槽：万恶的水印简化[喷]
+架构：
+阶段：Pre-RC2
+详细版本：6.0.5720？？
+编译日期：2006年？月？日
+泄漏情况：未泄露 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/70ba421e95cad1c8e3480f28763e6709cb3d51c7.jpg)
+【白石山滩】
+Windows Vista Build 5721
+界面吐槽：增加项目
+架构：
+阶段：Pre-RC2
+详细版本：6.0.5721？？
+编译日期：2006年？月？日
+泄漏情况：未泄露 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/8861b642ad4bd11305dc4a3d53afa40f4afb05a5.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/730ee58aa61ea8d3c1c8860b9e0a304e271f58c8.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/9da0314f9258d1099df654bdd858ccbf6d814d99.jpg)
+【白石山滩】
+Windows Vista Build 5728.16387
+界面吐槽：三点界面，oobe更换了背景。而且特性介绍换了一批
+架构：x64, x86
+阶段：Pre-RC2
+详细版本：6.0.5728.16387.winmain_idx06.060917-1430
+编译日期：2006年9月17日
+泄漏情况：2006年9月22日释出 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/750e81cc7b899e5165e5c31b4ba7d933c9950d4f.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/5d616d7a02087bf4a2aeaee6fbd3572c10dfcf71.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/c7f5c68a87d6277f05becb3721381f30e824fc03.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/f8fa1ced54e736d12977750792504fc2d462694a.jpg)
+5728的特性介绍 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/e4361a1fd21b0ef44c1b6351d4c451da83cb3ec7.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/70ba421e95cad1c89cd80628763e6709c83d5157.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/8808a4cfc3fdfc03dd9b18b7dd3f8794a6c226d7.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/36fd2c37acaf2edd595cb2e6841001e938019302.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/592cdb3fb13533fab01a6821a1d3fd1f40345b02.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/dde29afbaf51f3dea06e426b9deef01f382979d2.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/8eeffa17fdfaaf51e0107ab0855494eef21f7ac7.jpg)
+【白石山滩】
+Windows Vista Build 5734
+界面吐槽：支持最大化关灯
+架构：
+阶段：Pre-RC2
+详细版本：6.0.5734
+编译日期：2006年？月？日
+泄漏情况：未泄露 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/11c9419659ee3d6de3037dc44a166d224d4adeea.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/50cc3442fbf2b21176306041c38065380dd78e9d.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/2c75e70b19d8bc3e9f11e3c58b8ba61ea9d3459d.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/0cfc09071d950a7ba1f1b4cb03d162d9f0d3c9eb.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/49d0cc19972bd407562e29f272899e510db309cd.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/dc76b659ccbf6c81ab2fc9e7b53eb13532fa409e.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/a6391c889e510fb367f18d98d033c895d3430cce.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/47fc4f391f30e924254c663e45086e061f95f7cf.jpg)
+【白石山滩】
+Windows Vista Build 5744.16384
+界面吐槽：aero更容易开启
+架构：x64, x86
+阶段：RC2
+详细版本：6.0.5744.16384.vista_rtm_edw.061003-1945
+编译日期：2006年10月3日
+泄漏情况：2006年10月6日释出 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/8be72e550923dd5449f74667d809b3de9d82482a.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/90566bf531adcbef86c19f09a5af2edda2cc9f3a.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/327f2011b912c8fc851a17c2f5039245d48821cd.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/66633eef3d6d55fb03ba962964224f4a21a4ddb3.jpg)
+【白石山滩】
+Windows Vista Build 5754.1
+界面吐槽：和上个版本没有明显区别
+架构：x86
+阶段：Pre-RTM
+详细版本：6.0.5754.1.winmain.061006-1810
+编译日期：2006年10月6日
+泄漏情况：已泄露，泄露日期未知 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/5ee3ed83b9014a908b78abb2a0773912b21bee75.jpg)
+【炫彩极光】
+Windows Vista Build 5808
+界面吐槽：已进入极光通道！
+架构：x86
+阶段：Pre-RTM
+详细版本：6.0.5808
+编译日期：2006年？月？日
+泄漏情况：未泄露 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/967cb33e8794a4c234a80b2407f41bd5ac6e392f.jpg)
+【炫彩极光】
+Windows Vista Build 5840.16384
+界面吐槽：
+架构：x86
+阶段：Pre-RTM
+详细版本：6.0.5840.16384.vista_rtm.061018-1900
+编译日期：2006年10月18日
+泄漏情况：已泄露，泄露日期未知 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/f86dce004c086e068fe8d4440b087bf40bd1cb77.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/9a402dec2e738bd437d7593ea88b87d6257ff9c5.jpg)
+【炫彩极光】
+Windows Vista Build 6000.16385
+界面吐槽：炫彩极光壁纸来袭！图标全部拟物化！音效优美化！
+架构：x86
+阶段：Pre-RTM
+详细版本：6.0.6000.16385.vista_rtm.061030-1720
+编译日期：2006年10月30日
+泄漏情况：已泄露，泄露日期未知 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/d41a971e3a292df5e806791ab5315c6036a873e9.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/4fd025a6d933c8958b6d4c74d81373f0830200a7.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4788506800/89e3183f6709c93d5ee5daf8963df8dcd000549b.jpg)
+【炫彩极光·龙魂尽头】
+Windows Vista Build 6000.16386界面吐槽：美丽的极光在影响着世界！“她”是历史上最美丽的操作系统！架构：x64, x86
+阶段：RTM！详细版本：6.0.6000.16386.vista_rtm.061101-2205编译日期：2006年11月1日泄漏情况：2007年1月30日发布
+本贴片尾曲：
+智能！漂亮！
+带着远景和信心浏览
+家庭在困扰我
+我与远景在面对面
+快速查找任何测试版
+至今为止最美丽的温都什
+随时爆炸的信息和任务
+回忆瞬间！记忆长存
+***
+我变得充满乐趣与幽默
+时间如此宝贵
+简单方便、轻松自然
+充分享受美丽的远景
+联络交流、易如反掌
+更安全、更简单
+称心如意的维斯塔
+演绎平凡的生活
+凝聚美妙的回忆
+五彩绽纷的世界
+***
+智能！漂亮！
+带着远景和信心浏览
+家庭在困扰我
+我与远景在面对面
+快速查找任何测试版
+至今为止最美丽的温都什
+随时爆炸的信息和任务
+回忆瞬间！记忆长存

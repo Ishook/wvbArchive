@@ -1,0 +1,10 @@
+大家的Vista的IE9都是这样的吧，进微软官网有些字加载不出来，显示为方框[喷]，而Vista最高支持IE9，不能再升了
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/5040515255/9d3036db81cb39dbe97d9ebbd9160924a9183097.jpg)
+经过我的探索，发现这是字体的锅，是微软官网调用了Vista没有的字体导致的，使用IE9的强制字体渲染就好了，效果如下图[太开心]：
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/5040515255/2b946b328744ebf8ca979dd2d0f9d72a6259a76b.jpg)
+怎么开启IE的强制字体渲染呢？
+打开Internet选项-常规-外观-辅助功能
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/5040515255/1b41aeeb15ce36d3097178dd33f33a87eb50b1d8.jpg)
+辅助功能-格式化-勾选忽略网页上指定的字体-确定
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/5040515255/43cf3cb4c9ea15ceed2d1be4bf003af33887b216.jpg)
+然后微软官网的字体渲染就正常了，不再是小方框了[太开心]

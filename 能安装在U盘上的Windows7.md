@@ -1,0 +1,38 @@
+1.下载 `vista10.7z.001`及`vista10.7z.002`这两个文件，把这两个压缩包放在同一目录解压到本地硬盘，得到一个VHD镜像文件（`vista10.vhd`）。
+2.把U盘格式化为NTFS格式，将解压在本地硬盘的VHD镜像文件(`vista10.vhd`)复制到格式化好的U盘里。
+3.下载`Tools.zip`并解压，安装压缩包里的“EasyBCD 2.3 Beta - Build 197”。
+打开EasyBCD，进入“BCD部署”，在“分区”这一项选择你的U盘，点击“安装BCD”
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/5270185402/e0186ffb513d26975ea446b65ffbb2fb4116d8df.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/5270185402/480e363c269759ee35272e20b8fb43166f22dfdf.jpg)
+然后点击EasyBCD的“添加新条目”
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/5270185402/11c9419659ee3d6d5cb1c92049166d224d4adedf.jpg)
+在下面的“便携式/外接储存介质”中，点击“路径”右边的图标，选择U盘里的VHD镜像（`vista10.vhd`）
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/5270185402/66633eef3d6d55fbb8b138cd67224f4a22a4dddf.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/5270185402/191a5a6c55fbb2fb485c16f9454a20a44423dcdf.jpg)
+选择好镜像后，随便给“名称”改个名字，点“添加条目”。
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/5270185402/7d9932fab2fb4316616834912aa446230bf7d3df.jpg)
+5.启动系统后，打开桌面的“万能驱动”（文件夹），进行驱动安装。
+进入“软件推荐”，把三个绿色的“安装”点成“不安装“。
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/5270185402/f243b7a30cf431ad846005d24136acaf2cdd98a4.jpg)
+点击右上角的菜单，把“网址导航”的√去掉。
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/5270185402/b8ede119367adab4a0135aa881d4b31c8501e414.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/5270185402/a6391c889e510fb3cdd4367cd333c895d3430c05.jpg)
+把“驱动解压”的目录改在R盘（请在R盘新建一个文件夹）并勾选“安装后删除已解压的驱动文件”
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/5270185402/a00afe24bc315c604181280487b1cb134854773e.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/5270185402/c722407e9e2f0708dbfe6aebe324b899ab01f25c.jpg)
+6.(这一步很重要！)安装完驱动后，一定不要重启！安装完驱动，请双击桌面的`SAVE.BAT`,对本次启动后的操作进行保存。
+7.安装完驱动并保存重启后，可以将桌面的“万能驱动”文件夹删掉，并双击桌面的`SAVE.BAT`
+8.系统运行时对C盘的操作都不会被保存下来，如果安装了软件并且想保存本次开机后的操作的话，请双击桌面的`SAVE.BAT`。
+本系统使用 [@lsqsjz](https://tieba.baidu.com/p/5270185402?see_lz=1) 的“Vista十周年纪念Win7 64位”进行制作。
+本系统仅供个人学习测试使用，请在下载后24小时内删除，不得用于任何商业用途，否则后果自负。请购买微软正版软件![img](https://tb2.bdstatic.com/tb/editor/images/face/i_f25.png?t=20140803)![img](https://tb2.bdstatic.com/tb/editor/images/face/i_f25.png?t=20140803)![img](https://tb2.bdstatic.com/tb/editor/images/face/i_f25.png?t=20140803)
+***
+一键安装版本使用方法
+下载“old”文件夹内的 两个文件，放在同一目录下解压，用DG将解压得到的镜像文件（.pmf）恢复到你的U盘里。
+不推荐使用此版本！（容易卡顿）
+手动版本自带了以下软件
+FDM（个人认为不错的下载软件，可以设置10000线程貌似![img](https://tb2.bdstatic.com/tb/editor/images/face/i_f25.png?t=20140803)）
+7zip
+旧版本（一键恢复版本）自带了以下软件
+FDM
+7zip
+音速启动5（用于控制EWF，联网后会被误报毒![img](https://tb2.bdstatic.com/tb/editor/images/face/i_f25.png?t=20140803)）

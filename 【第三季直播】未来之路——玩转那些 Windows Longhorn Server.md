@@ -1,0 +1,1893 @@
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/6050212209f79052331f964204f3d7ca7acbd544.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/d3e7d77fca806538da87756f9fdda144ac348257.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/0fbe47a5462309f73aef7c6e7a0e0cf3d5cad6c4.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/746f643a5bb5c9ead073d29fdd39b60038f3b3c4.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/fccad63433fa828bbb824d9ff51f4134960a5a1a.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/f20f24176d224f4a8719a26f01f790529a22d1c4.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/4a8f65097bf40ad1f346179f5f2c11dfa8ecce26.jpg)
+更新列表
+普通版本更新列表（第一季）：
+Milestone 3【已完结】
+Milestone 4【已完结】
+Milestone 5【已完结】
+Milestone 6【已完结】
+Milestone 7【已完结】
+龙魂外传（第一季）：
+368号彩蛋：被隐藏的侧边栏【已完结】
+639号彩蛋：Plex-DWM【已完结】
+642号彩蛋：Slate-DWM【已完结】
+774号彩蛋：玩转3D Aero【？？？】
+793号彩蛋：最后Avalon【已完结】
+普通版本更新列表（第二季）：
+Pre-Beta【已完结】
+Beta 1【已完结】
+Beta 2【已完结】
+Pre-RC 1【已完结】
+RC 1【已完结】
+Pre-RC 2【已完结】
+Vista5744【已完结】
+Vista 5754【已完结】
+Vista5840【已完结】
+龙魂外传（第二季）：
+8790号彩蛋： 一夜滚回解放前【已完结】
+9048~10381 号彩蛋：五彩缤纷的Vista【已完结】
+10840号彩蛋：中文版【已完结】
+11120号彩蛋：鬼畜乱码【已完结】
+普通版本更新列表（第三季）：
+4028
+5112
+5219
+5231
+5259
+5270
+5308
+5384
+5600
+5728
+5744
+5757
+龙魂外传（第三季）：
+766号彩蛋：最后的Avalon
+第三季加入Server 2008 史，欢迎各位捧场[吐舌]
+在此感谢以下成员提供资料[吐舌]
+@cghvbnv22 BetaWorld Library 11.1
+ VMGudie 2.0
+ Server 2008 ISO 大全
+@happymax1212 历史模板
+开更4028[滑稽]
+@VistaWithSP2 @happymax1212 @redapple0204 @zhukun200098 @放射星云7601
+Build 4028
+阶段：Pre-Beta
+SKU：Enterprise
+架构：x86
+安装模式：WIM
+时间炸弹：2003/07/02~2003/12/29（180天）
+破除时间炸弹：Tweak NT
+密钥：TCP8W-T8PQJ-WWRRH-QH76C-99FBW
+激活工具：Anti WPA
+简介：
+这是Windows Server 2008最早泄露的版本；
+它已经像Windows Vista（开发代号Longhorn）一样使用WIM安装模式；
+它使用经典主题，因为它有一些服务被禁用，因此它被用作不作为客户端的服务器。
+容我秀秀电脑配置[haha][滑稽][haha]
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/4aa1d418ebc4b745263f686ac7fc1e178b82151c.jpg)
+开始[滑稽]
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/810a19d8bc3eb1358f7c68c7ae1ea8d3fd1f4417.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/5fdf8db1cb134954a76737185e4e9258d1094a55.jpg)
+这个美哭的界面很快就被砍掉了[泪] 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/8b82b9014a90f6036012433b3112b31bb051ed28.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/4b90f603738da9772c8d5957b851f8198618e328.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/4034970a304e251f504c3b84af86c9177f3e5317.jpg)
+自动识别[真棒]
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/72f082025aafa40fb4bf11a1a364034f78f01955.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/c995d143ad4bd11388b4684e52afa40f4bfb0555.jpg)
+点这里是过不了的，这是个陷阱[喷] 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/79f0f736afc379310dd25955e3c4b74543a91117.jpg)
+要点上面才行[滑稽]
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/b7003af33a87e95059f62c1018385343faf2b4ed.jpg)
+强烈推荐勾选[真棒]
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/0d338744ebf81a4c0b9033b5df2a6059252da628.jpg)
+这时系统会弹出警告，不理它[滑稽]
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/adaf2edda3cc7cd90b4ceaa53101213fb80e916d.jpg)
+如果打一团乱码会怎么样[阴险] 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/2934349b033b5bb5aa62fe823ed3d539b600bc11.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/d50735fae6cd7b896f60e4ff072442a7d9330eba.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/d52a2834349b033b393d22a61dce36d3d539bd11.jpg)
+秒安装[惊讶]
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/e7cd7b899e510fb3fc15a9ebd133c895d1430cba.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/5fdf8db1cb134954a47f36185e4e9258d1094a6d.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/5882b2b7d0a20cf44f2520a37e094b36acaf9911.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/9825bc315c6034a8f78366fdc31349540923766d.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/ca1349540923dd54f9127914d909b3de9c82486d.jpg)
+好美[惊讶]
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/a6efce1b9d16fdfa33941892bc8f8c5495ee7bd6.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/024f78f0f736afc37d87e619bb19ebc4b64512c6.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/d01373f082025aaf58d2a7b7f3edab64024f1aee.jpg)
+时间炸弹破了[不高兴][喷] 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/962bd40735fae6cd94f1721d07b30f2442a70f01.jpg)
+破除时间炸弹[滑稽]
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/242dd42a2834349b6340b7f9c1ea15ce36d3be0c.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/d439b6003af33a8780b0d966ce5c10385243b5e9.jpg)
+试试看[滑稽]
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/4b90f603738da9772a2a5f57b851f8198618e341.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/6159252dd42a28346be0ef7753b5c9ea15cebf0c.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/e850352ac65c10383ea317beba119313b17e89e9.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/8d5494eef01f3a298f8e0cb29125bc315c607c0c.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/9825bc315c6034a8f66761fdc3134954082376c1.jpg)
+还要你写下原因[喷]
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/d62a6059252dd42a7529d9d70b3b5bb5c9eab8ae.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/359b033b5bb5c9ea77d3db9fdd39b6003af3b3ae.jpg)
+不行啊[喷]调主机时间、VMGuide锁定、破除时间炸弹、激活都不行，这已经是第三次重装了[喷]
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/6609c93d70cf3bc7540c1590d900baa1cd112aba.jpg)
+好吧，我们还是回到安全模式聊聊吧，反正服务器外观非常丑，使用桌面体验的小伙伴不要进来[滑稽] 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/d0c8a786c9177f3eaffb257178cf3bc79e3d56fb.jpg)
+完全不会[泪]
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/7c1ed21b0ef41bd54d00308859da81cb39db3d7f.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/d50735fae6cd7b896ea3e3ff072442a7d8330efb.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/0eb30f2442a7d9333d673d0fa54bd11372f001fb.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/0e2442a7d933c89527b14107d91373f0830200fb.jpg)
+NT6风格[滑稽]
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/43a7d933c895d1435b7a3c5f7bf082025aaf07ba.jpg)
+一堆工具[阴险]
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/b8389b504fc2d56214280891ef1190ef76c66cae.jpg)
+2000[喷]
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/7e3e6709c93d70cff3a97071f0dcd100baa12b7f.jpg)
+惊现LUNA[惊哭]
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/91529822720e0cf39ed294870246f21fbe09aaa1.jpg)
+BUG[阴险]
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/94cad1c8a786c917bb508845c13d70cf3bc7577f.jpg)
+没用的[阴险]
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/314e251f95cad1c865aa265b773e6709c93d51bd.jpg)
+这个屏保还可以[滑稽] 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/0b46f21fbe096b63a6f3852c04338744eaf8ace0.jpg)
+超多颜色供你选择[真棒]总之比以后的要好 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/f703738da9773912a2745f1df0198618367ae278.jpg)
+IE[滑稽]
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/9a504fc2d562853575c5085d98ef76c6a7ef63a1.jpg)
+远程桌面的前身[滑稽] 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/eac4b74543a98226c7d1f15b8282b9014a90ebbe.jpg)
+控制面板不能打开，只能在这大杂烩里选择[喷] 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/3812b31bb051f8199277d936d2b44aed2e73e778.jpg)
+系统合照[滑稽]
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/8326cffc1e178a82b340badcfe03738da977e84a.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/aec379310a55b319e88747094ba98226cffc174b.jpg)
+关不了[喷]
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/f2deb48f8c5494ee6ca7ca6525f5e0fe98257ec1.jpg)
+强制关机[喷]
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/fcfaaf51f3deb48f16c464a2f81f3a292df57819.jpg)
+今天的直播到此结束[滑稽]
+怎么这个帖子变成卡巴基佬斗争的帖子[惊哭]
+深夜开更[酷]
+@VistaWithSP2 @happymax1212 @redapple0204 @zhukun200098 @放射星云7601
+首先我们继续昨天的4028，然后4066[滑稽]
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/8718367adab44aed955ec79bbb1c8701a18bfbb9.jpg)
+这不就是后来的轻松使用嘛[笑眼] 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/ca1349540923dd541827de17d909b3de9c82487c.jpg)
+帮助与支持居然还要打开网页，和win7特性介绍一个样[喷] 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/42166d224f4a20a4a07545b898529822720ed062.jpg)
+这个打不开[泪]
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/d53f8794a4c27d1eadeb45bb13d5ad6edcc438fb.jpg)
+完全看不懂[喷]
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/8694a4c27d1ed21b8e04509aa56eddc450da3ffb.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/738b4710b912c8fcb6a78fb2f4039245d688217c.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/09fa513d269759eee24019b4bafb43166d22dfb9.jpg)
+这个就懂了[汗]
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/faf2b2119313b07ed8d7297704d7912397dd8c62.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/342ac65c10385343f5a5fe5e9b13b07eca808862.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/c2cec3fdfc039245afe198708f94a4c27d1e257c.jpg)
+硬件全家桶[黑线]
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/91529822720e0cf33c6b36840246f21fbe09aa35.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/2e2eb9389b504fc2e56ec87aeddde71190ef6d9f.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/77094b36acaf2edd81af3196851001e939019376.jpg)
+后来的性能监视器[呵呵] 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/8435e5dde71190ef43caeaa0c61b9d16fdfa609f.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/e61190ef76c6a7eff917d059f5faaf51f3de669f.jpg)
+服务[呵呵]
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/35a85edf8db1cb130337446cd554564e92584b76.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/b3119313b07eca80779a4198992397dda1448335.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/6d81800a19d8bc3ee9397eb58a8ba61ea8d3459f.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/5243fbf2b2119313a0dc87cf6d380cd791238d35.jpg)
+神奇的是，这个版本在登陆前不需要设密码[惊讶] 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/810a19d8bc3eb1356af6cfc4ae1ea8d3fd1f449f.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/279759ee3d6d55fb520e0e5965224f4a21a4dd81.jpg)
+除了这个，其它全是空白——那干嘛还要加箭头[喷] 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/8ad4b31c8701a18b397d6930962f07082838fe3f.jpg)
+说实话这个挺漂亮的[真棒] 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/7acb0a46f21fbe09843bb86b63600c338744ad6c.jpg)
+关机前我写下了[阴险] 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/730e0cf3d7ca7bcbe61ebc50b6096b63f624a86c.jpg)
+4028完结(づ￣3￣)づ 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/7aec54e736d12f2e9522d51f47c2d562853568ad.jpg)
+接下来是4066[haha][滑稽][haha]
+Build 4066
+阶段：Pre-Beta
+SKU：Standard
+架构：x86
+安装模式：i386
+时间炸弹：2004/02/27~2004/08/25（180天）
+破除时间炸弹：Tweak NT
+密钥：TCP8W-T8PQJ-WWRRH-QH76C-99FBW
+激活工具：Anti WPA
+简介：
+与之前泄露的版本相比，这个版本使用 i386 安装的模式（我很不喜欢，退步了）。
+问题解决方案：
+开启Aero：在安装显卡驱动程序后，按Ctrl+Shift+F9就可以开启；
+这个版本只能用VPC安装（事实证明，VMware也可以）；
+安装需要大约2个小时（对于i386来说，需要的时间可能要长一点，不过应该没有TCB所说的那么长）；
+安装前需要分区，因为安装过程中不能分区；
+安装之后就向你询问安装“标准 VGA 图形适配器”兼容的驱动程序，但默认不启用它，请按照下面的说明以启用它：
+右击桌面，打开“桌面属性”；
+单击“高级”并转到“适配器“选项卡；
+点击“属性”，转到“驱动程序”选项卡；
+点击“Update Driver and selectInstall from a list or specific location (Advanced) “，单击下一步；
+选择“Don't Search. I will choosethe driver to install”，点击下一步；
+取消选择“显示唯一兼容的硬件”和“左框中选择 SVGA”；
+在右框中选择的唯一的驱动程序可用 S3 图形 Super Savage/IXC （微软公司） 并单击下一步安装的驱动程序，当你运行到一个警告出现时，单击“是”；
+然后你只需要重新启动机器，让其加载的驱动程序，它将仍有 640x 480 分辨率，但登录后你可以通过正常的方式更改分辨率。
+说实话，i386很难看[不高兴]
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/f7246b600c33874418a75503590fd9f9d72aa06b.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/cc11728b4710b912b9638c81cbfdfc039245222a.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/63d9f2d3572c11df78f2c55c6b2762d0f703c2aa.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/4610b912c8fcc3ceb062b34c9a45d688d43f202a.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/6a63f6246b600c33751ba4b7124c510fd9f9a16b.jpg)
+成功启动(づ￣3￣)づ 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/a8014c086e061d95c30e4d4773f40ad162d9ca01.jpg)
+突然想到了XP 64BIT[黑线] 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/2f738bd4b31c87011d14c8992f7f9e2f0708ff2b.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/ac345982b2b7d0a215eb7ee2c3ef76094b369aaa.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/a6efce1b9d16fdfa9731bc91bc8f8c5494ee7b6b.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/a8773912b31bb0514b86c9573e7adab44aede02b.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/a8014c086e061d95c23a524773f40ad162d9ca55.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/dcc451da81cb39db352a1d29d8160924aa1830e2.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/38dbb6fd5266d0168ff3e4579f2bd40734fa35e2.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/37d12f2eb9389b5062729a2d8d35e5dde7116e3b.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/9a504fc2d5628535d56da85e98ef76c6a7ef633b.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/8d5494eef01f3a2913d9b0b19125bc315c607cbf.jpg)
+我觉得水晶效果好一些[汗] 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/3b292df5e0fe9925fe81132f3ca85edf8db1713b.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/472309f790529822944f5cbcdfca7bcb0a46d455.jpg)
+win8亮了[黑线]
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/0d338744ebf81a4ca54e89b6df2a6059252da655.jpg)
+这个版本的侧边栏有问题，点一下都会消失[冷] 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/1b4c510fd9f9d72a97187562dc2a2834349bbb55.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/503d269759ee3d6d89a8e2b44b166d224f4ade67.jpg)
+立即给我装TOOLS[喷] 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/377adab44aed2e7333a9e3538f01a18b87d6fa09.jpg)
+丨（gun）回去！[阴险]
+看，这就是侧边栏的BUG[喷]
+警告：该版本千万别装TOOLS，否则虚拟机会永久报废！
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/d01373f082025aaf3cb71bb4f3edab64024f1ac3.jpg)
+差点告诉你们我的真实名字[狂汗] 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/279759ee3d6d55fb6fa8135965224f4a20a4dd67.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/b58f8c5494eef01f07177dbae8fe9925bc317d49.jpg)
+JADE主题大法好[滑稽] 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/cb8065380cd7912385a3f10ba5345982b2b78009.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/cf1b9d16fdfaaf51cb8ae4c0845494eef01f7a67.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/eaf81a4c510fd9f9219230162d2dd42a2934a4cc.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/d52a2834349b033ba60d99a51dce36d3d439bdcc.jpg)
+Movie Marker 3早在4066已经面世，而不是4093，但是打不开[泪] 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/d043ad4bd11373f0143c0ae0ac0f4bfbfbed0449.jpg)
+这个就是后来的DVD Marker[滑稽]
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/b3119313b07eca806b975d98992397dda144833a.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/37d3d539b6003af33928b81f3d2ac65c1038b63a.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/e850352ac65c10385becaabdba119313b07e893a.jpg)
+WMP9[滑稽]
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/8c1001e93901213f9b4929a35ce736d12f2e9552.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/b17eca8065380cd7818cc692a944ad345982813a.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/eaf81a4c510fd9f9232f32162d2dd42a2834a491.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/d8f9d72a6059252d232f7a7b3c9b033b5bb5b991.jpg)
+9X经典[滑稽]
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/5d6034a85edf8db18f541b1b0123dd54564e7452.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/d058ccbf6c81800a4b28ed71b93533fa838b47fb.jpg)
+给你们看看TOOLS[呵呵] 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/9d82d158ccbf6c81d1fa4897b43eb13532fa40fb.jpg)
+坚决不搞[阴险]
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/d6ca7bcb0a46f21f541b392cfe246b600c33aea6.jpg)
+这个版本重新集成了控制面板和管理员工具，比之前的版本好很多[真棒] 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/f31fbe096b63f62486725e7c8f44ebf81a4ca3a6.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/ae51f3deb48f8c54adbaa25032292df5e0fe7f67.jpg)
+全家桶[滑稽]
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/08f790529822720ee9e1858573cb0a46f21faba6.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/e61190ef76c6a7effc4fcf59f5faaf51f3de6667.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/0823dd54564e92589b9ae1919482d158ccbf4e26.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/80cb39dbb6fd526653eb586ba318972bd5073688.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/34fae6cd7b899e51834e5e6b4aa7d933c9950d88.jpg)
+原来联机功能早在2003年已经实现[惊讶]（对不起MC玩多了[狂汗]） 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/77c6a7efce1b9d16c9e9fd1efbdeb48f8c5464a6.jpg)
+共享文件[呵呵]
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/43a7d933c895d1433fb6805c7bf082025baf0788.jpg)
+完全不会……[泪]
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/d31b0ef41bd5ad6ea123039589cb39dbb7fd3cf2.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/b999a9014c086e06d9f059340a087bf40ad1cb71.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/1e30e924b899a9018e6d3d4915950a7b0208f571.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/bba1cd11728b4710d52c9bb3cbcec3fdfc032349.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/2fdda3cc7cd98d1021146b4e293fb80e7aec9088.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/ca1349540923dd541eb3c017d909b3de9d824888.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/bf096b63f6246b60e156d40be3f81a4c510fa271.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/cefc1e178a82b901e377a44c7b8da9773812eff3.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/aa64034f78f0f73633fd2a7e0255b319ebc41349.jpg)
+看左边[喷]
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/3812b31bb051f81937ff6435d2b44aed2f73e7f3.jpg)
+最后一张：自动播放[滑稽]
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/4610b912c8fcc3ceac02af4c9a45d688d53f208a.jpg)
+4066完结！(￣ε￣*)
+普通版本更新列表（第三季）：
+4028【已完结】
+5219
+5231
+5259
+5270
+5308
+5384
+5600
+5728
+5744
+5757
+龙魂外传（第三季）：
+766号彩蛋：最后的Avalon【已完结】
+1012号彩蛋：千里相约
+开更5112[滑稽]
+@VistaWithSP2 @happymax1212 @redapple0204 @zhukun200098 @放射星云7601
+本次更5112的两个子版本——Standard和Core[滑稽]
+***
+Build 5112
+阶段：Beta 1
+SKU：Standard
+ Standard Core
+架构：x86
+安装模式：wim
+语言：英语
+时间炸弹：2005/07/21~2006/09/30（436天）
+密钥：Q8WDJ-TR4KJ-X8WHM-GVGV3-H74C3
+相关版本：Windows Vista Build 5112
+简介：
+这个版本拥有2个子版本，标准版（Standard）和标准核心版（Standard Core），标准核心版是Windows Server的新一类子版本，它缺乏资源管理器，只能使用命令提示符登录（也可以说是精简版）。
+问题解决方案：
+安装前需要分区，因为安装过程中不能分区。
+先更Core[滑稽]
+安装前需要分区
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/63d0f703918fa0ec4a74b46c2e9759ee3d6ddb24.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/1e30e924b899a9016305885715950a7b0208f59b.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/b21c8701a18b87d60f1f7b7e0f0828381f30fd76.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/9f2f070828381f30c4445dc8a1014c086e06f076.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/562c11dfa9ec8a135f2a8481ff03918fa0ecc09b.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/2934349b033b5bb5a064f09f3ed3d539b600bc24.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/f31fbe096b63f6243100e9628f44ebf81a4ca376.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/d52a2834349b033b333b2cbb1dce36d3d539bd24.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/bf096b63f6246b60563e6115e3f81a4c510fa29b.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/f7246b600c338744b7f5fc1d590fd9f9d72aa09b.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/aa64034f78f0f736a51b9c600255b319eac413ed.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/43a7d933c895d143539c34427bf082025baf07ed.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/d833c895d143ad4b2f9295a18a025aafa40f0617.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/77c6a7efce1b9d165dec4900fbdeb48f8c5464ac.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/e4dde71190ef76c63af9284a9516fdfaaf5167ac.jpg)
+又换密钥[喷]
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/34fae6cd7b899e51f8a5e9754aa7d933c8950dac.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/eaf81a4c510fd9f9b7a986082d2dd42a2834a411.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/d50735fae6cd7b8968efe9e2072442a7d8330ed4.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/b03533fa828ba61e6bb81b4e4934970a304e5979.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/4afbfbedab64034f7fe71167a7c379310a551dac.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/adaf2edda3cc7cd90663e7b83101213fb80e9101.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/0b7b02087bf40ad1545314825f2c11dfa9ecce18.jpg)
+秒安装[笑眼]
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/8601a18b87d6277fb6a5e15920381f30e924fc18.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/bd315c6034a85edf22af2d4241540923dd5475b4.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/f603918fa0ec08fa1038c1c651ee3d6d55fbda93.jpg)
+看右下角[阴险]
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/0df431adcbef7609cd454afe26dda3cc7cd99e01.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/a8014c086e061d9538f1e45973f40ad162d9ca18.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/6f061d950a7b02084f7eec806ad9f2d3572cc818.jpg)
+由于缺乏资源管理器，所以会给你CMD，然而并没有什么用[黑线] 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/48540923dd54564e272b3758bbde9c82d1584f01.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/8cb1cb13495409236e27b01f9a58d109b3de4901.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/55e736d12f2eb9380f3ea893dd628535e5dd6f04.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/ac4bd11373f082025ab9435e43fbfbedab641ba3.jpg)
+大部分功能不能启动，简直就是PE[喷] 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/0e2442a7d933c8952a564a1ad91373f0820200a3.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/8694a4c27d1ed21bea35fc84a56eddc450da3fd7.jpg)
+有趣的是，如果你在这里点重启，会显示关机倒计时——长达180秒，即3分钟啊！
+——而且不能撤销，也不能立即重启
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/37d12f2eb9389b50daac32338d35e5dde7116e04.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/e824b899a9014c084110fac4027b02087bf4f4ac.jpg)
+一闪而过，所以我没截到[泪] 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/203fb80e7bec54e7a750c87fb1389b504fc26a17.jpg)
+BUG：重启就会蓝屏 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/2fdda3cc7cd98d108a68de50293fb80e7bec9017.jpg)
+好啦，Core事实上很简陋，没啥可说的[阴险]接下来是Standard
+安装过程之前已经给大家放过截图了，所以在这里就不放了[滑稽]
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/bd315c6034a85edf21a2224241540923dd5475a1.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/bf096b63f6246b605b5b6e15e3f81a4c510fa27e.jpg)
+好简陋[不高兴]
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/0d338744ebf81a4c0a6730a8df2a6059252da67e.jpg)
+16色[吐]
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/5d6034a85edf8db16600a0050123dd54564e74a1.jpg)
+马上32色[滑稽]
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/5882b2b7d0a20cf4b13b22be7e094b36acaf992c.jpg)
+在这个版本中，控制面板和管理员工具一样不复存在，毕竟是重组过的[滑稽] 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/c83d70cf3bc79f3d28cf3851b2a1cd11728b29a1.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/7e3e6709c93d70cff5d4766cf0dcd100baa12ba1.jpg)
+已经出现部分拟物图标[滑稽] 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/9922720e0cf3d7ca2a1ee217fa1fbe096a63a9e3.jpg)
+计算机的项目也改变位置，更接近NT6了[真棒] 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/6609c93d70cf3bc7502e118dd900baa1cd112aa1.jpg)
+加入UAP[滑稽]
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/0dd7912397dda144d65cb0d3bab7d0a20cf4867e.jpg)
+只需注销即可[滑稽]
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/8d5494eef01f3a2989c30aaf9125bc315c607c4c.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/b999a9014c086e063052e02a0a087bf40bd1cbdd.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/95eef01f3a292df545c87374b4315c6034a8734c.jpg)
+IE7
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/d4628535e5dde71107659c97afefce1b9d166118.jpg)
+OE6
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/8435e5dde71190efee4c4dbec61b9d16fdfa6018.jpg)
+系统属性
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/42166d224f4a20a40ee4e3a698529822730ed0dd.jpg)
+帮助居然要联网，和7一个样[喷] 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/d043ad4bd11373f07e71b0feac0f4bfbfbed0401.jpg)
+看左下角[喷]
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/6d81800a19d8bc3e0a03d9ab8a8ba61ea8d3454c.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/d01373f082025aaf5a7ca1aaf3edab64034f1a01.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/ac4bd11373f08202a7dc4e5e43fbfbedab641b01.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/f603918fa0ec08fa6cb7cdc651ee3d6d55fbda18.jpg)
+Avalon和Indigo在后面均被砍了[泪] 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/960a304e251f95ca171f4dd7c1177f3e660952ed.jpg)
+关机有两种风格：
+一是重组后的倒计时[喷] 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/b812c8fcc3cec3fd25d47814de88d43f869427ed.jpg)
+二是重组前的Slate+XP风格关机[喷] 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/d50735fae6cd7b896ff1e4e2072442a7d9330e36.jpg)
+5112完结(￣ε￣*)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/314e251f95cad1c860512346773e6709c83d51ed.jpg)
+即将开更5219[滑稽]
+Build 5219
+阶段：Beta 1
+SKU：Standard
+ Standard Core
+架构：x86 & x64
+安装模式：wim
+语言：英语
+时间炸弹：2005/08/31~2006/10/01（396天）
+密钥：JG9M6-3QHC6-KFY4D-2MYDB-7WH3W
+相关版本：Windows Vista Build 5219
+问题解决方案：
+安装前需要分区，因为安装过程中不能分区。
+标准核心版不能安装，因为它缺乏密钥。WIM也不能够提取任何可用的工具。
+自动播放退步了[不高兴]
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/aa18972bd40735fa0d3e94d896510fb30e240881.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/94cad1c8a786c917bbcd8858c13d70cf3ac75781.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/7a899e510fb30f24b2543662c095d143ac4b0381.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/962bd40735fae6cd90a86e0007b30f2442a70fb7.jpg)
+那么早就有了[惊讶]
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/b21c8701a18b87d6398b717e0f0828381e30fd82.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/500fd9f9d72a60597d0f247b2034349b033bbab0.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/562c11dfa9ec8a1351059281ff03918fa0ecc0b0.jpg)
+***
+终于可以升级了！
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/a71ea8d3fd1f41342b4dc01f2d1f95cad1c85e5d.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/9d82d158ccbf6c81324de989b43eb13533fa405d.jpg)
+漫长的等待[阴险]
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/91ef76c6a7efce1b09130caba751f3deb48f6593.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/08f790529822720e4aef269b73cb0a46f21fabaa.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/2f738bd4b31c8701bad377872f7f9e2f0708ff6e.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/9f510fb30f2442a7296b38c4d943ad4bd113026e.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/4d086e061d950a7b2a168aa502d162d9f2d3c9b4.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/2fdda3cc7cd98d1080eec850293fb80e7bec909d.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/8c1001e93901213f3c098abd5ce736d12f2e959d.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/aec379310a55b319e9bc46144ba98226cffc170d.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/0e2442a7d933c895208e5c1ad91373f0830200db.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/d31b0ef41bd5ad6e0009a08b89cb39dbb7fd3cdb.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/aa64034f78f0f73651b488600255b319ebc4130d.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/500fd9f9d72a605977ec227b2034349b023bbad7.jpg)
+换了[haha][滑稽]
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/42166d224f4a20a47a4effa698529822720ed07b.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/6c224f4a20a44623349a66039022720e0cf3d77b.jpg)
+C盘一团糟[喷]
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/f31fbe096b63f62422a1fa628f44ebf81b4ca3d7.jpg)
+屏保
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/b21bb051f819861838392ce542ed2e738bd4e651.jpg)
+后来的索引
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/4a36acaf2edda3cc064f7b4109e93901213f922c.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/14ce36d3d539b600679eccd6e150352ac65cb77b.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/37d3d539b6003af364ea1f013d2ac65c1038b67b.jpg)
+空的[喷]
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/64380cd7912397ddcc855b655182b2b7d1a287d7.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/cb8065380cd79123fb1c5715a5345982b3b780d7.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/4e4a20a4462309f7ad376f737a0e0cf3d7cad673.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/d000baa1cd11728b80b54e43c0fcc3cec3fd2c33.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/bba1cd11728b471071b73fadcbcec3fdfc032333.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/b58f8c5494eef01fac67daa4e8fe9925bc317d64.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/4610b912c8fcc3ce08580b529a45d688d43f2033.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/e7cd7b899e510fb3e881b5f6d133c895d1430c33.jpg)
+奇怪的东西[滑稽]
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/34fae6cd7b899e51e916f8754aa7d933c8950d33.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/14ce36d3d539b6006696cdd6e150352ac65cb773.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/80cb39dbb6fd52660dedfe75a318972bd5073689.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/faf2b2119313b07eade5926904d7912397dd8c73.jpg)
+[黑线]说好的进入系统呢？
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/fefd0c62f6246b60ae597f15e3f81a4c500fa276.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/f6093567d016092492b5607adc0735fae7cd3430.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/cca0f3eff01f3a29dda618af9125bc315d607c5f.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/2dd6284b20a446239c9d68039022720e0df3d776.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/d41a971e3a292df511ad6174b4315c6035a8735f.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/75dea15d1038534347984a409b13b07ecb808876.jpg)
+重复[喷]
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/5ee3ed83b9014a90a9ae84dca1773912b21bee31.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/e4fb2cfafbedab644d4c80a1ff36afc378311e8e.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/8b1b11084b36acaffeb25b9d74d98d1000e99c73.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/e17fe0d7277f9e2f75badf691730e924b999f33e.jpg)
+开更5231[酷]
+@VistaWithSP2 @happymax1212 @redapple0204 @zhukun200098 @放射星云7601
+Build 5231.0
+阶段：Beta 1
+SKU：Enterprise
+架构：x86
+安装模式：wim
+语言：英语
+时间炸弹：2005/09/13~2006/05/31（260天）
+密钥：WBVG8-4JPQB-6HJ6H-XH7YY-D2GQY
+相关版本：Windows Vista Build 5231.0
+简介：
+这个版本不会像Windows Vista Build5231.0用VMware安装时会蓝屏，可以放心安装；
+问题解决方案：
+安装光盘与客户端（Windows Vista） 光盘一样，只需使用串行服务器。
+由于我找不到ISO，所以只能用TCB的图来说了[泪]
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/23d305d1f703918f451a93ac593d26975beec487.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/11c9419659ee3d6dbe0d29ad4b166d224d4ade87.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/97de0758252dd42a21c3afcd0b3b5bb5cbeab887.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/8b1b11084b36acaf02dd3f9a74d98d1000e99c88.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/bb06d5109313b07ed680f96e04d7912396dd8c88.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/f47beb5594eef01f768eb6a3e8fe9925bd317d37.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/6050212209f790526c84e95804f3d7ca7acbd537.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/2dd6284b20a44623fb000b049022720e0ef3d780.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/4c07b0cb7bcb0a4608e8255f6363f6246960af80.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/43cf3cb4c9ea15ce38d2496fbe003af33b87b289.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/0a649102738da977849a2f4db851f8198718e311.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/dc76b659ccbf6c81e03a858eb43eb13532fa40b8.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/0a1949728bd4b31c4eb13add8fd6277f9f2ff839.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/d0a6ff23720e0cf3207ae09d0246f21fbf09aa39.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/4fd025a6d933c8957149311dd91373f083020092.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/c722407e9e2f0708e6b08366e124b899a801f211.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/bb19cc65034f78f05b3c339571310a55b2191c92.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/f0a59f188618367a1984d6bb26738bd4b21ce5b9.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/03e20a234f4a20a4b62995a198529822730ed093.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/79e6d41ab051f8194728aa2cd2b44aed2f73e7b9.jpg)
+虽然写着是Beta 2，但是仍然是Beta 1[滑稽]
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/411d5e00213fb80e4f79c8b13ed12f2eb8389425.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/ec5b49dca3cc7cd9a2af9dbf3101213fba0e91cf.jpg)
+有一些图标开始拟物化了[真棒] 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/3b006dd062d9f2d38c348c89a1ec8a136227cca1.jpg)
+暂时还没有集成系统属性[汗] 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/b227302d11dfa9ec540bfe716ad0f703908fc1a1.jpg)
+控制面板好漂亮[真棒]不知道为什么RTM时左边却变得一片白色，可能是由于经典主题的缘故，
+也不知道开了桌面体验后会怎么样，但是这里经典主题也有特性[怒]MS怎么搞的 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/222d95d2572c11df77d016456b2762d0f603c24d.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/94de4f35349b033b51ac54bc1dce36d3d439bda1.jpg)
+有些地方也有绿色背景[真棒] 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/fcc53b6134a85edfde0e574541540923df5475cf.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/1e2beab0cb1349545fb641025e4e9258d0094a25.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/2b9791256b600c33787877ae124c510fd8f9a14d.jpg)
+Build 5231.2
+阶段：Beta 1
+SKU：Enterprise
+架构：x64
+安装模式：wim
+语言：英语
+时间炸弹：2005/10/05~2006/05/31（238天）
+密钥：WBVG8-4JPQB-6HJ6H-XH7YY-D2GQY
+相关版本：Windows Vista Build 5231.2
+问题解决方案：
+安装光盘与客户端（Windows Vista） 光盘一样，只需使用串行服务器。
+***
+我就不发图了，和上面一样[滑稽]
+Build 5259.0
+阶段：Beta 1
+SKU：Enterprise
+架构：x86
+安装模式：wim
+语言：英语
+时间炸弹：2005/11/14~2006/05/31（198天）
+密钥：WBVG8-4JPQB-6HJ6H-XH7YY-D2GQY
+相关版本：Windows Vista Build 5259.0
+问题解决方案：
+安装光盘与客户端（Windows Vista） 光盘一样，只需使用串行服务器；
+Microsoft 管理控制台双击MSC快捷方式 （例如管理员工具Administrator Tools） 会出现一个错误的结果；而右击，然后选择查找目标，然后双击.msc 文件。
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/ab30d04443a982267e07be418282b9014890eb8c.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/0b0f9cecab64034fdf465760a7c3793108551dc6.jpg)
+PE风格好漂亮[滑稽] 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/a6391c889e510fb398b1e3f1d133c895d0430c25.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/ca76de004a90f603c5b108213112b31bb151ed4d.jpg)
+但是这里边框略微难看，因为和里面不太相称[黑线] 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/47fc4f391f30e924752f095744086e061f95f7c7.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/b227302d11dfa9ec5086c2716ad0f703908fc126.jpg)
+大字标题[阴险]
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/43cf3cb4c9ea15ce3c2f756fbe003af33887b28c.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/11fbbef8d72a6059279a747c2034349b013bbac7.jpg)
+图标……[狂汗]
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/2b9791256b600c337cf24bae124c510fdbf9a1c7.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/90566bf531adcbef53f5eb60a4af2edda1cc9f8c.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/a9a4522bc65c1038424659a4ba119313b17e8995.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/5ab8360ed9f9d72a9f5d877bdc2a2834359bbb95.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/5b21ca6fddc451da09969b8dbefd5266d116326d.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/ebecf02ad40735fa7453d9df96510fb30e24082e.jpg)
+进度条出现[滑稽]
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/327f2011b912c8fcba3961abf4039245d4882187.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/ed9abac551da81cbb02c14ab5a66d0160b243187.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/768ebdb54aed2e734b89114a8f01a18b86d6fa6e.jpg)
+简直回到上个世纪[阴险] 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/cde466e83901213f950bd9ba5ce736d12e2e9595.jpg)
+NT6风凸显[滑稽]
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/39c56d54b319ebc41bdbe1ff8a26cffc1f17162e.jpg)
+终于集成了[真棒]风格也很好看
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/c0fe7ed9bc3eb1356dff20ddae1ea8d3fc1f4495.jpg)
+控制面板同步改进[真棒]
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/4f47682542a7d933502c7215a54bd11371f001c1.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/70ba421e95cad1c8cf786a41773e6709cb3d518e.jpg)
+当然，你还可以在部分地方发现原来的蓝色，不过早已大不同[滑稽] 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/dfc99fddd100baa1be69d1dd4f10b912c9fc2e00.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/b828b601baa1cd1106f3e446b112c8fcc2ce2d00.jpg)
+小黑格还在[喷]
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/bd0ec850f3deb48fcd2f37b8f81f3a292cf57803.jpg)
+WMP10居然有两种不同的风格[喷] 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/e772ae167f3e6709a5c3d39933c79f3dfadc558e.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/3b7df9500fb30f24d4597a65c095d143af4b038e.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/94f352fbe6cd7b890daface5072442a7db330e8e.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/edbfb61273f08202c4d7075943fbfbedaa641b00.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/1b41aeeb15ce36d3d279125632f33a87e850b148.jpg)
+Build 5259.3
+阶段：Beta 1
+SKU：Enterprise
+架构：x86
+安装模式：wim
+语言：英语
+时间炸弹：2005/11/18~2006/05/31（194天）
+密钥：WBVG8-4JPQB-6HJ6H-XH7YY-D2GQY
+相关版本：Windows Vista Build 5259.3
+问题解决方案：
+安装光盘与客户端（Windows Vista） 光盘一样，只需使用串行服务器；
+Microsoft 管理控制台双击MSC快捷方式 （例如管理员工具Administrator Tools） 会出现一个错误的结果；而右击，然后选择查找目标，然后双击.msc 文件。
+好啦，今天先更到这里，明天是5270，ISO已找到，明天照常截图[滑稽]
+开更了[滑稽]
+@VistaWithSP2 @happymax1212 @redapple0204 @zhukun200098 @放射星云7601
+Build 5270.9
+阶段：Beta 1
+SKU：Enterprise
+ Enterprise Core
+架构：x86 & x64
+安装模式：wim
+语言：英语
+时间炸弹：2005/12/15~2006/05/31（167天）
+密钥：WBVG8-4JPQB-6HJ6H-XH7YY-D2GQY
+相关版本：Windows Vista Build 5270.9
+简介：
+这是Beta 1的最后一个版本；
+（5231.0~5270.9）的时间炸弹越来越短，因为截至日期都在2006年5月31日（不过下一个版本的时间炸弹达560天，相当于1年半！）
+分区[滑稽]
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/8326cffc1e178a8232dc25ccfe03738da877e8fe.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/ae51f3deb48f8c54881a9f4332292df5e1fe7f94.jpg)
+和5270背景一模一样，待会给你们看看[阴险] 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/b2de9c82d158ccbf5e75ef5611d8bc3eb0354194.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/dc54564e9258d1099d2af3ded958ccbf6d814d94.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/79f0f736afc379318888dc45e3c4b74542a911fd.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/ae51f3deb48f8c548fe7804332292df5e0fe7fa1.jpg)
+作死，直接在里面安装[滑稽] 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/aa18972bd40735fa8d1314d596510fb30e2408fe.jpg)
+看！简直就是一模一样！[滑稽]
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/a8773912b31bb0516a10f6443e7adab44aede0a2.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/f3d3572c11dfa9ec38e60c7b6ad0f703908fc196.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/91529822720e0cf31e3e14970246f21fbf09aa95.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/f603918fa0ec08fae65857cb51ee3d6d55fbda06.jpg)
+很正常
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/728da9773912b31b202789458e18367adab4e117.jpg)
+***
+[彩虹][彩虹][彩虹][喷]
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/47fc4f391f30e92444f7d85d44086e061c95f705.jpg)
+[彩虹][彩虹][彩虹][喷]+1
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/78310a55b319ebc4343332f58a26cffc1e171616.jpg)
+好吧，也只能是这样子了[狂汗] 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/0d338744ebf81a4c8241a8a5df2a6059252da66f.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/b21bb051f8198618a50cabe842ed2e738bd4e617.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/54fbb2fb43166d22f05f51f84e2309f79052d2b6.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/21a4462309f790525c37035204f3d7ca7bcbd5b6.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/6a63f6246b600c3357519aa4124c510fd9f9a1b6.jpg)
+CMD[喷]
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/dcc451da81cb39dbd7b2233ad8160924ab18306f.jpg)
+好吧，还是正经点吧[狂汗]
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/9d82d158ccbf6c81b0d46b84b43eb13532fa40fe.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/b58f8c5494eef01f21c95fa9e8fe9925bd317df8.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/8c1001e93901213fbbc909b05ce736d12e2e95e7.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/c83d70cf3bc79f3dbf56a35cb2a1cd11728b2922.jpg)
+大字报[阴险]
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/6a600c338744ebf8cbc52353d1f9d72a6059a722.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/78310a55b319ebc4358231f58a26cffc1f1716e7.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/80cb39dbb6fd5266b11c7a78a318972bd40736a2.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/fc1f4134970a304e19c1e796d9c8a786c8175cfe.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/aec379310a55b3196bcec4194ba98226cffc17a2.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/78310a55b319ebc4364f30f58a26cffc1e1716a2.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/86d6277f9e2f0708b5246c6ce124b899a901f2bd.jpg)
+前方高能！！！这里卡了至少半个小时[狂汗][喷] 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/562c11dfa9ec8a13cc3b118cff03918fa0ecc0bd.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/78310a55b319ebc435b531f58a26cffc1f171688.jpg)
+让我试试再作死一遍[阴险] 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/060828381f30e9241969db5d44086e061c95f789.jpg)
+[彩虹][彩虹][彩虹][喷] 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/63d0f703918fa0ecbce622612e9759ee3d6ddbbd.jpg)
+不能运行……[喷]
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/ac345982b2b7d0a2f99742f1c3ef76094b369a04.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/6f061d950a7b0208d304788d6ad9f2d3562cc889.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/0b7b02087bf40ad1c829808f5f2c11dfa8ecce89.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/dbb44aed2e738bd42591f45da98b87d6277ff92e.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/0df3d7ca7bcb0a463a92cd556363f6246b60af2e.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/18d8bc3eb13533fab109d242a0d3fd1f41345b1a.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/6d81800a19d8bc3e80b747a68a8ba61ea8d3451a.jpg)
+BOOM！[彩虹][彩虹][彩虹][喷] 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/37d12f2eb9389b50477ca13e8d35e5dde6116ede.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/574e9258d109b3deb600a504c4bf6c81800a4c1a.jpg)
+好了，挂了，是时候放出TCB的截图了[阴险] 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/0ff41bd5ad6eddc40af0f59731dbb6fd52663342.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/91529822720e0cf3131f0f970246f21fbf09aaf6.jpg)
+这个背景领先Vista[真棒] 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/ac6eddc451da81cb65d6c3a15a66d016092431ad.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/6c224f4a20a44623b652e40e9022720e0df3d7c6.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/08f790529822720ecf56a39673cb0a46f31fabc6.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/d6ca7bcb0a46f21f76dc1f3ffe246b600d33aef6.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/e850352ac65c1038b6968faeba119313b17e89f6.jpg)
+控制面板一片绿[阴险] 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/b21bb051f8198618b930afe842ed2e738bd4e663.jpg)
+***
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/5243fbf2b211931359abbedc6d380cd790238df6.jpg)
+黑色BUG修复了[阴险] 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/0823dd54564e9258f618c6829482d158ccbf4ea9.jpg)
+5270完结(￣ε￣*)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/2934349b033b5bb5104860923ed3d539b600bc3b.jpg)
+Build 5308.60
+阶段：Beta 2
+SKU：Enterprise
+架构：x86
+安装模式：wim
+语言：英语
+时间炸弹：2006/02/24~2007/09/07（560天）
+密钥：WBVG8-4JPQB-6HJ6H-XH7YY-D2GQY
+相关版本：Windows Vista Build5308.60
+简介：
+这个版本与 Windows Vista 相同的版本在相同的光盘上，只是它们使用了不同的密钥。
+这个版本修复了Beta 1的众多问题。
+***
+这个版本我没找到ISO，所以仍然是TCB截图[滑稽]
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/e4fb2cfafbedab64d3be0eacff36afc37b311e87.jpg)
+改为Vista开机样式，但是没有极光动画[泪] 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/678bf92e07082838eb1a9e78b099a9014d08f1b9.jpg)
+这个外观领先Vista[真棒] 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/95cdd1013af33a87d1124276ce5c10385243b550.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/e9f52b096e061d95f68a745473f40ad160d9ca80.jpg)
+总觉得这种样式比RTM还要好看[滑稽] 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/cae7042662d0f70399cdd7b000fa513d2797c550.jpg)
+大家有没有注意Starter 2007，不懂的去百度一下[滑稽] 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/512bceed8a13632764aa805f998fa0ec09fac708.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/141351d02f2eb938c57b389edd628535e4dd6fb9.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/dba428c3d562853587a7904d98ef76c6a6ef6308.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/d2b1b189d43f87940fe90a42da1b0ef41ad53ab9.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/6d0187ff9925bc31291a43f456df8db1ca137008.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/7a738e51352ac65c2ace2b1ff3f2b21191138a8c.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/0bc2cbae2edda3cc2e2ff54c09e93901233f928c.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/7159acee76094b36e3165681abcc7cd98f109dcf.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/7627b238b6003af30c3e910c3d2ac65c1238b6cf.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/95cdd1013af33a87dee94d76ce5c10385143b5cf.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/8b1b11084b36acaf61d0da9074d98d1000e99c9b.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/dde29afbaf51f3dedf79f4089ceef01f3829798c.jpg)
+类似Vista的欢迎中心已经有了，但是很简陋[汗] 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/b32ad38e8c5494ee9ee9427525f5e0fe9b257e8c.jpg)
+看看右下角的扁平化[喷] 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/36fd2c37acaf2eddf3c10585851001e93801939b.jpg)
+关机去哪了[喷]
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/11fbbef8d72a60590c0bad762034349b023bbabc.jpg)
+关机去哪了~关机去哪了……[喷]
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/a9a4522bc65c103869fd82aeba119313b27e89d4.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/4c07b0cb7bcb0a46eec7c7556363f6246960afee.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/e9f52b096e061d95f3a87b5473f40ad160d9cae2.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/b2ebd9086b63f6244bdd756f8f44ebf8184ca3cb.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/4a2505d8f2d3572c110bd0b08213632760d0c3e2.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/1e2beab0cb134954709ea4085e4e9258d3094acb.jpg)
+退化了……[喷]
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/f9ccfc514fc2d562db259f81ef1190ef77c66ca6.jpg)
+这个版本值得一提的是内存检测[黑线] 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/cb20d41d8701a18b6bd95d23962f07082938fea6.jpg)
+5308完结[滑稽]
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/75dea15d10385343c1e2c84d9b13b07ecb8088a6.jpg)
+普通版本更新列表（第三季）：
+Pre-Beta【已完结】
+Beta 1【已完结】
+5308【已更】
+5384
+5600
+5728
+5744
+5757
+龙魂外传（第三季）：
+766号彩蛋：最后的Avalon【已完结】
+1012号彩蛋：千里相约【已完结】
+1601号彩蛋：无尽徘徊
+顺便插播一下，你们看了有何感想[滑稽]
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/3632c0eece1b9d16a2772e0dfbdeb48f8d54641b.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/b227302d11dfa9ec7064e27b6ad0f703908fc10e.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/9da0314f9258d109c5501dded958ccbf6d814d24.jpg)
+还有[滑稽]
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/746f643a5bb5c9ea3d32b78fdd39b60038f3b38a.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/2ef27a940a7b020888088b8d6ad9f2d3552cc88b.jpg)
+LZ回家归来晚，忙趁打机来更贴[滑稽]
+@VistaWithSP2 @happymax1212 @redapple0204 @zhukun200098 @放射星云7601
+Build 5384.4
+阶段：Beta 2
+SKU：Enterprise
+ Enterprise Check/Debug
+EnterpriseCore
+架构：x86 & x64
+安装模式：wim
+语言：英语
+时间炸弹：2006/05/19~2007/05/31（377天）
+密钥：P2GH8-3W46Q-HCW3C-JF92J-FQRPB（万能密钥，通用于所有版本）
+相关版本：Windows Vista Build 5384.4
+简介：
+这个版本是官方发布的Windows Server 2008 Beta2。它包括了服务器管理器，但缺乏部分客户端组件，如缺乏媒体播放器（Windows Media Player11）、 Outlook Express （WindowsMail） 和游戏；
+问题解决方案：
+如果使用VMware安装这个版本，则会自带识别为server 2008并使用简易安装，但是在安装过程中仍然会要求输入密钥，而且即使输入正确的密钥也不能通过，正确的解决方法是：使用空白硬盘模式，开机后再挂载ISO。
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/ae51f3deb48f8c5422f8257f32292df5e0fe7fb3.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/023b5bb5c9ea15ce4d810059be003af33a87b277.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/d4628535e5dde7113cf9a3a6afefce1b9d1661b3.jpg)
+后面是有极光LOGO的[滑稽] 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/6159252dd42a28344374d75b53b5c9ea14cebf94.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/cb8065380cd791231a8f7424a5345982b2b78077.jpg)
+别被骗了，虽然写着Vista，但是下一页……[阴险] 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/71cf3bc79f3df8dc34526fc1c511728b47102877.jpg)
+还是Longhorn[滑稽]
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/b8014a90f603738d8024ec72bb1bb051f819ec70.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/72f082025aafa40f5fa82e8da364034f78f01977.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/ae51f3deb48f8c5422bc257f32292df5e0fe7f77.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/94cad1c8a786c917a0d1b369c13d70cf3ac75794.jpg)
+之前跟大家说过了，Core是命令符版，所以还是推荐使用原来的[滑稽]
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/574e9258d109b3de553a0438c4bf6c81810a4cdd.jpg)
+独立条约，记得Vista是包括Server 2008的[汗]
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/d01373f082025aafb76c9e9bf3edab64034f1a07.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/4034970a304e251f4f7204a8af86c9177e3e53dd.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/48540923dd54564e54e00469bbde9c82d0584fdd.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/32fa828ba61ea8d328a794549f0a304e241f58dd.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/d1160924ab18972bd7bee09aeecd7b899f510add.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/622762d0f703918ff148dd9a593d269758eec4c1.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/9922720e0cf3d7ca1fa8df26fa1fbe096b63a900.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/0d338744ebf81a4c3e6c0c99df2a6059252da600.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/cb8065380cd791231a277424a5345982b3b7809f.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/d52a2834349b033b2cf01f8a1dce36d3d539bd62.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/7dd98d1001e93901bfbc6e6e73ec54e736d19620.jpg)
+神奇的是，这里没有三点[阴险] 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/8c1001e93901213f278dad8c5ce736d12f2e9520.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/b8389b504fc2d5622db633bdef1190ef76c66c20.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/caef76094b36acafb6d475ac74d98d1001e99cae.jpg)
+不错[大拇指]
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/c8177f3e6709c93d904ceda7973df8dcd1005420.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/d0c8a786c9177f3eb98a1f5d78cf3bc79f3d5620.jpg)
+可怜的Server 2008 也就只有那么多功能[泪] 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/7e3e6709c93d70cfda44495df0dcd100baa12b20.jpg)
+神奇的是，这里的用户（还没有创建）就可以直接打开，Vista办不到[滑稽] 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/30adcbef76094b363beaf8bdabcc7cd98d109d62.jpg)
+控制面板左边惨白[泪][喷] 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/8c1001e93901213f274bad8c5ce736d12f2e9562.jpg)
+成功连接到网络的风格……[黑线]
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/377adab44aed2e73b915657c8f01a18b86d6fae6.jpg)
+金玉其外败絮其中[黑线] 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/8ad4b31c8701a18bb117f11f962f07082938fee6.jpg)
+性能检测时隐时现[喷] 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/b151f8198618367af5759c8d26738bd4b21ce5e6.jpg)
+突然黑屏了，然后重启[滑稽] 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/30adcbef76094b363af9f9bdabcc7cd98d109d73.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/3812b31bb051f819abd9e01ad2b44aed2f73e7e6.jpg)
+哎呀，原本想截极光却一闪而过[喷] 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/91529822720e0cf3b50badab0246f21fbf09aae6.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/8718367adab44aed1f8e5db4bb1c8701a08bfb9a.jpg)
+连启动界面都没有就进入了[喷] 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/63d0f703918fa0ec58c4865d2e9759ee3d6ddb5b.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/9f2f070828381f30d5d96ef9a1014c086f06f09a.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/a8ec8a13632762d0ba3d46efa8ec08fa513dc65b.jpg)
+算了，我们重来一次[滑稽]
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/21a4462309f79052c566aa6e04f3d7ca7bcbd561.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/a71ea8d3fd1f4134430ae82e2d1f95cad1c85ea5.jpg)
+隐约看到极光[汗]
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/aa18972bd40735fae49ea3e996510fb30f240877.jpg)
+终于出现了[喷]
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/730e0cf3d7ca7bcb68022a7fb6096b63f624a861.jpg)
+管理员的***去哪了[喷] 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/960a304e251f95ca09c87fe6c1177f3e670952a5.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/cb8065380cd791231d997924a5345982b2b78061.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/2f738bd4b31c870192d85fb62f7f9e2f0708ff70.jpg)
+可怜的Server也就只有纯色背景[黑线] 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/64380cd7912397dd2a0075545182b2b7d0a28761.jpg)
+也就只有一个屏保[黑线] 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/94cad1c8a786c917a3d0b069c13d70cf3ac7578b.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/9f510fb30f2442a7d13210f5d943ad4bd11302a5.jpg)
+这个风格跟win7没区别[喷]
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/d1160924ab18972bd4a5ed9aeecd7b899f510ac6.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/f9198618367adab4648bf61383d4b31c8701e403.jpg)
+两个搜索[汗]
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/adaf2edda3cc7cd914ebd9893101213fb90e9198.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/0eb30f2442a7d933c1760923a54bd11372f00187.jpg)
+只有一个主题[汗]
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/5366d0160924ab18688a0c673dfae6cd7a890bc6.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/f3d3572c11dfa9ecc375bb476ad0f703918fc103.jpg)
+看右下角[喷]
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/78310a55b319ebc4abe79bc98a26cffc1f1716c6.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/0b55b319ebc4b7455e0b5a46c7fc1e178b8215c6.jpg)
+[滑稽][滑稽][滑稽]
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/4b90f603738da9771ef16b7bb851f8198718e380.jpg)
+5384完结[滑稽]
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/728da9773912b31b99b220798e18367adbb4e180.jpg)
+官方QQ群已经开通，欢迎大家进驻！群号：229609607
+@zhukun200098 @放射星云7601 @快乐一家year @Blackcomb7 @123y456u
+楼主录播聊天晚，闲趁台风来开更[滑稽]
+@VistaWithSP2 @happymax1212 @redapple0204 @MacAdmin @华文古韵
+Build 5600.16384
+阶段：Beta 2
+SKU：DatacenterServer
+Datacenter Server Core
+Enterprise
+Enterprise Server Core
+Standard
+Standard Server Core
+架构：x86 & x64
+安装模式：wim
+语言：英语
+时间炸弹：2006/08/30~2008/01/18（506天）
+密钥：无
+相关版本：Windows Vista Build5600.16384
+简介：
+虽然这个版本与其相同的客户端版本已经是WindowsVista RC 1，但是这个版本还处于 Beta 2 阶段。因为这个版本所处的阶段与Windows Vista不同，所以后续的版本还将会再与 Windows Vista SP1 的版本号（Build 6001）再次对应。
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/18d8bc3eb13533fa02de817ca0d3fd1f41345b73.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/203fb80e7bec54e767a2084cb1389b504fc26a11.jpg)
+没有UAC[滑稽]
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/f603918fa0ec08fa50f601f551ee3d6d54fbdae9.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/64380cd7912397dd9dfc8a565182b2b7d1a287de.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/cf1b9d16fdfaaf5192ad93ed845494eef01f7a11.jpg)
+可以不要[滑稽]
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/5bafa40f4bfbfbed6f31242d70f0f736afc31f73.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/ac6eddc451da81cb93a8919f5a66d01609243111.jpg)
+肯定选最长的那一个[酷] 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/b03533fa828ba61e2aa0da7d4934970a304e5911.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/2f738bd4b31c870145dea0b42f7f9e2f0708ff7c.jpg)
+不能升级[喷]
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/d53f8794a4c27d1e7168299613d5ad6eddc43811.jpg)
+逐个试试[汗]
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/0eb30f2442a7d9337182f921a54bd11373f001bd.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/d01373f082025aaf64576399f3edab64034f1a7e.jpg)
+事实证明，任何版本都不能升级[喷] 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/024f78f0f736afc3b1262237bb19ebc4b74512bd.jpg)
+正经点[滑稽]
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/e7cd7b899e510fb3b9336ac5d133c895d1430cbd.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/6a63f6246b600c339ecdc39a124c510fd9f9a12f.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/f636afc379310a55790ec3a6bf4543a9822610bd.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/d1160924ab18972b64751d98eecd7b899e510a10.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/c995d143ad4bd113cea8aa6052afa40f4bfb057e.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/562c11dfa9ec8a1399554ab2ff03918fa0ecc011.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/d01373f082025aaf647d6399f3edab64034f1a10.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/7acb0a46f21fbe097e01de4663600c338744ad00.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/08f790529822720e038fffa873cb0a46f21fab1a.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/f9dcd100baa1cd11e7196f72b112c8fcc3ce2d30.jpg)
+秒安装[惊讶]
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/a044ad345982b2b7ef83249639adcbef76099b47.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/838ba61ea8d3fd1fc2a6bf68384e251f95ca5f30.jpg)
+好长的名字……[黑线]
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/14ce36d3d539b600119112e5e150352ac65cb700.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/7e3e6709c93d70cfb455b75ff0dcd100baa12b30.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/5243fbf2b21193138502e2e26d380cd791238d1a.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/b90e7bec54e736d17e4c915a93504fc2d5626900.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/342ac65c10385343c98e9a739b13b07eca80881a.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/c2cec3fdfc0392454be2fc5d8f94a4c27d1e2508.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/bd3eb13533fa828b269a80b1f51f4134970a5a22.jpg)
+好长的名字……[黑线] 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/a9d3fd1f4134970ab5ca0d7d9dcad1c8a7865d22.jpg)
+搞定！
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/4610b912c8fcc3ce5997d4619a45d688d43f2008.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/c2fdfc039245d6884a55aff6acc27d1ed21b2408.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/500fd9f9d72a605905b6fc482034349b033bba39.jpg)
+终于人性化了[汗]
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/359b033b5bb5c9ea32551eb1dd39b6003af3b339.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/0ff41bd5ad6eddc4f65ea9a931dbb6fd52663322.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/a5c27d1ed21b0ef4bf51850cd5c451da81cb3e22.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/5366d0160924ab1838fefc653dfae6cd7a890bf3.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/00e93901213fb80e36997d853ed12f2eb9389413.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/83025aafa40f4bfb390d83060b4f78f0f6361886.jpg)
+图标逐渐拟物化[真棒] 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/a2cc7cd98d1001e9734a085db00e7bec54e79769.jpg)
+只剩下这些了[滑稽]
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/2fdda3cc7cd98d1048a21063293fb80e7bec9069.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/5bafa40f4bfbfbed68842b2d70f0f736aec31f86.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/f3d3572c11dfa9ec720e4a456ad0f703918fc144.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/0b46f21fbe096b63e0c5430204338744eaf8ac87.jpg)
+话说回来，这个版本到底有没有桌面体验，如果有，该怎么开 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/c8ea15ce36d3d5399f1e13913287e950352ab044.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/5ab5c9ea15ce36d3fd279f6232f33a87e950b144.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/c9fcc3cec3fdfc03090effeadc3f8794a4c22669.jpg)
+UAC****[阴险]
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/b3119313b07eca8051cf27b5992397dda044839d.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/3ac79f3df8dcd1002a70e6737a8b4710b8122ff7.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/11385343fbf2b211a2e49b1cc28065380dd78e9d.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/4a36acaf2edda3cc389da17209e93901213f9262.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/77094b36acaf2edde08850bb851001e939019362.jpg)
+5600 END[滑稽]
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/6d81800a19d8bc3ec8711f988a8ba61ea8d34562.jpg)
+明天5728[酷]
+ ——不用说了这一定是标准的十五个字
+反正正在防台风也出不去，不如开始5728吧[吐舌]
+@VistaWithSP2 @happymax1212 @redapple0204 @MacAdmin @华文古韵
+Build 5728.16387
+阶段：Beta 2
+SKU：DatacenterServer
+Datacenter Server Core
+Enterprise
+Enterprise Server Core
+Standard
+Standard Server Core
+架构：x86 & x64
+安装模式：wim
+语言：英语
+时间炸弹：2006/09/18~2008/01/18（487天）
+密钥：无
+相关版本：Windows Vista Build 5728.16387
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/d058ccbf6c81800a6d18935db93533fa838b47e7.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/203fb80e7bec54e77f83004db1389b504fc26a71.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/bf096b63f6246b601d5aa827e3f81a4c510fa208.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/e1fe9925bc315c6050fa71bc85b1cb1349547771.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/cefc1e178a82b90186f6d9607b8da9773912ef0e.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/3ac79f3df8dcd1003624e2727a8b4710b9122f2c.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/b8014a90f603738d66b71671bb1bb051f919ece0.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/f703738da9773912629e9f32f0198618367ae22d.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/b90e7bec54e736d16549965b93504fc2d562690e.jpg)
+终于可以升级了！！！[笑眼] 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/5ab5c9ea15ce36d3f7f8996332f33a87e850b1e0.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/0df3d7ca7bcb0a46f9268e6a6363f6246b60af58.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/86d6277f9e2f0708c8352f53e124b899a901f2b5.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/3bf33a87e950352ae165205b5b43fbf2b2118b58.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/5d6034a85edf8db1ad3179370123dd54564e7441.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/8b13632762d0f7036482908f00fa513d2697c5b5.jpg)
+好长的名字[阴险]
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/d62a6059252dd42a320d04f80b3b5bb5c9eab858.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/21a4462309f790529d2c426d04f3d7ca7bcbd5b5.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/0dd7912397dda144990d69e1bab7d0a20cf48658.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/4ec2d5628535e5ddb71fa08c7ec6a7efce1b62b5.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/48540923dd54564ef961e16abbde9c82d1584f58.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/a8ec8a13632762d00340a1eca8ec08fa513dc663.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/b21c8701a18b87d6fa67ae4c0f0828381f30fdb8.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/023b5bb5c9ea15ce16fee55abe003af33a87b254.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/b999a9014c086e06fad63a180a087bf40ad1cb63.jpg)
+定型了[滑稽]
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/a8014c086e061d95e238326b73f40ad162d9ca63.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/b3fb43166d224f4a21bd764001f790529822d1b8.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/f603918fa0ec08faa92516f451ee3d6d55fbdab8.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/eaf81a4c510fd9f9c16e503a2d2dd42a2834a463.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/3b292df5e0fe9925dd4e6c033ca85edf8db17126.jpg)
+吓得我还以为时间炸弹破了[惊哭] 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/cf1b9d16fdfaaf51aba184ec845494eef01f7a26.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/7aec54e736d12f2ef03daa3347c2d562853568ac.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/77c6a7efce1b9d16ab499f32fbdeb48f8d5464d2.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/ac6eddc451da81cb9868869e5a66d016082431d2.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/3b87e950352ac65c373d6220f3f2b21193138aac.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/3801213fb80e7bec137806b2272eb9389a506bc6.jpg)
+UAC名存实亡[不高兴]
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/cdbf6c81800a19d8c88d81563bfa828ba71e46d2.jpg)
+其实这个版本开始出现Server 2008的字样，猜猜看，它在哪里[滑稽]
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/94cad1c8a786c917fd3b566ac13d70cf3bc757ac.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/18d8bc3eb13533faf538967da0d3fd1f40345bd2.jpg)
+图标拟物化领先Vista[真棒] 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/95eef01f3a292df5bf30a946b4315c6035a873f5.jpg)
+答案：在这里[滑稽]
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/8d5494eef01f3a29736ad09d9125bc315d607cc6.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/b8389b504fc2d562c86bd4beef1190ef76c66c05.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/37d12f2eb9389b50049ce4018d35e5dde7116e05.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/55e736d12f2eb938d10e7ea1dd628535e5dd6f05.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/203fb80e7bec54e7718f1e4db1389b504fc26a05.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/ac6eddc451da81cb991f879e5a66d016082431e3.jpg)
+这个版本重新包含了WMP11[滑稽] 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/eac4b74543a98226098e2f748282b9014a90eb12.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/0b55b319ebc4b74587dbb345c7fc1e178a821511.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/bd3eb13533fa828bd14099b0f51f4134970a5a05.jpg)
+5728 END[狂笑] 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/dcc451da81cb39db17a36305d8160924ab183005.jpg)
+临界点上开更[酷]
+@VistaWithSP2 @happymax1212 @redapple0204 @MacAdmin @华文古韵
+Build 5744.16384
+阶段：Beta 2
+SKU：DatacenterServer
+Datacenter Server Core
+Enterprise
+Enterprise Server Core
+Standard
+Standard Server Core
+架构：x86 & x64
+安装模式：wim
+语言：英语
+时间炸弹：2006/10/04~2008/01/18（471天）
+密钥：无
+相关版本：Windows Vista Build5744.16384
+大家就当看安装“Vista吧”[滑稽][阴险] 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/c9fcc3cec3fdfc033138f7eddc3f8794a4c22626.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/cc11728b4710b9125781e2abcbfdfc0392452226.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/1c950a7b02087bf4f06443bcfad3572c10dfcfdf.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/adaf2edda3cc7cd9dddc208c3101213fb90e91f5.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/54fbb2fb43166d2240fc01c14e2309f79152d2df.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/bba1cd11728b47102752e999cbcec3fdfc032361.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/962bd40735fae6cdc145bf3407b30f2443a70ff5.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/6a63f6246b600c33a73aca9d124c510fd9f9a127.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/574e9258d109b3dee1c2f03dc4bf6c81800a4c61.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/a5c27d1ed21b0ef4b0958c0bd5c451da81cb3e61.jpg)
+肯定选所谓的最高版本[滑稽]
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/aa18972bd40735fa5f095aec96510fb30e2408ed.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/6a63f6246b600c33a79fca9d124c510fd8f9a184.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/d8f9d72a6059252df3300a513c9b033b5bb5b9bb.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/1b4c510fd9f9d72a45430748dc2a2834349bbbbb.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/503d269759ee3d6d5e20939e4b166d224e4ade84.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/1c950a7b02087bf4f39640bcfad3572c11dfcf69.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/8326cffc1e178a8260c56bf5fe03738da877e8ee.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/c8ea15ce36d3d539864818963287e950352ab069.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/023b5bb5c9ea15ce189bf75cbe003af33a87b269.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/f2deb48f8c5494ee9a05184c25f5e0fe99257ebb.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/4d086e061d950a7bf471589102d162d9f2d3c91b.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/060828381f30e92448e08a6444086e061d95f71b.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/0bd162d9f2d3572ceda68a898213632762d0c31b.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/f9dcd100baa1cd11e8946475b112c8fcc3ce2d40.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/1e30e924b899a901be714d6315950a7b0208f51b.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/472309f79052982261522f96dfca7bcb0a46d405.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/b219ebc4b74543a95139ec9916178a82b9011440.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/faf2b2119313b07ef139465d04d7912396dd8cda.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/58ee3d6d55fbb2fb484a4e47474a20a44623dc05.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/b64543a98226cffccb08a9e7b1014a90f603ea41.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/37d3d539b6003af30b05ca353d2ac65c1038b623.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/9213b07eca8065383116b2469fdda144ac3482e2.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/472309f790529822616a2f96dfca7bcb0a46d40d.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/e850352ac65c103865c1d897ba119313b07e8923.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/0df3d7ca7bcb0a46ea7b9d6c6363f6246b60af0d.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/9825bc315c6034a82f1eaed4c3134954082376e2.jpg)
+没+了[滑稽]
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/d4628535e5dde711ce0455a3afefce1b9c166194.jpg)
+不用任何理由就可以关机[阴险] 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/e61190ef76c6a7efaf99be73f5faaf51f3de6623.jpg)
+完结[滑稽]
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/7dd98d1001e93901705b9b6b73ec54e736d1960d.jpg)
+开更Beta 2+3[滑稽]
+@VistaWithSP2 @happymax1212 @redapple0204 @MacAdmin @华文古韵
+Build 5757.1
+阶段：Beta 2
+SKU：DatacenterServer
+Datacenter Server Core
+Enterprise
+Enterprise Server Core
+Standard
+Standard Server Core
+架构：x86 & x64
+安装模式：wim
+语言：英语
+时间炸弹：2006/10/11~2008/01/18（464天）
+密钥：无
+简介：
+这是Beta 2的最后一个版本。
+***
+这个版本没啥好看的，给大家看看界面吧[滑稽]
+***
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/191a5a6c55fbb2fbd887805d474a20a44423dcc3.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/7d9932fab2fb4316f1b3a23528a446230bf7d3c3.jpg)
+至此Beta 2完结，即将进入无尽徘徊……[滑稽]
+***
+Build 6001.16406
+阶段：Beta 3
+SKU：
+Enterprise
+Enterprise Server Core
+架构：x86 & x64
+安装模式：wim
+语言：英语
+时间炸弹：2006/12/09~2008/01/18（405天）
+密钥：无
+简介：
+这个版本现处于Beta 3阶段，但是与其对应的客户端（Windows Vista）的相同版本号已经是处于SP1 Beta了。
+***
+真是的，MS做什么都要落后一步[汗]
+真是的，SKU不同不能升级，之前告诉你们用企业版最保险你们又不听[喷]
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/553a51d2d539b6008500d4f8e150352ac45cb7ad.jpg)
+这个版本暂时没有多大变化，真正的变化是从下一个版本开始……[滑稽]
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/7627b238b6003af3fa74072f3d2ac65c1238b6ad.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/95cdd1013af33a8728a3db55ce5c10385143b5ad.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/f6f45df23a87e950f7d9282318385343f9f2b4ad.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/7a075d86e950352a05affe475b43fbf2b0118bad.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/7a738e51352ac65cd4cbbd3cf3f2b21191138aad.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/a9a4522bc65c103896b0158dba119313b27e89ad.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/75dea15d103853433d015c6e9b13b07ec88088ad.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/86a877395343fbf275e27d6cb87eca8067388fad.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/50cc3442fbf2b2115be05e01c28065380ed78ead.jpg)
+也并没有什么变化[汗]
+***
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/f243b7a30cf431ad1eda99764336acaf2fdd986f.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/90566bf531adcbefa03ca449a4af2edda2cc9f6f.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/4c0056accbef76099c0343d026dda3cc7dd99e6f.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/7159acee76094b36749ac1a2abcc7cd98c109d6f.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/8b1b11084b36acaff7e84cb374d98d1000e99c6f.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/36fd2c37acaf2edd79f993a6851001e93801936f.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/0bc2cbae2edda3cca7ec626f09e93901203f926f.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/ec5b49dca3cc7cd95125ee963101213fb90e916f.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/6e29c4cd7cd98d10dcdcd67e293fb80e7aec906f.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/e3381bd88d1001e9e734ce40b00e7bec55e7976f.jpg)
+在这里应该可以明显看见ICON拟物化了[滑稽]
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/dedb600928381f30951648e6a1014c086f06f06c.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/47fc4f391f30e924c5ab597e44086e061c95f76c.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/68cc7831e924b899d733bc7766061d950b7bf66c.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/5fc48e25b899a901333a9e7915950a7b0308f56c.jpg)
+确实如此[滑稽] 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/a9d0df98a9014c08ee34edea027b02087af4f46c.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/f86dce004c086e069ca7fa040a087bf40bd1cb6c.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/e9f52b096e061d958849f27773f40ad163d9ca6c.jpg)
+这里还有一些还是XP的，不过很快就换了[滑稽] 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/0cfc09071d950a7b813a8b8b02d162d9f3d3c96c.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/2ef27a940a7b0208ffc6faae6ad9f2d3562cc86c.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/5d616d7a02087bf48fe392a6fad3572c10dfcf6c.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/e8279a1e4134970a2741d5609dcad1c8a6865d40.jpg)
+Build 6001.16461
+阶段：Beta 3
+SKU：
+Datacenter Server
+Datacenter Server Core
+Enterprise
+Enterprise Server Core
+Standard
+Standard Server Core
+架构：x86
+安装模式：wim
+语言：英语
+时间炸弹：2007/02/10~2008/04/07（422天）
+密钥：无
+简介：
+这个版本的风格开始发生变化，由此前的Windows Vista风格（蓝色+绿色）开始转为 Server 2008风格（灰色）。
+来欣赏MS对Server 2008 Beta 华丽的阉割吧！
+不好意思，晚来了，现在继续[呵呵]
+ ——不用说了这一定是标准的十五个字
+补充一下，这个版本有且只有一张壁纸[滑稽]
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/e9835e13b31bb051023fe4983e7adab44bede059.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/79e6d41ab051f8197d3e54fad2b44aed2f73e759.jpg)
+Vista的遗照[吐] 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/f3efd750f8198618ca5cb83442ed2e738ad4e659.jpg)
+遗照[吐] 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/f0a59f188618367a2792286d26738bd4b21ce559.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/b8ede119367adab4b4cb4cf383d4b31c8601e459.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/c6ec517bdab44aedd155e954bb1c8701a08bfb59.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/768ebdb54aed2e738bf3d19c8f01a18b86d6fa59.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/9a402dec2e738bd4b23be581a98b87d6267ff959.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/0a1949728bd4b31c8526c30b8fd6277f9f2ff859.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/6e87ecd5b31c8701a2ace5562f7f9e2f0608ff59.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/411d5e00213fb80e157b36673ed12f2ebb3894c9.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/79f5463eb80e7bec3b705451272eb93899506bc9.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/61cbdf0f7bec54e746464daeb1389b504dc26ac9.jpg)
+一言不合就重启[喷] 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/f8fa1ced54e736d15eb9dbb893504fc2d76269c9.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/3b1833e636d12f2ecbaff9d047c2d562873568c9.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/141351d02f2eb938e8c72d42dd628535e7dd6fc9.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/7625482fb9389b503b55b7e28d35e5dde5116ec9.jpg)
+唯独这个是彩色的了[黑线] 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/6fdade399b504fc2a0f5e7b5eddde71192ef6dc9.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/f9ccfc514fc2d562f3a2875def1190ef74c66cc9.jpg)
+Vista既视感[阴险] 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/dba428c3d5628535924a859198ef76c6a5ef63c9.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/e9f52b096e061d950565618873f40ad163d9ca50.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/0cfc09071d950a7b1216187402d162d9f3d3c950.jpg)
+代码[阴险] 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/2ef27a940a7b02086aea69516ad9f2d3562cc850.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/5d616d7a02087bf418cf0159fad3572c10dfcf50.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/4a8f65097bf40ad171c791535f2c11dfa8ecce50.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/42fc1cf50ad162d9e6cd34ac19dfa9ec8b13cd50.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/3b006dd062d9f2d34232725fa1ec8a136227cc50.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/4a2505d8f2d3572c07c1ca6c8213632763d0c350.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/222d95d2572c11dfbef2e9936b2762d0f603c250.jpg)
+还没完[黑线] 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/b227302d11dfa9ec920d00a76ad0f703908fc150.jpg)
+木有OOBE[黑线]
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/a00afe24bc315c60bef63d5f85b1cb1348547710.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/d9d1db305c6034a8d581ee31c313495408237610.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/fcc53b6134a85edf01efa89341540923dc547510.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/1c9453a95edf8db1464d2ad40123dd54574e7410.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/745c39de8db1cb13c70a6aa3d554564e93584b10.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/1e2beab0cb134954867dbed45e4e9258d0094a10.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/cd45ac12495409234d0a35ce9a58d109b2de4910.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/8be72e550923dd54c710f1d8d909b3de9d824810.jpg)
+普通版本更新列表（第三季）：
+Pre-Beta【已完结】
+Beta 1【已完结】
+5308【已更】
+5384【已更】
+5600【已更】
+5728【已更】
+5744【已更】
+5757【已更】
+龙魂外传（第三季）：
+766号彩蛋：最后的Avalon【已完结】
+1012号彩蛋：千里相约【已完结】
+1601号彩蛋：无尽徘徊【更新中】
+人呢？？？[狂汗]
+@VistaWithSP2 @happymax1212 @redapple0204 @MacAdmin @华文古韵
+开更啦[滑稽]
+@VistaWithSP2 @happymax1212 @redapple0204 @MacAdmin @华文古韵
+Build 6001.16497
+阶段：Beta 3
+SKU：
+Datacenter Server
+Datacenter Server Core
+Enterprise
+Enterprise Server Core
+Standard
+Standard Server Core
+Web Server
+架构：x86 & x64
+安装模式：wim
+语言：英语
+时间炸弹：2007/03/31~2008/04/07（373天）
+密钥：无
+简介：
+这个版本的特点在于加入了新的SKU网络版。但是它只是作为一个完整的GUI却在单独的光盘上。
+这个版本拥有一个深蓝色的登录背景。
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/cca0f3eff01f3a29bddeb87d9125bc315d607c60.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/d41a971e3a292df571d5c1a6b4315c6035a87360.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/b0eb5d282df5e0fe0b0ee4b2546034a85fdf7260.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/7add4af4e0fe99252f1a04e33ca85edf8cb17160.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/6d0187ff9925bc31c84b6c2b56df8db1ca137060.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/a00afe24bc315c60a183065c85b1cb1348547760.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/d9d1db305c6034a8c8f4d532c313495408237660.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/fcc53b6134a85edf1a9a939041540923dc547560.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/1c9453a95edf8db1533811d70123dd54574e7460.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/745c39de8db1cb13d07f51a0d554564e93584b60.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/3b7df9500fb30f24a30281b0c095d143af4b03da.jpg)
+我还以为出了啥问题了[黑线] 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/dea568b20f2442a73b969016d943ad4bd31302da.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/4f47682542a7d9332b3089c0a54bd11371f001da.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/4fd025a6d933c89535e6f5c8d91373f0800200da.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/0253be32c895d14348ee89907bf0820258af07da.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/99c7af94d143ad4b37b62b738a025aafa60f06da.jpg)
+最后的彩色，接下来就是纯色了[泪] 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/8861b642ad4bd1139455da8152afa40f49fb05da.jpg)
+时隔一个月砸水表[阴险] 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/91b7ca4ad11373f06aa7022cac0f4bfbf9ed04da.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/edbfb61273f08202b30afc8c43fbfbeda9641bda.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/91e714f182025aaf4eaa1378f3edab64014f1ada.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/222d95d2572c11df8b37d2906b2762d0f503c290.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/b227302d11dfa9eca9c83ba46ad0f703938fc190.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/17d876dea9ec8a1347fc3a53ff03918fa2ecc090.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/512bceed8a136327470baf80998fa0ec0afac790.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/e918ed12632762d0d1d8c90ca8ec08fa533dc690.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/cae7042662d0f703b654f86f00fa513d2497c590.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/23d305d1f703918f88375079593d26975beec490.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/22249002918fa0ec212109be2e9759ee3f6ddb90.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/b7f7f68ea0ec08fa7be67e1451ee3d6d57fbda90.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/d17bc7ed08fa513d0d4c016d356d55fbb0fbd990.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/83099b029245d688122fdd17acc27d1ed31b244d.jpg)
+全场唯一彩色[泪] 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/bcf7f544d688d43f4084fe41751ed21b0ff43b4d.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/d2b1b189d43f87946cd2279dda1b0ef41ad53a4d.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/967cb33e8794a4c2b40e889806f41bd5ac6e394d.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/94cbe095a4c27d1e180b547713d5ad6edcc4384d.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/c760c3c37d1ed21bc5e44156a56eddc450da3f4d.jpg)
+SP1亮了[阴险] 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/e4361a1fd21b0ef4d7c5f7edd5c451da80cb3e4d.jpg)
+配置666[滑稽] 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/3deab51a0ef41bd5607e874759da81cb38db3d4d.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/92ef69f51bd5ad6e13d40b5989cb39dbb7fd3c4d.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/4e007cd4ad6eddc49ecadb4831dbb6fd5366334d.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/e71ba91a9d16fdfa2801a95dbc8f8c5495ee7b0d.jpg)
+纯色[吐][喷] 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/8eeffa17fdfaaf517b8eee0c845494eef11f7a0d.jpg)
+弹出一堆东西[喷] 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/dde29afbaf51f3de3ddfd6d79ceef01f3b29790d.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/bd0ec850f3deb48f0604ce6df81f3a292cf5780d.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/efa594dfb48f8c541fbeaa9c32292df5e1fe7f0d.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/b32ad38e8c5494ee7c4f60aa25f5e0fe98257e0d.jpg)
+有意思的是，来宾账户的头像真像Win8 Beta的[滑稽] 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/f47beb5594eef01fb7797776e8fe9925bd317d0d.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/cca0f3eff01f3a29a3a5ba7d9125bc315d607c0d.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/d41a971e3a292df56faec3a6b4315c6035a8730d.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/b0eb5d282df5e0fe0975e6b2546034a85fdf720d.jpg)
+Build 6001.16510
+阶段：Beta 3
+SKU：
+Datacenter Server
+Datacenter Server Core
+Enterprise
+Enterprise Server Core
+Standard
+Standard Server Core
+Web Server
+架构：x86 & x64 & ia64
+安装模式：wim
+语言：英语
+时间炸弹：2007/04/18~2008/04/07（355天）
+密钥：无
+还在下载中，据说这个版本有德语版，有没有兴趣试一试[滑稽]
+我回来啦，这次给大家带来的是德语版[滑稽]
+我新建了虚拟机[滑稽]
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/b8ede119367adab4b6d24af083d4b31c8601e47d.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/c6ec517bdab44aedd34cef57bb1c8701a08bfb7d.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/768ebdb54aed2e7375ebd79f8f01a18b86d6fa7d.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/9a402dec2e738bd44c23e382a98b87d6267ff97d.jpg)
+哎呀，截了2次[汗] 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/0a1949728bd4b31c8741c5088fd6277f9f2ff87d.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/6e87ecd5b31c8701a0cbe3552f7f9e2f0608ff7d.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/cb20d41d8701a18b859643fc962f07082938fe7d.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/f3e8e000a18b87d6243ffaac0f0828381e30fd7d.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/c7f5c68a87d6277f9a6f638b20381f30e824fc7d.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/e17fe0d7277f9e2f02484cbb1730e924b999f37d.jpg)
+请问Ja是什么意思[阴险]
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/6050212209f79052b355168d04f3d7ca7acbd534.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/06d76ef6905298225e796870dfca7bcb0b46d434.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/4903f7539822720e2184b34973cb0a46f31fab34.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/d0a6ff23720e0cf3f9bd1f480246f21fbf09aa34.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/d8d6150f0cf3d7ca54bc6ec5fa1fbe096a63a934.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/32fa6bf2d7ca7bcb3a31969cb6096b63f724a834.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/4c07b0cb7bcb0a46c368da8a6363f6246a60af34.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/973e1cca0a46f21f8c7e0fe0fe246b600d33ae34.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/3b3f6d47f21fbe09581492a763600c338644ad34.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/4ab2951ebe096b63c2530fe304338744eaf8ac34.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/79e6d41ab051f8197e1c53f9d2b44aed2f73e7ba.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/f3efd750f8198618cf7ebf3742ed2e738ad4e6ba.jpg)
+***
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/f0a59f188618367a20b02f6e26738bd4b21ce5ba.jpg)
+我看见了Die[笑眼] 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/b8ede119367adab4b1e94bf083d4b31c8601e4ba.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/e9f52b096e061d950101658b73f40ad163d9ca37.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/0cfc09071d950a7b0e721c7702d162d9f3d3c937.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/2ef27a940a7b0208768e6d526ad9f2d3562cc837.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/5d616d7a02087bf404ab055afad3572c10dfcf37.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/4a8f65097bf40ad16da395505f2c11dfa8ecce37.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/42fc1cf50ad162d9e2a930af19dfa9ec8b13cd37.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/3b006dd062d9f2d34656765ca1ec8a136227cc37.jpg)
+好宽的开始菜单[惊讶] 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/4a2505d8f2d3572c03a5ce6f8213632763d0c337.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/222d95d2572c11dfba96ed906b2762d0f603c237.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/b227302d11dfa9ec9e6904a46ad0f703908fc137.jpg)
+笑死我了，找不到控制面板，原来在这里[笑眼]
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/d7fe574f251f95ca7253c005c1177f3e650952d0.jpg)
+好宽[滑稽] 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/70ba421e95cad1c8031dae94773e6709cb3d51d0.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/65ebf2cbd1c8a7866c8c18bd6f09c93d72cf50d0.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/d53eb6c9a786c917d9a5008ac13d70cf39c757d0.jpg)
+问号君好抢眼[滑稽] 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/913cc087c9177f3ec092aebe78cf3bc79d3d56d0.jpg)
+难看[吐] 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/e772ae167f3e670961a6174c33c79f3dfadc55d0.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/89e3183f6709c93dd9545c44973df8dcd30054d0.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/3fca0008c93d70cf915cf8bef0dcd100b8a12bd0.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/27fdae3c70cf3bc734a69f5fd900baa1cf112ad0.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/89c917ce3bc79f3d5447b683b2a1cd11708b29d0.jpg)
+Build 6001.16606
+阶段：Beta 3
+SKU：
+Datacenter Server
+Datacenter Server Core
+Enterprise
+Enterprise Server Core
+Standard
+Standard Server Core
+架构：x86 & x64
+安装模式：wim
+语言：英语
+时间炸弹：2007/06/20~2008/04/07（292天）
+密钥：无
+简介：
+这个版本在安装过程中有几个外观的变化。
+安装期间会强制要求你设置Administrator的密码，这也是第一个强制要求设置密码的版本。以前的版本不需要，但是你可以为自己设定。
+这是Beta 3的最后一个版本。
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/3304e5035aafa40f84208f6ea364034f7af01990.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/c2f63daea40f4bfb2b36dfe70b4f78f0f5361890.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/1a5bc30e4bfbfbed7abf77cc70f0f736adc31f90.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/e4fb2cfafbedab64d1940c73ff36afc37b311e90.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/0b0f9cecab64034fab2b83b5a7c3793108551d90.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/bb19cc65034f78f023eddb4071310a55b1191c90.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/eb90644e78f0f7367a180db20255b319e9c41390.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/43bb1ff1f736afc3afea7ed6bb19ebc4b5451290.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/38049037afc37931dd8ec79ae3c4b74541a91190.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/b7c2c8c279310a556bc29f47bf4543a980261090.jpg)
+我回来啦，之前因为主机出了问题逼我重装系统，现在准备就绪，即将开更[滑稽]
+我们继续[滑稽]
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/27fdae3c70cf3bc7269ea155d900baa1cf112ae6.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/89c917ce3bc79f3d427f8889b2a1cd11708b29e6.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/303b5cc69f3df8dc6aa3e328c511728b451028e6.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/7b33f83cf8dcd100060294987a8b4710bb122fe6.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/dfc99fddd100baa170b22b024f10b912cafc2ee6.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/b828b601baa1cd11cc281e99b112c8fcc1ce2de6.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/91f4dda0cd11728bf8b3e09bc0fcc3cec1fd2ce6.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/fa55aa10728b471079b19175cbcec3fdfe0323e6.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/8de5158a4710b912095f9a47cbfdfc03904522e6.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/327f2011b912c8fc016d9a74f4039245d48821e6.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/90e26e25ab18972b0deb6c73eecd7b899c510aaf.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/49d0cc19972bd407ef16bf4473899e510db309af.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/ebecf02ad40735fa3d21220096510fb30d2408af.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/d7dfb30635fae6cda765c7d807b30f2440a70faf.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/94f352fbe6cd7b8943bd563a072442a7db330eaf.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/750e81cc7b899e51d15f56ad4aa7d933ca950daf.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/a6391c889e510fb3d0c81b2ed133c895d3430caf.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/3b7df9500fb30f24a24b80bac095d143af4b03af.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/dea568b20f2442a738df911cd943ad4bd31302af.jpg)
+这就是OOBE
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/4f47682542a7d9332a7988caa54bd11371f001af.jpg)
+全场唯一的彩色在这里，也是最后一个彩色[泪]
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/7a738e51352ac65c485209caf3f2b21192138a2d.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/a9a4522bc65c10380a29a17bba119313b17e892d.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/75dea15d10385343a198e8989b13b07ecb80882d.jpg)
+必须密码[滑稽] 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/86a877395343fbf2e97bc99ab87eca8064388f2d.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/50cc3442fbf2b211cf79eaf7c28065380dd78e2d.jpg)
+我就来一个吧[滑稽] 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/13b79cf3b2119313ed1490096d380cd790238d2d.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/bb06d5109313b07e94ea3fb104d7912396dd8c2d.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/f2e5f412b07eca803a52565e992397dda044832d.jpg)
+主题颜色变了[滑稽] 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/d3e7d77fca8065386cbdcbaa9fdda144ac34822d.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/f08aad8165380cd7f049cd54a944ad345882812d.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/97de0758252dd42a62c86e120b3b5bb5cbeab8bf.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/20ad422cd42a28347f6759b253b5c9ea17cebfbf.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/65d9b32b2834349b4fc7013cc1ea15ce34d3bebf.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/94de4f35349b033b164993631dce36d3d739bdbf.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/68c0539a033b5bb587164f473ed3d539b400bcbf.jpg)
+原本还想添加桌面体验开启Aero呢，但是这个版本不太友好，装不了TOOLS[喷]
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/746f643a5bb5c9ea5a326c5add39b60038f3b3bf.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/43cf3cb4c9ea15ce662f8fb0be003af33887b2bf.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/1b41aeeb15ce36d384c5ec8932f33a87eb50b1bf.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/891e72cf36d3d539e4fc607a3287e950372ab0bf.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/553a51d2d539b600690f600ee150352ac45cb7bf.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/4c23f62297dda144ce3f020bbab7d0a20df4864e.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/d1d7f0dca144ad343d89e93ed8a20cf430ad854e.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/d729c645ad345982d7bc8b2b04f431adcaef844e.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/e1b0ca355982b2b7b6a9577d39adcbef77099b4e.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/edc03e83b2b7d0a26bff6a24c3ef76094a369a4e.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/1976d5b6d0a20cf459a690667e094b36adaf994e.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/f243b7a30cf431ada2e42d804336acaf2fdd984e.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/90566bf531adcbef1c0210bfa4af2edda2cc9f4e.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/4c0056accbef7609203df72626dda3cc7dd99e4e.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/7159acee76094b36c0a47554abcc7cd98c109d4e.jpg)
+没有显卡驱动也没用，不过加入了一些程序[滑稽]
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/68cc7831e924b899baa8178166061d95087bf6ec.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/5fc48e25b899a90158a1358f15950a7b0008f5ec.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/a9d0df98a9014c087baf461c027b020879f4f4ec.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/f86dce004c086e060b3c51f20a087bf408d1cbec.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/e9f52b096e061d951dd2598173f40ad160d9caec.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/0cfc09071d950a7b1aa1207d02d162d9f0d3c9ec.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/2ef27a940a7b0208625d51586ad9f2d3552cc8ec.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/5d616d7a02087bf410783950fad3572c13dfcfec.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/4a8f65097bf40ad17970a95a5f2c11dfabecceec.jpg)
+Beta 3 END！[太开心] 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/42fc1cf50ad162d9ee7a0ca519dfa9ec8813cdec.jpg)
+忘记@人了[汗]
+Build 6001.16648
+阶段：RC 1 + SP 1 Beta
+SKU：
+Datacenter Server
+Datacenter Server Core
+Enterprise
+Enterprise Server Core
+Standard
+Standard Server Core
+架构：x86
+安装模式：wim
+语言：英语
+时间炸弹：2007/08/28 ~2008/04/07（223天）
+密钥：无
+简介：
+这个版本终于在重要的地方开始出现Windows Server 2008 的字样了，但是部分地方仍然是Windows Server Code Name “Longhorn”。
+我们继续[滑稽]
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/42fc1cf50ad162d9e6c234a519dfa9ec8b13cd54.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/3b006dd062d9f2d3423d7256a1ec8a136227cc54.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/4a2505d8f2d3572c07ceca658213632763d0c354.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/222d95d2572c11dfbefde99a6b2762d0f603c254.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/b227302d11dfa9ec920200ae6ad0f703908fc154.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/17d876dea9ec8a137a360159ff03918fa1ecc054.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/512bceed8a13632778c1948a998fa0ec09fac754.jpg)
+由于是简易安装，所以只有这一步[滑稽] 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/e918ed12632762d0ec12f206a8ec08fa503dc654.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/cae7042662d0f7038d9ec36500fa513d2797c554.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/23d305d1f703918fbdfd6b73593d269758eec454.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/ed9abac551da81cbfed0d2745a66d0160824314e.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/9d3036db81cb39db7ef636efd8160924aa18304e.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/112ee6ca39dbb6fd9b6db49f0124ab18962b374e.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/c13f5edab6fd52661a1d6dada318972bd507364e.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/792fd1fc5266d016c22fcf919f2bd40734fa354e.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/f6093567d01609246713f3a2dc0735fae7cd344e.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/1292b7170924ab185a20b08e3dfae6cd7a890b4e.jpg)
+MS开始阉割大V成三点的节奏[喷] 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/90e26e25ab18972b1a0c5173eecd7b899f510a4e.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/49d0cc19972bd407faf1824473899e510eb3094e.jpg)
+已经出现Server2008[真棒] 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/ebecf02ad40735fa36c61f0096510fb30e24084e.jpg)
+即使是组件也是如此[滑稽]
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/d53eb6c9a786c917d64c0380c13d70cf3ac75735.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/913cc087c9177f3ecd7badb478cf3bc79e3d5635.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/e772ae167f3e6709624f144633c79f3df9dc5535.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/89e3183f6709c93ddcbd5f4e973df8dcd0005435.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/3fca0008c93d70cf96b5fbb4f0dcd100bba12b35.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/27fdae3c70cf3bc7314f9c55d900baa1cc112a35.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/89c917ce3bc79f3d57aeb589b2a1cd11738b2935.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/303b5cc69f3df8dc6172de28c511728b46102835.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/7b33f83cf8dcd1000bd3a9987a8b4710b8122f35.jpg)
+泛白[喷][喷][喷] 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/dfc99fddd100baa17f6316024f10b912c9fc2e35.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/8be72e550923dd54d94ef7d1d909b3de9d8248bb.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/09a06e22dd54564e0258b480bbde9c82d0584fbb.jpg)
+哈哈，不用密码，因为我通过简易安装绕过了[笑眼] 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/49d7ba55564e92584009d6579482d158cdbf4ebb.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/9da0314f9258d10921def90bd958ccbf6d814dbb.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/16baf559d109b3de0f82b4d1c4bf6c81810a4cbb.jpg)
+@甄姬14 你看看，Vista可以做到的，只需把鼠标移到那里就可以看见那么丰富的信息，完爆后面的版本[滑稽]
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/c760c3c37d1ed21bced27e5ca56eddc450da3f61.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/d53eb6c9a786c917d7050280c13d70cf3ac7577e.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/5ab8360ed9f9d72a5d8c41a4dc2a2834369bbb90.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/38049037afc37931ecf6d690e3c4b74541a911e6.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/b7c2c8c279310a5554ba8e4dbf4543a9802610e6.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/ef371e300a55b3190367d2cc4ba98226cdfc17e6.jpg)
+Build 6001.17051
+阶段：RC 1 + SP 1 Beta
+SKU：
+Datacenter Server
+Datacenter Server Core
+Enterprise
+Enterprise Server Core
+Standard
+Standard Server Core
+Web Server
+Web Server Core
+架构：x86 & x64 & ia64
+安装模式：wim
+语言：英语
+时间炸弹：2007/11/22~2008/06/30（221天）
+密钥：无
+话说管理员也要UAC了[汗]
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/c2d2a8fd1e178a826b49c819fe03738da877e80c.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/8f0879168a82b90199d8748a7b8da9773812ef0c.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/5ee3ed83b9014a90224bf104a1773912b21bee0c.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/ca76de004a90f603a6c52bfe3112b31bb151ed0c.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/f9f52d91f603738d7f3fbb9bbb1bb051f919ec0c.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/0a649102738da977ee5a3192b851f8198718e30c.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/b6f7148ca97739126b5332d8f0198618377ae20c.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/3379ce763912b31b69197a908e18367adbb4e10c.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/e9835e13b31bb051225104913e7adab44bede00c.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/79e6d41ab051f8195d50b4f3d2b44aed2f73e70c.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/dea568b20f2442a7611f4a1cd943ad4bd013026f.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/e4361a1fd21b0ef4bfdd2fe7d5c451da80cb3e43.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/f9ccfc514fc2d562d2d86454ef1190ef74c66ca8.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/ebecf02ad40735fa54c5f90096510fb30e240843.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/eb90644e78f0f73668effbb80255b319eac4136f.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/90566bf531adcbef32dbcabfa4af2edda1cc9f95.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/d3e7d77fca806538348f13aa9fdda144ac348213.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/50cc3442fbf2b211a6c131f7c28065380ed78e95.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/e0186ffb513d26975bc3bfe45dfbb2fb4216d868.jpg)
+条纹变了[呵呵] 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/5fc48e25b899a901a100ec8f15950a7b0308f54c.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/112ee6ca39dbb6fdf911529f0124ab18962b3732.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/c13f5edab6fd52667c618bada318972bd5073632.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/792fd1fc5266d016a45329919f2bd40734fa3532.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/f6093567d0160924056f15a2dc0735fae7cd3432.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/1292b7170924ab18385c568e3dfae6cd7a890b32.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/90e26e25ab18972b6470b773eecd7b899f510a32.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/49d0cc19972bd407848d644473899e510eb30932.jpg)
+吓得我立即滚回[惊哭] 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/ebecf02ad40735fa54baf90096510fb30e240832.jpg)
+试试开Aero[滑稽]
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/0cfc09071d950a7bf3e8f97d02d162d9f0d3c9a4.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/2ef27a940a7b0208891488586ad9f2d3552cc8a4.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/5d616d7a02087bf4f931e050fad3572c13dfcfa4.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/4a8f65097bf40ad19639705a5f2c11dfabeccea4.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/42fc1cf50ad162d90733d5a519dfa9ec8813cda4.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/3b006dd062d9f2d3a1cc9356a1ec8a136127cca4.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/4a2505d8f2d3572ce63f2b658213632760d0c3a4.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/222d95d2572c11df510c089a6b2762d0f503c2a4.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/b227302d11dfa9ec73f3e1ae6ad0f703938fc1a4.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/17d876dea9ec8a1399c7e059ff03918fa2ecc0a4.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/cae7042662d0f7036c7f226500fa513d2497c5b4.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/23d305d1f703918f5e1c8a73593d26975beec4b4.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/22249002918fa0ecf70ad3b42e9759ee3f6ddbb4.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/b7f7f68ea0ec08fa51cca41e51ee3d6d57fbdab4.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/d17bc7ed08fa513d2766db67356d55fbb0fbd9b4.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/e0186ffb513d26975b1fbfe45dfbb2fb4116d8b4.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/480e363c269759ee3e9cd772bafb43166f22dfb4.jpg)
+好了，开不了[喷] 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/11c9419659ee3d6d510a30724b166d224d4adeb4.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/66633eef3d6d55fbb70ac19f65224f4a22a4ddb4.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/191a5a6c55fbb2fb45e7efab474a20a44423dcb4.jpg)
+下次更RC2[滑稽] 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/47fc4f391f30e92452c02a8844086e061c95f71d.jpg)
+我擦，人都去哪啦[喷]
+@VistaWithSP2 @happymax1212 @redapple0204 @MacAdmin @华文古韵
+实际上嘛，下一个版本就是最后一更，不过说过要更历史，那么在明天最后一更的之后的小版本就只发历史文字不发图片了，反正我也省事[滑稽]
+那么接下来，我还有以下东西没更完：
+4074AERO
+Whistler史
+没了
+那些寒假再更吧，由于明年中考，我不会再开什么大型直播了[滑稽]
+然后开学后我就没时间于大家见面了，我们明年寒假再见[吐舌][笑眼][滑稽][呵呵][吐舌]
+本吧第4093个帖子是我的[吐舌][滑稽]
+开更了[滑稽]
+***
+---贴吧极速版 For UWP
+Build 6001.17051
+阶段：RC 2 + SP 1 Beta
+SKU：
+Datacenter Server
+Datacenter Server Core
+Enterprise
+Enterprise Server Core
+Standard
+Standard Server Core
+架构：x64
+安装模式：wim
+语言：英语
+时间炸弹：2007/12/11 ~2008/06/30（202天）
+密钥：无
+***
+---贴吧极速版 For UWP
+Build 6001.18000
+阶段：RTM（含SP1）
+SKU：
+Datacenter Server
+Datacenter Server Core
+Datacenter Server without Hyper-V
+Datacenter Server without Hyper-V Core
+Enterprise
+Enterprise Server Core
+Enterprise Server without Hyper-V
+Enterprise Server without Hyper-V Core
+Itanium-Based Systems
+Standard
+Standard Server Core
+Standard Server without Hyper-V
+Standard Server without Hyper-V Core
+Web Server
+Web Server Core
+架构：x86 & x64 & ia64
+安装模式：wim
+语言：中国香港（繁体）
+简体中文
+中华台北（繁体）
+捷克语
+荷兰语
+英语
+法语
+德语
+匈牙利语
+意大利语
+日语
+韩国语
+波兰语
+葡萄牙语
+巴西语
+俄语
+西班牙语
+瑞典语
+土耳其语
+时间炸弹：无
+密钥：无
+相关的版本：Windows Vista Build 6.0.6001.18000
+简介：
+这个版本Windows Server 2008的正式版本，虽然被大家看成是RTM，但其实已经包含了SP1。
+它与Windows Vista SP1同时发布。
+***
+---贴吧极速版 For UWP
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/7a738e51352ac65ca571aecff3f2b21192138a08.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/a9a4522bc65c1038e4a1077eba119313b27e89a1.jpg)
+其实算上SP2Beta和SP2也就只剩下5个版本了，我打算在开学之前更完[滑稽][玫瑰]
+自顶催更[滑稽]
+Build 6002.16497
+阶段：SP 2 Beta
+SKU：
+Datacenter Server
+Datacenter Server Core
+Enterprise
+Enterprise Server Core
+Service Pack
+Standard
+Standard Server Core
+架构：x64 & x86
+安装模式：wim
+语言：英语+（太多了……）
+***
+---贴吧极速版 For UWP
+Build 6002.16659
+阶段：SP 2 Beta
+SKU：
+Service Pack
+架构：x64 & x86
+安装模式：wim
+语言：英语+（太多了……）
+***
+Build 6002.16670
+阶段：SP 2 Beta
+SKU：
+Service Pack
+架构：x64 & x86 & ia64
+安装模式：wim
+语言：英语+（太多了……）
+***
+Build 6002.17043
+阶段：SP 2 Beta
+SKU：
+Service Pack
+架构：x64 & x86 & ia64
+安装模式：wim
+语言：英语+（太多了……）
+***
+Build 6002.17506
+阶段：SP 2 Beta
+SKU：
+Service Pack
+架构：x64 & x86 & ia64
+安装模式：wim
+语言：英语+（太多了……）
+***
+Build 6002.18003
+阶段：SP 2 Beta
+SKU：
+Service Pack
+架构：x64 & x86 & ia64
+安装模式：wim
+语言：英语+（太多了……）
+***
+---贴吧极速版 For UWP
+Build 6001.18005
+阶段：SP2
+SKU：
+Datacenter Server
+Datacenter Server Core
+Datacenter Server without Hyper-V
+Datacenter Server without Hyper-V Core
+Enterprise
+Enterprise Check/Debug
+Enterprise Server Core
+Enterprise Server without Hyper-V
+Enterprise Server without Hyper-V Core
+Itanium-Based Systems
+Service Pack
+Standard
+Standard Server Core
+Standard Server without Hyper-V
+Standard Server without Hyper-V Core
+Web Server
+Web Server Core
+架构：x86 & x64 & ia64
+安装模式：wim
+语言：中国香港（繁体）
+简体中文
+中华台北（繁体）
+捷克语
+荷兰语
+英语
+法语
+德语
+匈牙利语
+意大利语
+日语
+韩国语
+波兰语
+葡萄牙语
+巴西语
+俄语
+西班牙语
+瑞典语
+土耳其语
+***
+---贴吧极速版 For UWP
+本贴正式完结[滑稽][滑稽][滑稽]
+***
+---贴吧极速版 For UWP
+@VistaWithSP2 @happymax1212 @redapple0204 @MacAdmin @华文古韵
+终于更完了，历时6月3周2天，共205天的玩转Windows NT 6.0 系列终于结束了，这期间，一共有6086个帖子[呵呵][滑稽][玫瑰]
+我们明年再见！
+***
+Longhorn4093
+2016年8月29日
+另外，我问问，大家想让我在2017年寒假更什么？（不一定能更）
+A.玩转Win7 Beta
+B.64位Windows NT 大升级 for Windows To Go
+C.玩转Windows NT 6.0附属版本Beta
+***
+---贴吧极速版 For UWP
+另外，这是我自从今年1月进驻贴吧后的这个系列的帖子数占我在全吧发帖数的扇形图，你们有何感想？
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4686188940/d01b11c7a7efce1b3e67c16aa751f3deb58f6533.jpg)
+***
+---贴吧极速版 For UWP
+@VistaWithSP2 @happymax1212 @redapple0204 @MacAdmin @华文古韵 
+***
+讨论以下楼上的投票和占比呗[滑稽]

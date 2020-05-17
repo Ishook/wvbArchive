@@ -1,0 +1,83 @@
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4962525126/8b1b11084b36acafe3f7594a75d98d1000e99c63.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4962525126/16baf559d109b3de61a82bdec5bf6c81810a4c63.jpg)
+地址：![](http://pan.baidu.com/s/1qYVR344
+Windows 7 Home Basic x64
+1.使用Personalization Panel恢复个性化（含Aero）
+2.安装7zip并关联.rar、.7z，对右键菜单进行适当调整
+3.安装.NET Framwork 4.6.1
+4.安装Classic Shell（仅资源管理器部分），恢复了向上按钮，可自行前往Program Files找到该程序进行设置（如工具栏等）
+5.安装Folder Options X，为所有视图加入了分类排序按钮，可自行前往Program Files找到该程序进行设置
+6.使用UltraUXThemePatcher以破解主题
+7.安装改动后的Windows Vista主题
+8.安装Win7 Logon Background Changer（位于Program Files(x86))，将登录背景更换为Windows Vista版
+9.任务管理器替换为Windows 8式（通过DBC Task Manager）
+13.记事本自动换行
+14.默认音量50%
+本教程基于阿狸很久以前发过的一个教程
+如果大家有更好的办法欢迎指出
+一、准备工具
+虚拟机（我用的VMWare）
+Windows 7 镜像
+***
+dism++
+补丁（可以自己下载也可以用dism++）
+要集成的驱动（非必需品）
+***
+系统美化素材包（QQ群里似乎有）及其他软件
+PE镜像
+二、wim制作过程
+1.安装系统
+没有什么特别的，和普通安装一样
+在OOBE阶段，不要输入信息，按ctrl+shift+F3，虚拟机会自动重启并进入桌面
+每次开机都会见到这个，不用管
+***
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4962525126/20ad422cd42a28349206fdbd52b5c9ea17cebfde.jpg)
+（好了接下去是原创了）
+2.系统处理
+我做了下面几件事，顺序不重要
+①安装这个软件，以启用个性化和Aero。非家庭普通版无视这一步 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4962525126/891e72cf36d3d5391a11c5753387e950342ab04a.jpg)
+②在桌面加入计算机、用户文件夹图标；设置不隐藏已知文件扩展名
+这是为了我自己方便，不想这么设置也可以
+③安装7zip，并在7zip File Manager的工具——选项里，设置关联.rar、.7z，并对右键菜单进行适当调整，我的设置如下 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4962525126/f9ccfc514fc2d562522be55aee1190ef77c66c5f.jpg)
+④安装.NET Framwork 4.6.1
+⑤安装Classic Shell（仅资源管理器部分，不建立开始菜单文件夹），恢复向上按钮
+⑥安装Folder Options X，仅选中第二、第三项，为所有视图加入了分类排序按钮（不选第一、第四项只是因为我不知道这两项是干什么的……）
+⑦安装UltraUXThemePatcher以破解主题。当然也可以用其他软件破解主题
+⑧将Vista节能屏保(ssBranded.scr)放到C:\Windows\System32文件夹下
+将Vista主题文件夹内除Wallpaper外的文件移动到C:\Windows\Recources\Themes下，将Wallpaper文件夹重命名为Windows Vista，移动到C:\Windows\Web\Wallpaper下。（一起移到Themes下也可以，只是我想这样子可以在选壁纸的时候，连系统自带壁纸一起选择）
+然后去个性化选择Windows Vista主题，你也可以自行设置壁纸（我是选了除黑白外的所有Vista壁纸，重复的选择宽屏版，你也可以选择一些Win7自带壁纸进去，或者自己有别的壁纸也可以用上，放到Web\Wallpaper下就行了）
+我使用了一个我自己改过的主题，不然的话你还要去设置一下屏保
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4962525126/a9d0df98a9014c0805ea1912037b020879f4f4ad.jpg)
+⑨.安装Win7 Logon Background Changer，将登录背景更换为Windows Vista版（图片也在压缩包里）
+⑩.将DBC Task Manager文件夹移到C:\Program Files下，运行替换任务管理器.reg，将任务管理器替换为Windows 8式
+注意，QQ群里这个.reg有问题，需要先编辑下，把地址改成C盘的文件夹，恢复的reg也要改。
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4962525126/d01b11c7a7efce1b45d1fb7da651f3deb68f6580.jpg)
+第二阶段完成，在开机时候出来的那个Sysprep里选择 OOBE，通用，关机，然后确定
+三、其他处理
+挂载PE镜像，打开虚拟机，按F2进BIOS选Boot（好像是吧），根据提示（就是按+或者-）将第一启动项改成CD-ROM，按F10保存，进入PE
+①（为了表述方便，将Win7的C盘依然称为C盘，事实上很可能不是C盘）
+进入C:\Windows\System32找到shell32.dll，用Resource Hacker打开，找到位图——633:1033，右键，替换位图，选下面这张
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4962525126/e8279a1e4134970accd12f989ccad1c8a5865dd8.jpg)
+当然你想换成Vista的也可以，不过要去Vista的shell32.dll里提取，我因为上次提取过Win7Beta的就直接拿来用了。不过我上传的wim里因为种种原因没替换
+②将C:\用户(Users)\Administrators中的App Data文件夹、用户配置文件（NTUSER.dat、.ini、.log1等那些隐藏的文件）复制到上一级的Default文件夹下并替换原有文件
+这一步因为某些原因未能测试，不保证完全正确
+三、封装
+使用PE中的Easy ImageX进行备份，自己选个位置，我是全程都用了U盘，你也可以在虚拟机里建一个分区存放文件（装系统时候就可以建了，把程序安装包什么的放那儿）
+映像描述写清楚版本
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4962525126/c2d2a8fd1e178a82fea54617ff03738dab77e8e5.jpg)
+理论上这样就完成了
+不过我还想加点补丁和驱动，于是我在物理机上打开了dism++，挂载刚才做好的wim，加入了一个补丁合集、USB3.0驱动（XHCI）、网上找的网卡驱动包。之后保存映像就行了。
+然而问题出现了，我因为某些原因关掉了dism++，过一段时间再打开，打包的时候提示我文件失效，保存出来的wim只有400多MB，算是废了。一气呵成打包的话可能不会有这个问题，不过我懒得再弄了
+遇到的问题：
+①dism++失效问题
+②wim体积太大，有3G+，但是原版的只有2G+。是因为我没删除休眠文件分页文件，还是别的原因？
+求解
+至于制作iso，需要先把source下的boot.wim拿出来，用dism++加入USB3.0（XHCI）驱动，保存。然后用UltraISO把新的boot.wim放进原来的镜像中。
+wim因为原版是多个版本的，我们封装时候只弄了一个版本，所以还要用到dism命令来整合，可以网上找教程，我没试过。不过想偷懒的话直接把wim换掉应该也行吧？
+此外，如何修改iso中的安装背景，我不知道了
+完结撒花*★,°*:.☆\(￣▽￣)/$:*.°★*
+![](http://pan.baidu.com/s/1nuCeA2P
+@喜羊羊441 @cghvbnv22 @写轮脸 @zzzz5573 @371东升的旭日
+@490869192 我看到了你在Vista吧问的问题……是这样的，Vista会默认把安装文件往第一分区复制，但是如果你装了Win10什么的话第一分区就会变成一个只有100MB的保留分区，导致出错。你这样的话只能想办法扩大第一分区，或者用PE的安装器安装（不过可能导致Vista装好后系统盘变成D盘）

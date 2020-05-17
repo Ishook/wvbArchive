@@ -1,0 +1,16 @@
+office套件的某些程序也一样，巨硬用的压缩文件+xml存储，还是有点脆弱的。虽然原大小导出文档中的图片之类的确实很方便
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4951407062/dde29afbaf51f3de1836ba2f9deef01f382979ee.jpg)
+这是某个文件。想拷几个字出来摆着发现被保护了。还设了密码，呵呵哒。
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4951407062/bdeb2635970a304ef542a2b1d8c8a786c8175c0a.jpg)
+按照习惯，拿7z把它拆开
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4951407062/c6ec517bdab44aed0799bcafba1c8701a38bfb9f.jpg)
+测试了一下，发现加密有关的东西存在这个xml里面。。
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4951407062/eb90644e78f0f736be364e4a0355b319e9c413a1.jpg)
+打开之后是这样的。果断发现可疑字段，上下几行都是
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4951407062/91e714f182025aafad3b7380f2edab64024f1a60.jpg)
+删除那几行之后存进去，神清气爽。虽然日期很突兀。把这个xml删了效果似乎差不多
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4951407062/f3efd750f819861813aae2cf43ed2e7389d4e685.jpg)
+再进去就可以正常拷贝编辑了
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4951407062/2b9791256b600c33e6ecd283134c510fdbf9a1dd.jpg)
+靠xml吃饭的office文件，改改这些xml就有很神奇的功效。之前借用开源的压缩软件写过一个修改器，还是挺好玩的。
+楼主跑路了

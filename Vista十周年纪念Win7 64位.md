@@ -1,0 +1,419 @@
+先放截图 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4968483029/fccad63433fa828b89c27a5ef41f4134950a5a9b.jpg)
+首先感谢@VistaWithSP2 @happymax1212 @叶子的洛克人52 这几位吧友给的帮助。
+采用@VistaWithSP2 ![](http://tieba.baidu.com/p/4962525126?pn=2帖子里的部分素材。
+下载地址楼层
+文件： Win7V10.iso
+大小： 3, 528, 720, 384 字节
+修改时间：2017-02-06 12:10:43
+MD5： 04975FBF9D254E45A6582349B66BC978
+SHA1： 4CC13A84DCC2CB627202D3D632A7E6B388FCA2C2
+CRC32： DCE4A7CF
+部分系统截图：
+控制面板左侧图片为Vista原版图片，并去掉Windows 7反射光效果。（字体颜色目前无解）
+系统属性 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4968483029/e772ae167f3e6709f1b4a64232c79f3dfadc55c8.jpg)
+***
+个性化 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4968483029/42fc1cf50ad162d9526e81a118dfa9ec8813cd85.jpg)
+Aero Glass增强反射光效果。 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4968483029/4c07b0cb7bcb0a464e2766846263f6246a60af78.jpg)
+欢迎屏全Vista设计
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4968483029/fa55aa10728b471086ce1171cacec3fdfe03239b.jpg)
+任务栏方面：快速启动回归，默认任务栏小图标，且从不合并。通知区域采用Vista图标，且完美隐藏显示桌面按钮。 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4968483029/e71ba91a9d16fdfaab7f2f53bd8f8c5495ee7b75.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4968483029/86a877395343fbf26a784f9eb97eca8064388f29.jpg)
+全Vista图表化（包括用户文件夹图标） 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4968483029/4c0056accbef7609ad82732227dda3cc7ed99efc.jpg)
+***
+Aero Glass支持最大化熄灯效果 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4968483029/150fd5fa43166d22e5b1ff294f2309f79252d2bb.jpg)
+系统组件：部分Vista组件回归
+Windows Media Player 11 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4968483029/4c07b0cb7bcb0a4645c863846263f6246960af9f.jpg)
+***
+屏幕保护程序 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4968483029/43bb1ff1f736afc312b5d4d8ba19ebc4b54512c3.jpg)
+Windows 日历 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4968483029/66633eef3d6d55fb1a6a9d9b64224f4a22a4ddd1.jpg)
+***
+Windows DVD Maker 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4968483029/8808a4cfc3fdfc03ada30805dd3f8794a6c226ad.jpg)
+Windows Movie Maker 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4968483029/b6d00c610c3387445013fac1580fd9f9d52aa0ab.jpg)
+Windows 照片库
+***
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4968483029/68cc7831e924b89924f2ac8567061d95087bf6b3.jpg)
+支持梦幻桌面（须开启Aero Glass）。设置梦幻桌面需从桌面下的文件夹中，右键视频设置。个性化内无法设置。
+补图：
+开始菜单。（开始按钮发光特效，我还是给它保留下来了。主要是因为开机的那个LOGO发光动画目前实在加不回来）
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4968483029/66633eef3d6d55fb116fa09b64224f4a22a4dddc.jpg)
+关于封装问题
+PE采用了WIN10的PE，安装程序文字图片全ViSTA化（包括第二部分OOBE前）。保留采用系统自带部署工具。保留OOBE阶段。（抱歉没有截图）
+系统方面：本来以采用VistaWithSP2 ![](http://tieba.baidu.com/p/4962525126?pn=2帖子中的系统为基础。但是经过几次尝试失败，还是放弃了。原因是在修改完部分系统文件后，引导就崩了（后来查明原因为部分安全补丁所导致的）。没办法，采用了MSDN原版Windows 7 64位旗舰版，只升级了IE11.所以我建议大家，用这个系统尽量不要打补丁[喷]
+关于ISO镜像。
+因为采用了Windows 10的安装程序。所以我可以将install.wim极限压缩为install.esd换回来更小的安装包体积 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4968483029/7a075d86e950352a01edf9b55a43fbf2b0118bf1.jpg)
+注意：首次进入系统后，默认壁纸为纯黑色。任意更换主题即可。
+目前正在研究explorer.exe的替换。以解决资源管理器右下角极光动画等一系列的问题。不过近期应该是解决不了
+更新：已成功解决控制面板左侧导航栏字体颜色问题。
+目前的系统属性效果 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4968483029/32fa6bf2d7ca7bcb41f4ba90b7096b63f424a8f3.jpg)
+第二版：1、解决控制面板左侧导航栏字体颜色的问题，修复了安全盾牌图标的显示问题。
+ 2、修复了开始菜单中Windows 日记本的超链接失效问题
+文件信息：
+文件：Win7V10.iso
+大小： 3, 533, 963, 264 字节
+修改时间：2017-02-07 22:19:54
+MD5： 766E4EC8477384D1BD0074A549F4576F
+SHA1： 61C759C8EB70EC4440178583D9AFEA0B7F61E5D4
+CRC32： 93A01CC1
+下载地址：链接：![](http://pan.baidu.com/s/1c1WGapa 密码：z3jf
+第三版更新内容：
+1、移除系统预装软件（必要软件除外），保证系统纯净性。
+（感谢 @の啊我我 @jinlongci 的建议）
+2、安装镜像瘦身，更加小巧。比官方镜像要小。
+3、部分界面细节修改，更合理；更符合Vista外观。（Winver目前无解决方法，谁知道方法可以私信我，或者跟帖留言）
+4、信仰加成——Vista特有的Windows Media Player 11首次的设置向导回归。在前两版默认跳过设置向导，后经过考虑还是取消这项设定，为了Vista的信仰！ 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4968483029/9d3036db81cb39db89f8bef4d9160924aa183049.jpg)
+第四版下周更新
+第四版开始包括以后的版本要逐渐 去Win7化 了。
+所谓的去win7化就不是简简单单的主题的问题了
+第四版预计未来两天发布，包含大量更新。
+第四版更新内容：
+1、修复了第一次登录账户桌面壁纸黑屏的问题。
+2、欢迎屏幕细节修改：用户头像相框与登录按钮与Vista一致。
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4968483029/150fd5fa43166d223bee35384f2309f79252d2f2.jpg)
+3、用户头像Vista化：引入Vista用户头像，默认管理员头像Vista化，并保留Win7用户头像。 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4968483029/20ad422cd42a2834b92214a752b5c9ea17cebf8f.jpg)
+***
+4、winver与OOBE更加自然 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4968483029/4c23f62297dda144081f411ebbb7d0a20df48679.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4968483029/f86dce004c086e0644581de70b087bf408d1cb9b.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4968483029/2c75e70b19d8bc3e571a2b668b8ba61ea9d34505.jpg)
+***
+5、去Win7化：默认主题名称更改，部分系统组件的语句更改 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4968483029/c27fc11fa8d3fd1faa2e8e96394e251f94ca5f68.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4968483029/4e007cd4ad6eddc45e96985730dbb6fd53663319.jpg)
+***
+6、移动、复制与删除进度对话框动画色调改进，更符合Vista风格。 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4968483029/e4361a1fd21b0ef4109ab7f2d4c451da80cb3e24.jpg)
+***
+7、移除帮助与支持。
+8、Windows边栏默认自动启动。
+9、PE阶段的安装界面风格改变。采用Vista RTM（6000）风格。 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4968483029/9a402dec2e738bd4fb939d9da88b87d6257ff9e5.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4968483029/f20f24176d224f4a50475cbf00f790529a22d1b1.jpg)
+***
+10、其它细节修改。
+度娘越来越丧病了，更新贴被抽了。已经申请恢复帖子了，暂时先发图了。
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4968483029/4903f7539822720ee77a725672cb0a46f01fabd8.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4968483029/0253be32c895d1433ac0748f7af0820258af07d9.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4968483029/dfc99fddd100baa1a23dd4174e10b912c9fc2e7a.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4968483029/fefd0c62f6246b60ffb221d8e2f81a4c530fa2d0.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4968483029/8a7402390cd79123829107d8a4345982b3b7801a.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4968483029/4903f7539822720ee5ab705672cb0a46f31fab2f.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4968483029/4f47682542a7d9335c2777dfa44bd11371f00180.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4968483029/730ee58aa61ea8d3a0abe7a89e0a304e271f5882.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4968483029/4f47682542a7d9335bb376dfa44bd11372f0017c.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4968483029/7b33f83cf8dcd100d7d76a8d7b8b4710bb122fcc.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4968483029/4a8f65097bf40ad1ac48554f5e2c11dfabeccee0.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4968483029/dba428c3d5628535d405408d99ef76c6a5ef63ae.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4968483029/68cc7831e924b8996fdbeb9467061d95087bf6a9.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4968483029/8808a4cfc3fdfc03e4347114dd3f8794a6c226c7.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4968483029/678bf92e07082838dc924eb8b199a9014e08f1f1.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4968483029/e4fb2cfafbedab649da9df6cfe36afc37b311ebc.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4968483029/0f36b2638535e5ddd5cf37737fc6a7efcc1b62b4.jpg)
+资源管理器左侧导航栏图标问题已经修复 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4968483029/7159acee76094b3614652043aacc7cd98f109d9a.jpg)
+下一版将解决一些“一直想解决”的问题。下周发布
+自顶
+第五版更新内容：
+1、PE界面部分语言选择界面调整，更加美观。现在安装界面LOGO调整 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4968483029/0cfc09071d950a7b0eb91d5103d162d9f0d3c988.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4968483029/141351d02f2eb938f5e42967dc628535e7dd6f8b.jpg)
+***
+2、修复了安装第二阶段，启动服务与重启计算机提示界面背景黑屏的问题。 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4968483029/e4fb2cfafbedab64dda31f55fe36afc37b311e43.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4968483029/6050212209f79052bf5415ab05f3d7ca79cbd5d5.jpg)
+***
+3、修复控制面板导航栏背景图片有瑕疵的问题。
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4968483029/0f36b2638535e5dd9676f84a7fc6a7efcc1b62c6.jpg)
+4、修复了资源管理器收藏夹与库文件夹图标的显示问题。 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4968483029/1292b7170924ab185059bda23cfae6cd79890bc9.jpg)
+5、修改默认引导名为Microsoft Windows Vista 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4968483029/9d3036db81cb39db742d3bc3d9160924a91830af.jpg)
+***
+6、开始按钮及其镶嵌样式改为Vista风格
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4968483029/3deab51a0ef41bd511c5b76158da81cb3bdb3d82.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4968483029/0fbe47a5462309f7b3fff2877b0e0cf3d5cad68c.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4968483029/66633eef3d6d55fbae6229b364224f4a22a4ddf0.jpg)
+7、加入Vista节能屏保与Vista开机动画屏保。
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4968483029/4aa1d418ebc4b745a191ee83c6fc1e178b821517.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4968483029/07e4de13c8fcc3ce6cd990a69b45d688d53f207b.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4968483029/94de4f35349b033b61cea54f1cce36d3d739bdd2.jpg)
+（此屏保弥补开机动画遗憾）
+8、部分细节修改，Win7功能Vista名称化（包括截图内容但并不完全） 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4968483029/70ba421e95cad1c83a3aa4b2763e6709cb3d5193.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4968483029/5ee3ed83b9014a901ebe1e28a0773912b11bee9d.jpg)
+9、其余界面微调。
+文件正在上传中
+以后楼主的更新要放缓了，但是不会弃坑的
+@cghvbnv22 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4968483029/8a7402390cd79123ed2ae0eba4345982b0b78058.jpg)
+【日常维护】5.1版更新内容
+1、新增Windows 7 build 6801壁纸
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4968483029/4a8f65097bf40ad16e219b7c5e2c11dfabecce59.jpg)
+***
+2、新增Windows Live Mail
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4968483029/8eeffa17fdfaaf5184bfde20855494eef21f7ac2.jpg)
+***
+3、细节修复
+近期更新[滑稽]，敬请期待
+第六版更新内容（相对于第五版）：
+1、控制面板左侧导航栏细节调整
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4968483029/d3e7d77fca80653802fe3a9e9edda144ac348218.jpg)
+2、新增Windows 7 build 6801壁纸
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4968483029/6e87ecd5b31c87011761296b2e7f9e2f0508ff5a.jpg)
+***
+3、新增Windows Live Mail
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4968483029/cb20d41d8701a18b303c89c2972f07082a38fe5a.jpg)
+4、新增Vista十周年纪念版主题
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4968483029/f7b124a88226cffcbb7d263fb0014a90f403eada.jpg)
+***
+5、新增大量壁纸
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4968483029/4fd025a6d933c8955e3401f6d81373f0800200ee.jpg)
+***
+6、新增一张梦幻桌面 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4968483029/8be72e550923dd5410693fe5d809b3de9d82481e.jpg)
+7、降低开启梦幻桌面时、桌面图标名称显示异常BUG触发的概率。（仍在研究解决方法中）
+8、加入墨球游戏，但快捷方式异常（已开始修复）。您可暂时在x:\Programfiles\Microsoft Games\内找到。
+9、继续去Win7化：部分界面的细节调整。
+@独守悲伤888 安装程序没有问题 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4968483029/e918ed12632762d05bb94031a9ec08fa533dc6ab.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4968483029/035de527cffc1e170b5968bf4390f603718de954.jpg)
+@longhorn4093 实测关闭梦幻桌面后两侧反射光就明显了。 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4968483029/e1b0ca355982b2b739d6db4a38adcbef74099bed.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4968483029/c2d2a8fd1e178a82c53c9d2eff03738da877e836.jpg)
+远程桌面连接界面已成功Vista化，此项改进将在下版加入
+关于计算机的问题征求大家意见：大家是喜欢Win7自带的计算器还是Vista 得计算器
+【公告】3月12日起，楼主将停止对第一版、第二版、第三版的Vista十周年纪念版本的支持。届时楼主将下线这三个版本，同时楼主也不再解答这三个版本的相关问题。欢迎大家关注和使用Vista 十周年纪念的最新版本，谢谢合作！
+下一版本会有一些有趣的东西加入
+分享开发进程：楼主已经成功实现部分控制面板项的Vista化。但是由于Vista与Win7导航栏机制的变化。所以导航栏的界面上还是有BUG的。所以近期的版本不会引入这项变化
+如图：成功Vista化的网络与共享中心
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4968483029/d9d1db305c6034a839250b74c21349540b237671.jpg)
+***
+还有一个Windows Update忘了截图。
+关于Vista的导航栏背景机制，楼主已经基本了解。目前正在寻找解决方法。
+当然这样做的最终目的是移植Vista的Explorer
+第七版更新内容预告
+1、部分控制面板图标与系统组件图标修改，“入门""正式更名为“欢迎中心”。
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4968483029/c13f5edab6fd5266e68cfee3a218972bd6073693.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4968483029/c722407e9e2f0708591ce7f7e024b899a801f226.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4968483029/1976d5b6d0a20cf4fb8833287f094b36adaf9927.jpg)
+***
+2、加入Microsoft Tinker与Hold Em两款Vista Ultimate Extras游戏（BUG：需要在开始菜单—所有程序—游戏中找到它们）
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4968483029/3c2dea1101e93901f4d140c972ec54e734d19668.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4968483029/9da0314f9258d1094d0a6445d858ccbf6e814d56.jpg)
+***
+3、加入三款Vista Ultimate Extras系统声音方案
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4968483029/86a877395343fbf2098a6ad4b97eca8067388f9d.jpg)
+***
+4、加入Vista Ultimate Extras原版梦幻桌面
+5、更改Windows Live Mail为2009版
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4968483029/a9a4522bc65c1038ebe20135bb119313b27e899b.jpg)
+***
+6、远程桌面对话框修改为Vista样式
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4968483029/d8d6150f0cf3d7cae333f081fb1fbe096963a972.jpg)
+***
+7、修复了开始菜单所有程序中部分内容错乱与翻译问题。
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4968483029/e0186ffb513d2697dcc3c3aa5cfbb2fb4216d82f.jpg)
+***
+8、修复了墨球的快捷方式。（需从开始菜单中开启）
+9、内置Aero 反射光调节软件AeroTuner（在Windows目录下）,反射光效果强弱可自行调节
+【已知问题】：
+1、开启梦幻桌面后，部分桌面字体显示会有问题。（暂时无解，但不影响使用）
+2、Ultimate Extras游戏和墨球游戏无法在游戏资源管理器中显示。（已开始修复）
+预计未来两天发布
+问一下大家这样子的感觉是不是美哭了 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4968483029/89e3183f6709c93d91ab150e963df8dcd30054e7.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4968483029/8c4b0b80800a19d8735b9ffc3afa828ba41e46e0.jpg)
+妈的一直被吞贴
+后排提示：如果你有相关的问题，楼主建议最好翻翻前面的帖子。因为为了版面和其他问题。楼主不可能重复为大家回答问题。希望大家理解。
+近期要推出一个特别的版本
+特别版与第八版镜像制作完成，将与第八版一起发布。
+第八版更新内容：
+1、控制面板添加极光效果
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4968483029/09a06e22dd54564e00f5b3d1bade9c82d3584fbf.jpg)
+2、资源管理器底栏加入极光特效（感谢@__诺瓦露__ 提供相关素材）
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4968483029/49d7ba55564e92584391d0069582d158cebf4ea2.jpg)
+***
+3、Explorer与主题服务底层框架修改。
+4、部分细节修改。
+特别版更新内容：
+该版本为控制面板测试版，将针对一些控制面板界面进行Vista化。
+1、桌面个性化 Vista化
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4968483029/70ba421e95cad1c806f1a0cf763e6709cb3d5181.jpg)
+***
+2、网络与共享中心 Vista化
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4968483029/03e20a234f4a20a464f6602f99529822700ed067.jpg)
+***
+3、Windows Update Vista化
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4968483029/b6d00c610c338744da697094580fd9f9d52aa09b.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4968483029/4ab2951ebe096b63dd4b07b805338744e9f8acf9.jpg)
+***
+4、电源管理 Vista化
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4968483029/9a402dec2e738bd4441aecd9a88b87d6267ff911.jpg)
+***
+5、系统属性 Vista化
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4968483029/2c75e70b19d8bc3e22e058228b8ba61eaad34567.jpg)
+***
+6、资源管理器底栏加入极光特效（基于第八版）
+7、Explorer与主题服务底层框架修改。（基于第八版）
+8、部分细节修改（基于第八版）
+特别版已知问题汇总：
+· 无法更改主题与Aero Glass窗口颜色样式与透明效果。
+· 系统属性无法正确显示配置信息与激活信息。
+· 控制面板首页与部分控制面板项无法正常显示（可通过地址栏操作）
+· 每次开机后第一次打开网络与共享中心，无法正常显示。解决方法：关闭网络与共享中心并重新打开 。
+· 个性化下的部分内容无法使用。
+第九版预告
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4968483029/f9f52d91f603738dc37bd4ccba1bb051f919ec25.jpg)
+第九版更新内容：
+1、加入Windows 7中国主题 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4968483029/68c0539a033b5bb57000fb2f3fd3d539b400bc06.jpg)
+***
+2、更新Windows 8风格任务管理器为最新版本，并增强稳定性。
+ 此版本移除了传统的任务管理器。
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4968483029/0fbe47a5462309f70e8a77c37b0e0cf3d5cad674.jpg)
+***
+3、集成常用的运行库。（仅限集成版）
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4968483029/480e363c269759eea9d5a51abbfb43166f22df54.jpg)
+4、集成USB3.0驱动。（仅限集成版）
+5、添加DirectX 12支持。（仅限集成版，且您的电脑DX版本仍可能显示为DirectX 11）
+6、去Win7化：此版本开始，不支持将程序图标固定到任务栏上。请使用快速启动栏。
+7、从此版本开始，将从系统层级屏蔽Windows Update，和利用其他软件进行补丁安装。（这回不用问我，这个系统能不能打补丁了吧）
+温馨提示：安装时请选择安装版本，该版本分为纯净版（没有添加运行库与USB3.0驱动）、集成版(添加运行库与USB3.0驱动)、特别版（此版本安装镜像仍内置特别版）
+根据实际反馈情况，我将在下个版本中对纯净版与集成版进行取舍。
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4968483029/cca0f3eff01f3a29de97141f9025bc315e607cfe.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4968483029/303b5cc69f3df8dcce764e40c411728b45102889.jpg)
+【公告】自4月1日起将停止对第四版、第五版、第六版的支持，届时楼主将关闭这三个版本的下载地址，并不再解答这三个版本的相关问题。同时也希望大家关注最新版本和楼主的更新。
+第十版要在特别的日子发布
+自顶
+第十版近期发布。[滑稽]
+第十版更新内容：
+由大家投票决定此版本基于第九版集成版开发。
+1、控制面板首页界面调整，符合Vista风格但更加自然。
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4968483029/d3e7d77fca806538966a8edf9edda144af34826b.jpg)
+2、更新了系统主题，完善了部分细节设计。（感谢 @__诺瓦露__ ）
+3、去Win7化，部分系统界面改善。
+第十一版更新内容：
+1、全新的Basic主题更有质感，更符合Vista风格
+（部分设置界面前进与后退栏仍显示为原来的颜色，暂时无解）
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4968483029/2b9791256b600c334a7327e8104c510fd8f9a1fa.jpg)
+2、资源管理器导航栏字体颜色修改，更符合Vista风格
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4968483029/f7b124a88226cffc9ad24692b3014a90f703ea08.jpg)
+3、任务栏预览窗口更符合Vista风格
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4968483029/20ad422cd42a2834e03ccc2b51b5c9ea14cebf6a.jpg)
+***
+4、资源管理器详细信息窗格添加Vista动画
+5、Aero Glass窗口颜色调节界面微调
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4968483029/7625482fb9389b504bad05728f35e5dde6116eb1.jpg)
+***
+6、修复了上一版USB3.0驱动失效的问题
+第十二版近期更新
+因为病毒原因，原第十二版将会在修复安全问题后发布，请各位放心
+5.17最新动态:12.11版因为存在严重BUG而夭折。
+5.15最新动态:12.12版WMP11崩溃而夭折
+5.16最新动态:12.14版已完成，正在进行压力测试。如果没有什么问题就会发布
+第十二版更新内容：
+1、安全性能提升：集成“永恒之蓝“补丁MS17-010 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4968483029/83099b029245d68806bacbadaec27d1ed31b2470.jpg)
+***
+2、安全性能提升：系统默认屏蔽445端口
+3、安全性能提升：内置微软Microsoft Security Essentials杀毒软件 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4968483029/2b946b328744ebf857a61f36d3f9d72a6259a7dd.jpg)
+***
+4、磁盘清理工具性能提升。
+5、修复了Vista十周年特别主题，部分视觉特效丢失的问题 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4968483029/fcc53b6134a85edf162f992a43540923dc547509.jpg)
+***
+6、部分界面改进
+7、加入部分特别版特性。
+已知问题：
+1、basic主题下向导界面的导航栏颜色仍为原版basic主题颜色暂时无解。
+2、Aero主题Windows Vista的Aero glass效果失效，已开始修复。
+【公告】自2017年5月17日起楼主将停止对第七版、第八版、第九版的支持，届时楼主将关闭这三个版本的下载地址，同时也不再对相关版本的问题进行解答。希望大家支持楼主，并关注最新版本的开发。
+为了大家的安全着想，还在使用以前版本的朋友，请更新到第十二版[哈哈]
+楼主学软件工程的。期末要赶项目，所以更新可能会很慢。希望大家理解。
+下周末就有时间了[滑稽]
+第十三版近期更新
+新版本将继续提升安全性
+楼主改名了，请大家继续关注我[滑稽]
+这次更新将首度尝试使用城通网盘更新，但是我还是会保留百度云更新。看效果，如果大家满意的话，以后就转入城通网盘更新了。
+接下来该说说第十三版的更新了[滑稽]。
+第十二版到第十三版中间间隔了将近两个月，这两个月的时间正如我说的，楼主的大部分时间在赶项目。但是我也没有完全放弃这个系统的改进工作。每天我都会腾出一小部分时间来研究这个系统。恰巧最近这两个月勒索病毒流行，Win7的感染率十分高。这个系统基于Win7制作的，且无法正常打补丁，这点也就正击中这个系统的软肋。
+由于之前我说过打补丁会使这个系统崩溃，我也做过尝试，并以失败告终。所以之前的勒索病毒我也仅仅集成了预防勒索病毒的补丁。虽然是仅仅的两个补丁，对于要定期发布，楼主的工作量也是很大的。由于第十三版不着急发布，所以楼主腾出一些时间来研究补丁的问题。经过了近两个月的尝试，经过了许多的失败，楼主终于研究出来，能使系统不崩溃的补丁列表，并且成功集成了这些补丁。因为是打了补丁，所以部分的特性和界面又进行了重做，这也是这个版本延迟至今的原因。
+目前第十三版已经集成了大量关键性的安全补丁，这些补丁包括了SP1版本初期的补丁到2017年6月的安全补丁。极大的提高了系统的安全性。但是正如楼主之前说的，这也为以后的底层工作增添了难度。不过，安全第一！从第十三版起，楼主会在每个月的补丁发布后，将这些补丁集成到新版的系统内。但是请注意，这个系统仍然无法使用Windows Update进行更新操作。并且在这个版本起，我会进行更深层次的Windows Update的封堵工作。理由不用我解释了吧。
+最后希望大家继续关注楼主，和帖子的更新！
+【第十三版更新内容】
+1、集成了2017年6月前的绝大多数补丁 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4968483029/5ee3ed83b9014a9098b09517a3773912b11bee80.jpg)
+***
+2、修复了MSE的语言问题。（本系统已经通过安装测试并无问题，但如果发现安装系统后MSE仍为英文，请添加桌面上的注册表项，并重启计算机）。 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4968483029/f9ccfc514fc2d56277650147ed1190ef77c66c25.jpg)
+***
+3、修复了任务栏在屏幕顶部时，开始按钮错位的问题 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4968483029/e17fe0d7277f9e2f8480cca21530e924ba99f3dd.jpg)
+***
+4、修复了Windows Vista主题的Aero Glass效果丢失问题。 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4968483029/c13f5edab6fd52669702ecbea118972bd5073660.jpg)
+***
+5、新增远景聚焦主题 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4968483029/3fca0008c93d70cf115c7aa7f2dcd100b8a12bef.jpg)
+***
+6、减少了安装包的体积。
+7、增强了Windows Update的封堵效果。
+8、此版本将提供无USB3.0驱动和集成USB3.0驱动的安装选项。
+9、此版本不再提供特别版的安装选项。
+第十三版文件信息：
+文件： Vista10.iso
+大小： 3, 823, 796, 224 字节
+修改时间：2017-07-07 12:45:56
+MD5： 6FF9D6EACACB78F49F31C163B1ADB3F1
+SHA1： 4B437A741D390B7E9DC1EEC0F63080B8F7894247
+CRC32： 69C87ECB
+下载地址：
+***
+主链接： https://page31.ctfile.com/fs/12416731-210625238
+楼主已经成功攻克Basic主题难题[滑稽] 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4968483029/ec5b49dca3cc7cd9ae49a7743301213fb90e9128.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4968483029/f9e6affdc3cec3fd899c34d8dc88d43f859427f6.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4968483029/150fd5fa43166d22ae4f87394c2309f79152d25d.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4968483029/112ee6ca39dbb6fdd661778b0324ab18962b375e.jpg)
+第十四版更新内容：
+1、修复了Basic主题的配色问题
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4968483029/07e4de13c8fcc3cedd03009e9845d688d63f2055.jpg)
+3、修复Basic主题下的Windows Media Player 11配色问题 
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4968483029/22249002918fa0ec8ae4aca02c9759ee3c6ddb76.jpg)
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4968483029/1292b7170924ab18a521299a3ffae6cd7a890b59.jpg)
+3、修复了上一版本可能存在的IE11错误问题
+4、修复了OOBE的窗口配色问题
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4968483029/768ebdb54aed2e73eaa44c818d01a18b85d6fac0.jpg)
+5、修复了开始菜单搜索和拓展面板时关机按钮的字体颜色问题
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4968483029/7159acee76094b366477d340a9cc7cd98f109da8.jpg)
+5、更换了全新的注册表编辑器图标
+![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4968483029/746f643a5bb5c9eabc9ac84edf39b6003bf3b32c.jpg)
+6、修复了上一个版本中Windows Media Player 11设置向导无法正常显示的问题。
+一是怕你们说我更新太快耍人玩[啊]，二是给上一版本一定的使用反馈时间[滑稽]。所以这个版本暂缓两天发布。[勉强]
+我临时决定，下个版本也就是十四版，要埋几个比较明显的彩蛋 ![](http://static.tieba.baidu.com/tb/editor/images/client/image_emoticon67.png) 。所以，等你们安装完一定要找找看。
+第十四版文件信息：
+文件： Vista10.iso
+大小： 3, 818, 192, 896 字节
+修改时间：2017-07-11 17:41:06
+MD5： 05BA156685C6DFB32AD9D3F84C692228
+SHA1： 90BBEA1340293EE9AE2589B6A54FBF5CA4AD8A92
+CRC32： 495D847B
+下载地址 https://page31.ctfile.com/fs/12416731-211264276
+期待测评，以及寻找彩蛋[滑稽]
+【公告】由于安全原因日起楼主将停止对第十版、第十一版、第十二版的支持，届时楼主将关闭这三个版本的下载地址，同时也不再对相关版本的问题进行解答。希望大家支持楼主，并关注最新版本的开发。
