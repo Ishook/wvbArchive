@@ -1,0 +1,20 @@
+# Office 2007更新合集
+
+大家都知道，今年10月10月，Office 2007迎来最后一次更新，然后微软结束了Office 2007的支持，这款划时代的Office走向了生命的终结。以后不再有更新了，所以有必要做一个更新合集。 ![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/5370501167/68cc7831e924b899074df15965061d950b7bf650.jpg) ![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/5370501167/5fc48e25b899a901e344d35716950a7b0308f550.jpg) 我在虚拟机里面全新安装了Windows 7，然后安装了Office 2007 Professional Plus，接着安装了Office 2007 Service Pack 3，最后打开Windows Update检查更新，检查出Office 2007有45个重要更新和4个可选更新，一共49个更新，这就是Office 2007 Professional Plus最终的全部更新了： ![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/5370501167/a9d0df98a9014c08de4aa0c4017b02087af4f450.jpg) ![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/5370501167/f86dce004c086e06acd9b72a09087bf40bd1cb50.jpg) ![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/5370501167/e9f52b096e061d95b837bf5970f40ad163d9ca50.jpg) 然后我把更新编号记下来，到Microsoft Update Catalog一个一个搜索下载： ![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/5370501167/0cfc09071d950a7bb144c6a501d162d9f3d3c950.jpg) 然后把SP3也和它们放在一起，做成了这个更新合集： ![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/5370501167/2ef27a940a7b0208cfb8b78069d9f2d3562cc850.jpg) 值得注意的是，从Microsoft Update Catalog上面下载的Office 2007的更新是cab格式的： ![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/5370501167/5d616d7a02087bf4bf9ddf88f9d3572c10dfcf50.jpg) 用解压软件打开它，发现里面有msi或msp格式的安装包： ![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/5370501167/4a8f65097bf40ad1d4954f825c2c11dfa8ecce50.jpg) ![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/5370501167/42fc1cf50ad162d9459fea7d1adfa9ec8b13cd50.jpg) 解压出来，直接运行msi或msp就能安装Office 2007更新了： ![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/5370501167/3b006dd062d9f2d3ef60ac8ea2ec8a136227cc50.jpg) 下面提供Office 2007 Professional Plus的更新合集分享\[太开心\]
+
+ \[滑稽\]此楼@人 @happymax1212 @longhorn4074 @vistawithsp2 @longhorn4093 @滚回功率坐放宽 @redapple0204 @wq8245 @xkai 我的Office 2007 Professional Plus集成更新的iso也弄好了，在虚拟机里面测试安装成功\[太开心\]然后Windows Update检查更新后只剩那个用集成方法装不上的Microsoft Office File Validation Add-in了，然后我把Microsoft Office File Validation Add-in从集成里面删了（反正用集成方法装不上，删了后能减小一点iso体积），重新打包了iso，现在iso正在往百度网盘传了\[哈哈\] ![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/5370501167/f3efd750f81986181b7ff4e641ed2e738ad4e689.jpg)
+
+@音乐与电脑8 ![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/5370501167/36fd2c37acaf2edd2d57448b861001e938019327.jpg)  ![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/5370501167/0a1949728bd4b31c9c19e7d98cd6277f9f2ff8a4.jpg)
+
+很意外，微软在11月更新日又给Office 2007推送了一次更新 excel的4011199和word的4011266 另外office2007还有两枚兼容包的 4011265 -&gt; 3213647 4011205 -&gt; 4011064 感谢@xkai \[真棒\]更新的补丁包和iso（PRO和ENT）： 
+
+感谢@xkai 的提醒\[太开心\]，微软在2017年12月更新日又给Office 2007推送了一次更新：KB4011608取代了KB4011266，再查了一下，还有两枚Office 2007的更新： KB4011604取代了KB4011276，KB4011203取代了KB3114428， 现在放出最新的Office 2007专业版&企业版更新合集&集成更新的iso：链接: [https://pan.baidu.com/s/1jHYgVUe](https://pan.baidu.com/s/1jHYgVUe) 密码: rtqk
+
+2018年1月的Patch Tuesday，Office 2007又更新了，看来Office 2007的生命周期继续被延长，感谢@xkai ，具体1月微软推送的Office 2007更新如下图： ![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/5370501167/25cc6bd6912397ddef83c1d85282b2b7d2a2876d.jpg) Office 2007 更新汇总包和集成更新的企业版： 链接：[https://pan.baidu.com/s/1qZLHw8c](https://pan.baidu.com/s/1qZLHw8c) 密码：u8bx
+
+感谢@xkai 帮我更新\[太开心\]本月更新后的office 2007 CHS更新汇总及企业版iso： 链接：[https://pan.baidu.com/s/1md5\_Ho-VlsBWeGsH8p7Szg](https://pan.baidu.com/s/1md5_Ho-VlsBWeGsH8p7Szg) 密码：gub9 ![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/5370501167/edc03e83b2b7d0a2ecb4ef80c7ef76094a369aa0.jpg)
+
+今天MS发布了本月的安全更新。 office 2007 5枚（其中一枚是excel viewer的）。感谢@xkai ，本月更新取代情况如下： office 2007: 4011717 -&gt; 4011605 4018353 -&gt; 4011714 4018354 -&gt; 4011720 4018355 -&gt; 4011721 office 2007补丁和集成最新补丁的企业版： 链接：[https://pan.baidu.com/s/1jjJeE4wdUb5mALRPocrkwA](https://pan.baidu.com/s/1jjJeE4wdUb5mALRPocrkwA) 密码：le8k
+
+更新：做了个Office 2007最终合集，集成了Office 2007 Enterprise，Visio 2007 Pro和Project 2007 Pro三个版本并且更新集成到2019年2月 ![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/5370501167/43cf3cb4c9ea15ce9ecb2e7ab9003af33b87b296.jpg) test ![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/5370501167/01c0f00b304e251f92472a8ba886c9177e3e5302.jpg)
+

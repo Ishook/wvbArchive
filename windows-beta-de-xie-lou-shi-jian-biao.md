@@ -1,0 +1,32 @@
+# Windows Beta的泄露时间表
+
+这里记录Windows Beta的泄露时间表 Windows 95
+
+Windows 95 Build 58s 2005年1月1日泄露
+
+Windows 95 Build 216 2010年5月14日泄露 Windows 95 Build 222 2010年5月14日泄露 Windows 95 Build 499 2015年8月20日泄露 Windows95 Build 420 2015年8月24日泄露 Windows95 Build 285 2015年12月11日泄露 Windows 95 Build 286 2015年12月13日泄露 Windows 95 Build 302 2015年12月13日泄露 Windows 95 Build 180 2015年12月13日泄露 Windows 95 Build 1009 2017年3月4日泄露 Windows 95 Build 1078 2017年3月5日泄露 Windows 95 Build 1068 2017年3月9日泄露 Windows 95 Build 1034 2017年3月11日泄露 Windows 95 Build 1043 2017年3月13日泄露 其余Build泄露日期未知 Windows 98
+
+Windows 98 Build 1546［官方Beta 2］ 1997年7月31日释出 Windows 98 Build 1629［官方Beta 3］ 1997年12月12日释出 Windows 98 Build 1723.4［官方RC2］ 1998年4月10日公开发布 Windows 98 Second Edition Build 2126 1999年1月16日泄露 Windows 98 Second Edition Build 2183A 1999年4月7日释出 Windows Memphis Build 1415 2010年6月13日泄露 Windows Memphis Build 1411 2011年3月15日泄露 Windows 98 Build 1559 2011年5月29日泄露 Windows Memphis Build 1500 2013年7月24日泄露 Windows 98 Second Edition Build 2106 2014年6月7日泄露 Windows Memphis Build 1434 2014年8月27日泄露 Windows 98 Second Edition Build 2136 2015年6月22日泄露 Windows Memphis Build 1353 2016年12月19日泄露 Windows Memphis Build 1513 2016年12月19日泄露 其余Build泄露日期未知 Windows NT\(原始\) Windows Codename ""Cairo"" Build 854.1 2010年5月14日泄露 Windows NT October 1991 2011年4月24日泄露 Windows NT 3.1 Build 475.1 2017年2月26日泄露 Windows Codename ""Cairo"" Build 1175.1 2017年3月17日泄露
+
+其余Build泄露日期未知 Windows NT 4.0 Build 1287.1 2010年6月1日泄露 Windows NT 4.0 Build 1381.1 \(Pre-Release\) 2014年12月22日泄露 Windows NT 4.0 Build 1293.1 2017年3月4日泄露 Windows NT 4.0 Build 1273.1 2017年3月5日泄露 Windows NT 4.0 Build 1353.1 2017年3月9日泄露 Windows NT 4.0 Build 1369.1 2017年4月2日泄露
+
+其余Build泄露日期未知 Windows 2000 Windows NT 5.0 Build 1773.1 2014年1月5日泄露 Windows 2000 Build 1964.1 2015年6月22日泄露 Windows 2000 Build 1965.1 2015年6月22日泄露 Windows 2000 Build 1969.1 2015年6月22日泄露 Windows 2000 Build 1983.1 2015年6月22日泄露 Windows 2000 Build 1994.1 2015年6月22日泄露 Windows 2000 Build 2020.1 2015年6月22日泄露 Windows 2000 Build 2151.1 2015年6月22日泄露 Windows NT 5.0 Build 1835.1 2015年6月23日泄露 Windows 2000 Build 1993.1 2016年12月19日泄露 Windows 2000 Build 1999.1 2016年12月19日泄露 Windows 2000 Build 2000.1 2016年12月19日泄露 Windows 2000 Build 2092.1 2016年12月19日泄露
+
+其余Build泄露日期未知 Windows XP
+
+Build 2202.1 2000年2月的某个时候被释出 Build 2223.1 2000年4月11日释出 Build 2250.1 2000年7月13日释出 Build 2257.1 2000年8月释出、2000年10月泄露 Build 2267.1 2000年10月3日释出 Build 2296.1［官方Beta 1］2000年10月31日释出 Build 2410.1 2001年1月4日释出 Build 2416.1 2001年1月16日释出 Build 2419.1 2001年1月23日释出 Build 2428.1 2001年2月5日释出
+
+Build 2462.0［官方Beta 2］2001年3月23日公开发布 Build 2469.0 2001年5月12日释出 Build 2474.0 2001年5月17日释出 Build 2475.0 2001年5月24日释出 Build 2481.0 2001年6月1日释出
+
+Build 2486.0 2001年6月15日释出 Build 2494.0 2001年6月21日释出 Build 2505.0［官方RC1］2001年7月2日公开发布 Build 2520.0 2001年7月7日释出 Build 2526.0［官方RC2］2001年7月27日公开发布 Build 2535.0 2001年8月8日释出 Build 2542.0 2001年8月14日释出 Build 2459.0 2016年12月19日泄露
+
+其余Build泄露日期未知 Windows Longhorn
+
+Build 3683 2002年10月20日泄露 Build 4008 2003年2月28日泄露 Build 4015 2003年4月28日泄露 Build 4029 2003年9月23日泄露 Build 4051 2003年10月30日泄露 Build 4053 2004年3月2日泄露 Build 3718 2004年4月30日泄露 Build 4074 2004年5月4日泄露 Build 4083 2004年11月10日泄露 Build 3706 2006年5月22日泄露 Build 4093 2006年8月28日泄露 Build 4039 2007年8月22日泄露 Build 4042 2008年7月7日泄露 Build 4084 2011年10月16日泄露 Build 3713 2012年12月27日泄露 Build 4001 2013年1月20日泄露 Build 4088 2015年1月13日泄露
+
+其余Build泄露日期未知 Windows Vista的泄露日期分为两批 第一批是通过社区技术预览版机制泄出的官方版本 第二批是2016年12月发生的大量泄露事件，这批分支主要是vbl\_media\_ehome Windows Vista 第一批泄露日期表： Build 5048.0 2005年4月25日释出 Build 5112.0［官方Beta 1］2005年7月27日释出 Build 5219.0 2005年9月13日释出 Build 5231.0 2005年10月17日释出 Build 5231.2 2005年10月17日释出 Build 5259.0 2005年11月22日释出 Build 5259.3 2005年11月22日释出 Build 5270.9 2005年12月20日释出 Build 5308.17 2006年2月22日释出 Build 5308.60 2006年2月28日释出 Build 5342.2 2006年3月24日释出
+
+Build 5365.8 2006年4月21日释出 Build 5381.1 2006年5月3日泄露，2006年5月6日释出 Build 5384.4［官方Beta 2］2006年5月23日释出，2006年6月6日公开发布 Build 5456.5 2006年6月24日释出 Build 5472.5 2006年7月17日释出 Build 5536.16384 2006年8月24日释出 Build 5552.16384 2006年8月24日泄露 Build 5600.16384［官方RC1］2006年9月1日释出 Build 5728.16387 2006年9月22日释出 Build 5744.16384［官方RC2］2006年10月6日释出 Build 3790.1232 Omega-13 2011年8月14日泄露 Windows Vista 第二批：泄露日期都是2016年12月19日 Windows Vista Build 5212.0 Windows Vista Build 5284.0 Windows Vista Build 5308.6 Windows Vista Build 5310.0 Windows Vista Build 5329.0 Windows Vista Build 5337.0 Windows Vista Build 5355.0 Windows Vista Build 5360.0 Windows Vista Build 5371.0 Windows Vista Build 5378.0 Windows Vista Build 5382.0 Windows Vista Build 5384.3 Windows Vista Build 5435.0 Windows Vista Build 5461.0 Windows Vista Build 5466.0 Windows Vista Build 5469.0 Windows Vista Build 5471.0 Windows Vista Build 5477.0 Windows Vista Build 5491.0 Windows Vista Build 5505.6 Windows Vista Build 5552.16386 Windows Vista Build 5568.16384 Windows Vista Build 5584.16384 Windows Vista Build 5718.0 Windows Vista Build 5723.0 Windows Vista Build 5738.0 Windows Vista Build 5752.0 Windows Vista Build 5758.0 Windows Vista Build 5824.16387 Windows Vista Build 5840.16389 Windows Vista Build 6000.16384 Windows 7 Build 6519 2008年6月13日泄露 Build 6801 2008年10月30日公开发布 Build 6956 2008年12月6日泄露 Build 6936 2008年12月15日泄露 Build 7000 2009年1月9日公开发布 Build 7022 2009年2月9日泄露 Build 7048 2009年3月7日泄露 Build 7057 2009年3月12日泄露 Build 7068 2009年3月28日泄露 Build 7077 2009年4月8日泄露 Build 6780 2009年4月12日泄露 Build 7106 2009年4月13日泄露 Build 7100［官方RC］2009年5月5日公开发布 Build 7127 2009年5月14日泄露 Build 7137 2009年5月28日泄露 Build 7201 2009年6月3日泄露 Build 7227 2009年6月10日泄露 Build 7229 2009年6月12日泄露 Build 7231 2009年6月12日泄露 Build 7232 2009年6月16日泄露 Build 7260.2009年6月17日泄露 Build 7264.2009年7月1日泄露 Build 7225 2009年7月6日泄露 Build 7600.16384 2009年7月13日泄露 Build 6730 2011年4月26日泄露 Build 6469 2011年4月26日泄露 Build 7062 2015年1月17日泄露 Build 6910 2016年12月19日泄露 Build 6931 2016年12月19日泄露 Windows 8+8.1
+
+Build 7850 2011年4月12日泄露 Build 7955 2011年4月25日泄露 Build 7989 2011年6月18日泄露 Build 7927 2011年8月29日泄露 Build 8102.101［官方DP］2011年9月13日公开发布 Build 8250［官方CP］2012年2月29日公开发布 Build 8400［官方RP］2012年6月1日公开发布 Build 9364 2013年3月24日泄露 Build 9369 2013年4月16日泄露 Build 9374 2013年4月19日泄露 Build 9385 2013年5月1日泄露 Build 9431 2013年6月26日公开发布 Build 9471 2013年8月12日泄露 Build 9477 2013年8月21日泄露 Build 9483 2013年8月28日泄露 Build 9600.16596 2014年2月2日泄露 Build 8331 2014年12月14日泄露 Build 8888.16384 2014年12月14日泄露 Build 8148 2015年5月18日泄露 Build 7963 2015年7月2日泄露 Build 7973 \(fbl\_core1\_kernel\_npc分支\) 2015年9月19日泄露 Build 7973 \(fbl\_core2\_sid\_data分支\) 2015年9月19日泄露 Build 8056 2015年9月19日泄露 Build 8161 2015年9月19日泄露 求加精@Longhorn4093
+

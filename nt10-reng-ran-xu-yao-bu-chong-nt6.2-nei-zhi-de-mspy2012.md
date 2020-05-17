@@ -1,0 +1,8 @@
+# NT10仍然需要补充NT6.2内置的MSPY2012
+
+NT6.2的MSPY2012非常好用，流畅，6.3换了一个不知是什么架构的MSPY和MSWB，就变得奇卡无比，功能也少了，难用死了；而且，由于MSPY传统版的缺失，Word的拼音指南不能用了，MS Phonetic（注音）的简体输出也不能用了（这两个都需要MSPY的支持）。NT10对这个缺陷进行了恢复，14393对功能进行了增强。但是，在默认情况下，MS注音的简体中文输出准确率很低，比不上6.2里的 比如李白的《望庐山瀑布》在6.2的注音简体模式下可以准确输出（不要担心不会用注音，可以在键盘设置那里改成汉语拼音的），10的注音简体输出却是这样： 望庐山瀑布 日照香炉生紫烟 遥看瀑布挂钱传 飞流直下三千尺 疑是银河落九天
+
+6.3恢复6.2的MSPY后，注音简体输出上面这首诗也是准确的，第二句没错。可见10的MSPY词库依然有所欠缺，仍然需要补充6.2的MSPY来恢复原先的准确率。 对NT6.3/10,还可以导入这个reg文件恢复繁体区里的传统新仓颉和新速成： !\[\]\([http://pan.baidu.com/s/1o8e0gMQ](http://pan.baidu.com/s/1o8e0gMQ) 导入后可以在中文（TW）的添加输入法里看到新增了这两个： ![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/4895901482/3379ce763912b31b3d69352d8f18367adbb4e1a7.jpg)
+
+这两个输入法与不带New的两个，输入时显示的是不一样的，自己试试！ 想恢复MSPY2012的，去这里下载工具吧 [https://www.streamlet.org/software/mspyforever/](https://www.streamlet.org/software/mspyforever/) 这个工具只恢复了新体验，简洁模式需要重新注册dll弄出来，请看这篇 !\[\]\([http://www.cppblog.com/Streamlet/archive/2014/02/17/188249.html](http://www.cppblog.com/Streamlet/archive/2014/02/17/188249.html)
+

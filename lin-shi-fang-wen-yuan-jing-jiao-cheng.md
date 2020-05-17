@@ -1,0 +1,12 @@
+# 临时访问远景教程
+
+C:\Windows\System32\drivers\etc，找到 hosts ，使用记事本打开，加入以下内容
+
+## pcbeta Start
+
+218.93.127.136 bbs.pcbeta.com 218.93.127.136 !\[\]\([http://www.pcbeta.com](http://www.pcbeta.com) 218.93.127.136 uc.pcbeta.com 218.93.127.136 cdn.pcbeta.static.inimc.com 218.93.127.136 cdn.pcbeta.css.inimc.com 218.93.127.136 static.template.pcbeta.com 218.93.127.136 i.pcbeta.com 218.93.127.136 cdn.pcbeta.attachment.inimc.com 218.93.127.136 mac.pcbeta.com 218.93.127.136 cdn.pcbeta.img.inimc.com
+
+## pcbeta End
+
+挖坟科普还打不开的人
+
