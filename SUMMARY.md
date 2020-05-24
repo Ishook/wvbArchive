@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Home](README.md)
-* [LICENSE](license.md)
+* [LICENSE](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh)
 * [Windows Beta的泄露时间表](windows-beta-de-xie-lou-shi-jian-biao.md)
 * [Vista下批量安装msu补丁的方法](vista-xia-pi-liang-an-zhuang-msu-bu-ding-de-fang-fa.md)
 * [【总结】装NT4.0 （SP6）以及Win2K Beta的几点心得](zong-jie-zhuang-nt4.0-sp6-yi-ji-win2k-beta-de-ji-dian-xin-de.md)
