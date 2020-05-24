@@ -4,7 +4,7 @@
 
 我准备抽时间搞成ISO福利吧友 还有，这个CE该怎么用。。。。 还有这几张光盘，你们如果有用的话，我也做成ISO给你们 ![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/5289760554/e1b0ca355982b2b7306dd3063badcbef74099b7c.jpg) ![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/5289760554/91e714f182025aafc5a89409f1edab64014f1a4b.jpg) ![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/5289760554/4e007cd4ad6eddc4190a5e3933dbb6fd5066337c.jpg) ![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/5289760554/7627b238b6003af3f72036a23f2ac65c1238b654.jpg)
 
-亲爱的吧友们，我明天就把这些光盘做成ISO，发给你们\[笑眼\] ![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/5289760554/b7c2c8c279310a5511e64330bd4543a98026102d.jpg) 开始干活 我想砍死格式工厂，转了半天给我来个数据亢余循环检查 我找到了Windowsce的说明书！！！！ 超级解霸也弄好啦，也在上传 正在制作photoshop cs的iso 都没有人滋磁我吗 98+me+2000合盘  密码2u24 ps密钥在cd根目录里的cdkey里
+亲爱的吧友们，我明天就把这些光盘做成ISO，发给你们\[笑眼\] ![](https://wvbarchive.s3-ap-northeast-1.amazonaws.com/5289760554/b7c2c8c279310a5511e64330bd4543a98026102d.jpg) 开始干活 我想砍死格式工厂，转了半天给我来个数据亢余循环检查 我找到了Windowsce的说明书！！！！ 超级解霸也弄好啦，也在上传 正在制作photoshop cs的iso 都没有人滋磁我吗 98+me+2000合盘 ![](https://github.com/Ishook/wvbArchive/tree/69b9bec672a5210da6a022e943e36eb1be65e93f/连接http:/pan.baidu.com/s/1dFnKe) 密码2u24 ps密钥在cd根目录里的cdkey里
 
 ![](http://pan.baidu.com/s/1eRFSffk) nxqk 超级解霸
 
